@@ -1,0 +1,603 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>中国古典文献全文搜索</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Microsoft YaHei', '微软雅黑', Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+            padding: 40px 0;
+            background: rgba(255, 255, 255, 0.9);
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+        }
+        
+        .header h1 {
+            color: #2c3e50;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        
+        .header p {
+            color: #7f8c8d;
+            font-size: 1.2em;
+            margin-bottom: 20px;
+        }
+        
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            flex-wrap: wrap;
+        }
+        
+        .stat-item {
+            text-align: center;
+            padding: 15px;
+            background: rgba(52, 152, 219, 0.1);
+            border-radius: 10px;
+            border-left: 4px solid #3498db;
+        }
+        
+        .stat-number {
+            font-size: 1.8em;
+            font-weight: bold;
+            color: #2980b9;
+        }
+        
+        .stat-label {
+            color: #7f8c8d;
+            font-size: 0.9em;
+        }
+        
+        .search-section {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 30px;
+            border-radius: 15px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+        }
+        
+        .search-form {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        
+        .search-input {
+            flex: 1;
+            min-width: 300px;
+            padding: 15px 20px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            font-size: 16px;
+            transition: all 0.3s ease;
+        }
+        
+        .search-input:focus {
+            outline: none;
+            border-color: #3498db;
+            box-shadow: 0 0 10px rgba(52, 152, 219, 0.2);
+        }
+        
+        .search-btn {
+            padding: 15px 30px;
+            background: linear-gradient(135deg, #3498db 0%, #2980b9 100%);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: bold;
+            transition: all 0.3s ease;
+            min-width: 120px;
+        }
+        
+        .search-btn:hover {
+            background: linear-gradient(135deg, #2980b9 0%, #1f4e79 100%);
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+        }
+        
+        .filters {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            align-items: center;
+        }
+        
+        .filter-select {
+            padding: 10px 15px;
+            border: 2px solid #ddd;
+            border-radius: 6px;
+            background: white;
+            cursor: pointer;
+        }
+        
+        .results-section {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            min-height: 400px;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 60px 20px;
+            color: #7f8c8d;
+            font-size: 1.2em;
+        }
+        
+        .results-header {
+            margin-bottom: 25px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #ecf0f1;
+        }
+        
+        .results-count {
+            font-size: 1.3em;
+            color: #2c3e50;
+            font-weight: bold;
+        }
+        
+        .result-item {
+            margin-bottom: 25px;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.8);
+            border-radius: 10px;
+            border-left: 5px solid #3498db;
+            transition: all 0.3s ease;
+        }
+        
+        .result-item:hover {
+            background: rgba(255, 255, 255, 1);
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+            transform: translateY(-2px);
+        }
+        
+        .result-title {
+            font-size: 1.3em;
+            color: #2c3e50;
+            margin-bottom: 10px;
+            font-weight: bold;
+        }
+        
+        .result-meta {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 15px;
+            flex-wrap: wrap;
+        }
+        
+        .meta-tag {
+            padding: 5px 12px;
+            background: rgba(52, 152, 219, 0.1);
+            color: #2980b9;
+            border-radius: 20px;
+            font-size: 0.9em;
+            font-weight: bold;
+        }
+        
+        .result-content {
+            color: #555;
+            line-height: 1.8;
+            margin-bottom: 10px;
+        }
+        
+        .highlight {
+            background: linear-gradient(120deg, #fff3cd 0%, #ffeaa7 100%);
+            padding: 2px 4px;
+            border-radius: 3px;
+            font-weight: bold;
+            color: #856404;
+        }
+        
+        .result-path {
+            color: #7f8c8d;
+            font-size: 0.9em;
+            margin-top: 10px;
+            padding-top: 10px;
+            border-top: 1px solid #ecf0f1;
+        }
+        
+        .pagination {
+            margin-top: 30px;
+            text-align: center;
+        }
+        
+        .pagination button {
+            margin: 0 5px;
+            padding: 10px 15px;
+            border: 2px solid #3498db;
+            background: white;
+            color: #3498db;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+        
+        .pagination button:hover:not(:disabled) {
+            background: #3498db;
+            color: white;
+        }
+        
+        .pagination button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+        
+        .pagination .active {
+            background: #3498db;
+            color: white;
+        }
+        
+        .error {
+            background: rgba(231, 76, 60, 0.1);
+            border-left: 5px solid #e74c3c;
+            padding: 20px;
+            border-radius: 5px;
+            color: #c0392b;
+            margin: 20px 0;
+        }
+        
+        @media (max-width: 768px) {
+            .container {
+                padding: 10px;
+            }
+            
+            .header h1 {
+                font-size: 2em;
+            }
+            
+            .search-form {
+                flex-direction: column;
+            }
+            
+            .search-input {
+                min-width: 100%;
+            }
+            
+            .stats {
+                flex-direction: column;
+                gap: 15px;
+            }
+            
+            .result-meta {
+                flex-direction: column;
+                gap: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- 页面头部 -->
+        <header class="header">
+            <h1>📚 中国古典文献搜索引擎</h1>
+            <p>检索佛藏、儒藏、医藏、史藏等传统典籍，探索中华文化宝库</p>
+            
+            <div class="stats" id="stats">
+                <div class="stat-item">
+                    <div class="stat-number" id="total-docs">加载中...</div>
+                    <div class="stat-label">文献总数</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">10</div>
+                    <div class="stat-label">典籍分类</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number" id="index-size">计算中...</div>
+                    <div class="stat-label">索引大小</div>
+                </div>
+            </div>
+        </header>
+        
+        <!-- 搜索区域 -->
+        <section class="search-section">
+            <form class="search-form" id="searchForm">
+                <input 
+                    type="text" 
+                    class="search-input" 
+                    id="searchInput" 
+                    placeholder="输入关键词搜索古典文献，如：道德经、养生、史记..."
+                    autofocus
+                >
+                <button type="submit" class="search-btn">🔍 搜索</button>
+            </form>
+            
+            <div class="filters">
+                <label>典籍分类：</label>
+                <select class="filter-select" id="collectionFilter">
+                    <option value="">全部分类</option>
+                    <option value="佛藏">佛藏 (Buddhist Texts)</option>
+                    <option value="儒藏">儒藏 (Confucian Classics)</option>
+                    <option value="医藏">医藏 (Medical Texts)</option>
+                    <option value="史藏">史藏 (Historical Records)</option>
+                    <option value="子藏">子藏 (Masters Literature)</option>
+                    <option value="易藏">易藏 (I Ching Studies)</option>
+                    <option value="艺藏">艺藏 (Arts & Crafts)</option>
+                    <option value="诗藏">诗藏 (Poetry Collection)</option>
+                    <option value="道藏">道藏 (Taoist Texts)</option>
+                    <option value="集藏">集藏 (Collected Works)</option>
+                </select>
+                
+                <label>结果数量：</label>
+                <select class="filter-select" id="sizeFilter">
+                    <option value="10">10条</option>
+                    <option value="20" selected>20条</option>
+                    <option value="50">50条</option>
+                </select>
+            </div>
+        </section>
+        
+        <!-- 搜索结果 -->
+        <section class="results-section" id="resultsSection">
+            <div class="loading">
+                <p>🔍 输入关键词开始搜索中国古典文献...</p>
+                <p style="margin-top: 10px; font-size: 0.9em;">支持搜索书名、内容、作者等信息</p>
+            </div>
+        </section>
+    </div>
+
+    <script>
+        // Elasticsearch配置
+        const ES_URL = '/es/';
+        const INDEX_NAME = 'chinese-classics';
+        
+        // 全局变量
+        let currentPage = 0;
+        let currentQuery = '';
+        let totalHits = 0;
+        
+        // 页面加载完成后初始化
+        document.addEventListener('DOMContentLoaded', function() {
+            loadIndexStats();
+            
+            // 绑定搜索表单提交事件
+            document.getElementById('searchForm').addEventListener('submit', function(e) {
+                e.preventDefault();
+                performSearch();
+            });
+            
+            // 绑定筛选器变化事件
+            document.getElementById('collectionFilter').addEventListener('change', function() {
+                if (currentQuery) {
+                    performSearch();
+                }
+            });
+            
+            document.getElementById('sizeFilter').addEventListener('change', function() {
+                if (currentQuery) {
+                    performSearch();
+                }
+            });
+        });
+        
+        // 加载索引统计信息
+        async function loadIndexStats() {
+            try {
+                const response = await fetch(`${ES_URL}/${INDEX_NAME}/_stats`);
+                const data = await response.json();
+                
+                if (data.indices && data.indices[INDEX_NAME]) {
+                    const stats = data.indices[INDEX_NAME].total;
+                    const docCount = stats.docs.count;
+                    const sizeBytes = stats.store.size_in_bytes;
+                    const sizeMB = (sizeBytes / 1024 / 1024).toFixed(1);
+                    
+                    document.getElementById('total-docs').textContent = docCount.toLocaleString();
+                    document.getElementById('index-size').textContent = sizeMB + ' MB';
+                }
+            } catch (error) {
+                console.error('加载统计信息失败:', error);
+                document.getElementById('total-docs').textContent = '无法加载';
+                document.getElementById('index-size').textContent = '无法加载';
+            }
+        }
+        
+        // 执行搜索
+        async function performSearch(page = 0) {
+            const query = document.getElementById('searchInput').value.trim();
+            const collection = document.getElementById('collectionFilter').value;
+            const size = parseInt(document.getElementById('sizeFilter').value);
+            
+            if (!query) {
+                showError('请输入搜索关键词');
+                return;
+            }
+            
+            currentQuery = query;
+            currentPage = page;
+            
+            showLoading();
+            
+            try {
+                const searchBody = {
+                    query: {
+                        bool: {
+                            must: [
+                                {
+                                    multi_match: {
+                                        query: query,
+                                        fields: ['title^3', 'content^1', 'chapter^2'],
+                                        fuzziness: 'AUTO'
+                                    }
+                                }
+                            ],
+                            filter: collection ? [{ term: { collection: collection } }] : []
+                        }
+                    },
+                    highlight: {
+                        fields: {
+                            content: {
+                                fragment_size: 200,
+                                number_of_fragments: 2
+                            },
+                            title: {},
+                            chapter: {}
+                        },
+                        pre_tags: ['<span class="highlight">'],
+                        post_tags: ['</span>']
+                    },
+                    from: page * size,
+                    size: size,
+                    _source: ['title', 'chapter', 'collection', 'collection_en', 'book_category', 'filepath', 'char_count', 'is_classical']
+                };
+                
+                const response = await fetch(`${ES_URL}/${INDEX_NAME}/_search`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(searchBody)
+                });
+                
+                const data = await response.json();
+                
+                if (data.error) {
+                    throw new Error(data.error.reason || '搜索请求失败');
+                }
+                
+                displayResults(data);
+                
+            } catch (error) {
+                console.error('搜索失败:', error);
+                showError(`搜索失败: ${error.message}`);
+            }
+        }
+        
+        // 显示搜索结果
+        function displayResults(data) {
+            const resultsSection = document.getElementById('resultsSection');
+            const hits = data.hits.hits;
+            totalHits = data.hits.total.value;
+            
+            if (hits.length === 0) {
+                resultsSection.innerHTML = `
+                    <div class="loading">
+                        <p>😔 未找到相关文献</p>
+                        <p style="margin-top: 10px; font-size: 0.9em;">请尝试使用其他关键词或调整筛选条件</p>
+                    </div>
+                `;
+                return;
+            }
+            
+            let html = `
+                <div class="results-header">
+                    <div class="results-count">
+                        找到 ${totalHits.toLocaleString()} 个相关文献，显示第 ${currentPage * parseInt(document.getElementById('sizeFilter').value) + 1} - ${Math.min((currentPage + 1) * parseInt(document.getElementById('sizeFilter').value), totalHits)} 个结果
+                    </div>
+                </div>
+            `;
+            
+            hits.forEach(hit => {
+                const source = hit._source;
+                const highlight = hit.highlight || {};
+                
+                // 获取高亮的内容
+                const title = highlight.title ? highlight.title[0] : source.title;
+                const chapter = highlight.chapter ? highlight.chapter[0] : source.chapter;
+                const content = highlight.content ? highlight.content.join(' ... ') : '';
+                
+                html += `
+                    <div class="result-item">
+                        <div class="result-title">${title}</div>
+                        
+                        <div class="result-meta">
+                            <span class="meta-tag">${source.collection} (${source.collection_en})</span>
+                            ${source.book_category ? `<span class="meta-tag">${source.book_category}</span>` : ''}
+                            ${chapter ? `<span class="meta-tag">📖 ${chapter}</span>` : ''}
+                            <span class="meta-tag">${source.char_count.toLocaleString()} 字</span>
+                            ${source.is_classical ? '<span class="meta-tag" style="background: rgba(230, 126, 34, 0.1); color: #d68910;">📜 古文</span>' : ''}
+                        </div>
+                        
+                        ${content ? `<div class="result-content">${content}</div>` : ''}
+                        
+			    <div class="result-path"><a href="/txt/${source.filepath}" target="_blank">📁 ${source.filepath}</a></div>
+                    </div>
+                `;
+            });
+            
+            // 添加分页
+            html += generatePagination();
+            
+            resultsSection.innerHTML = html;
+        }
+        
+        // 生成分页
+        function generatePagination() {
+            const size = parseInt(document.getElementById('sizeFilter').value);
+            const totalPages = Math.ceil(totalHits / size);
+            
+            if (totalPages <= 1) return '';
+            
+            let html = '<div class="pagination">';
+            
+            // 上一页
+            html += `<button onclick="performSearch(${currentPage - 1})" ${currentPage === 0 ? 'disabled' : ''}>上一页</button>`;
+            
+            // 页码
+            const startPage = Math.max(0, currentPage - 2);
+            const endPage = Math.min(totalPages, startPage + 5);
+            
+            for (let i = startPage; i < endPage; i++) {
+                const isActive = i === currentPage ? 'active' : '';
+                html += `<button class="${isActive}" onclick="performSearch(${i})">${i + 1}</button>`;
+            }
+            
+            // 下一页
+            html += `<button onclick="performSearch(${currentPage + 1})" ${currentPage >= totalPages - 1 ? 'disabled' : ''}>下一页</button>`;
+            
+            html += '</div>';
+            return html;
+        }
+        
+        // 显示加载状态
+        function showLoading() {
+            const resultsSection = document.getElementById('resultsSection');
+            resultsSection.innerHTML = `
+                <div class="loading">
+                    <p>🔍 正在搜索中...</p>
+                    <p style="margin-top: 10px; font-size: 0.9em;">请稍候，正在检索古典文献数据库</p>
+                </div>
+            `;
+        }
+        
+        // 显示错误信息
+        function showError(message) {
+            const resultsSection = document.getElementById('resultsSection');
+            resultsSection.innerHTML = `
+                <div class="error">
+                    <strong>❌ 搜索出错</strong><br>
+                    ${message}
+                </div>
+            `;
+        }
+    </script>
+</body>
+</html>
