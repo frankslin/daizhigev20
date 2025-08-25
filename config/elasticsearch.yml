@@ -1,0 +1,43 @@
+# 集群和节点名称
+cluster.name: text-search-cluster
+node.name: node-1
+
+# 路径配置
+path.data: /var/lib/elasticsearch
+path.logs: /var/log/elasticsearch
+
+# 内存锁定
+bootstrap.memory_lock: true
+
+# 网络配置（安全：仅本地访问）
+network.host: 127.0.0.1
+http.port: 9200
+
+# 单节点模式
+discovery.type: single-node
+
+# 安全配置（开发模式）
+xpack.security.enabled: false
+xpack.security.enrollment.enabled: false
+xpack.security.http.ssl.enabled: false
+xpack.security.transport.ssl.enabled: false
+
+# 禁用ML功能节省资源
+xpack.ml.enabled: false
+
+# 索引优化配置
+indices.memory.index_buffer_size: 30%
+indices.memory.min_index_buffer_size: 96mb
+indices.queries.cache.size: 25%
+indices.fielddata.cache.size: 25%
+
+# 其他优化
+action.destructive_requires_name: true
+cluster.routing.allocation.disk.threshold_enabled: true
+cluster.routing.allocation.disk.watermark.low: 85%
+cluster.routing.allocation.disk.watermark.high: 90%
+
+# 允许跨域访问（用于Web前端）
+http.cors.enabled: true
+http.cors.allow-origin: "*"
+http.cors.allow-headers: "X-Requested-With,Content-Type,Content-Length,Authorization"
