@@ -366,7 +366,7 @@
 
     <script>
         // Elasticsearch配置
-        const ES_URL = '/es/';
+        const ES_URL = '/es';
         const INDEX_NAME = 'chinese-classics';
         
         // 全局变量
@@ -440,15 +440,65 @@
                 const searchBody = {
                     query: {
                         bool: {
-                            must: [
+                            should: [
                                 {
-                                    multi_match: {
-                                        query: query,
-                                        fields: ['title^3', 'content^1', 'chapter^2'],
-                                        fuzziness: 'AUTO'
+                                    match_phrase: {
+                                        title: { 
+                                            query: query, 
+                                            boost: 100.0 
+                                        }
+                                    }
+                                },
+                                {
+                                    match_phrase: {
+                                        content: { 
+                                            query: query, 
+                                            boost: 50.0 
+                                        }
+                                    }
+                                },
+                                {
+                                    match_phrase: {
+                                        chapter: { 
+                                            query: query, 
+                                            boost: 80.0 
+                                        }
+                                    }
+                                },
+                                {
+                                    wildcard: { 
+                                        title: {
+                                            value: `*${query}*`,
+                                            boost: 30.0
+                                        }
+                                    }
+                                },
+                                {
+                                    wildcard: { 
+                                        content: {
+                                            value: `*${query}*`,
+                                            boost: 20.0
+                                        }
+                                    }
+                                },
+                                {
+                                    match: { 
+                                        title: { 
+                                            query: query, 
+                                            boost: 5.0 
+                                        }
+                                    }
+                                },
+                                {
+                                    match: { 
+                                        content: { 
+                                            query: query, 
+                                            boost: 1.0 
+                                        }
                                     }
                                 }
                             ],
+                            minimum_should_match: 1,
                             filter: collection ? [{ term: { collection: collection } }] : []
                         }
                     },
@@ -538,7 +588,7 @@
                         
                         ${content ? `<div class="result-content">${content}</div>` : ''}
                         
-			    <div class="result-path"><a href="/txt/${source.filepath}" target="_blank">📁 ${source.filepath}</a></div>
+                        <div class="result-path"><a href="/txt/${source.filepath}" target="_blank">📁 ${source.filepath}</a></div>
                     </div>
                 `;
             });
