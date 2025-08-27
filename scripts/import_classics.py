@@ -191,11 +191,12 @@ def process_text_file(filepath, base_dir):
         
         # 处理过长的内容
         original_length = len(content)
-        if original_length > 100000:  # 100KB以上截取
-            # 保留前60000字符和后20000字符
-            content = content[:60000] + f"\n\n...[文档过长({original_length}字符)，已截取中间部分]...\n\n" + content[-20000:]
+        if original_length > 1024000:  # 1024KB以上截取
+            # 保留前400K字符和后200K字符
+            content = content[:409600] + f"\n\n...[文档过长({original_length}字符)，已截取中间部分]...\n\n" + content[-204800:]
             metadata['truncated'] = True
             metadata['original_char_count'] = original_length
+            print(f"⚠️  已截取内容过长的文件: {filepath}")
         else:
             metadata['truncated'] = False
             metadata['original_char_count'] = original_length
