@@ -1,0 +1,55 @@
+{
+  "settings": {
+    "number_of_shards": 1,
+    "number_of_replicas": 0,
+    "max_result_window": 50000,
+    "analysis": {
+      "analyzer": {
+        "ik_chinese_analyzer": {
+          "type": "ik_max_word"
+        },
+        "ik_chinese_search_analyzer": {
+          "type": "ik_smart"
+        }
+      }
+    }
+  },
+  "mappings": {
+    "properties": {
+      "title": {
+        "type": "text",
+        "analyzer": "ik_chinese_analyzer",
+        "search_analyzer": "ik_chinese_search_analyzer",
+        "fields": {
+          "keyword": {
+            "type": "keyword",
+            "ignore_above": 256
+          }
+        }
+      },
+      "content": {
+        "type": "text",
+        "analyzer": "ik_chinese_analyzer", 
+        "search_analyzer": "ik_chinese_search_analyzer"
+      },
+      "chapter": {
+        "type": "text",
+        "analyzer": "ik_chinese_analyzer",
+        "search_analyzer": "ik_chinese_search_analyzer"
+      },
+      "collection": {"type": "keyword"},
+      "collection_en": {"type": "keyword"},
+      "book_category": {"type": "keyword"},
+      "filepath": {"type": "keyword"},
+      "filename": {"type": "keyword"},
+      "char_count": {"type": "integer"},
+      "line_count": {"type": "integer"},
+      "is_classical": {"type": "boolean"},
+      "classical_score": {"type": "integer"},
+      "truncated": {"type": "boolean"},
+      "original_char_count": {"type": "integer"},
+      "file_size": {"type": "long"},
+      "indexed_at": {"type": "date"}
+    }
+  }
+}
