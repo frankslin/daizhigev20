@@ -1,7 +1,7 @@
 # 「殆知阁」中国古典文献 TXT 大全集（修正版）
 
 * [原始项目及其说明](https://github.com/garychowcmu/daizhigev20/) by [@garychowcmu](https://github.com/garychowcmu)
-* [中国古典文献全文检索工具](https://cn-classics.xishiduliu.com/)
+* [中国古典文献全文检索工具](https://daizhige.net/) https://daizhige.net/
 
 ## 检索工具部署方法
 
