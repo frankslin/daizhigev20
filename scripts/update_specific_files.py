@@ -8,13 +8,41 @@ spec = importlib.util.spec_from_file_location("import_classics", "scripts/import
 import_classics = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(import_classics)
 
-# 指定要更新的文件列表（相对路径）
-files_to_update = [
-    "集藏/小说/白圭志.txt",
-    # 在这里添加更多修改过的文件...
-]
+def read_files_list(file_list_path):
+    """从文件中读取要更新的文件列表"""
+    files_to_update = []
+    
+    if not os.path.exists(file_list_path):
+        print(f"❌ 文件列表文件不存在: {file_list_path}")
+        return files_to_update
+    
+    try:
+        with open(file_list_path, 'r', encoding='utf-8') as f:
+            for line_num, line in enumerate(f, 1):
+                line = line.strip()
+                # 跳过空行和注释行（以#开头）
+                if line and not line.startswith('#'):
+                    files_to_update.append(line)
+        
+        print(f"📄 从 {file_list_path} 读取了 {len(files_to_update)} 个文件")
+        
+    except Exception as e:
+        print(f"❌ 读取文件列表失败: {e}")
+        return []
+    
+    return files_to_update
 
 def main():
+    # 文件列表的路径，可以通过命令行参数指定，默认为 files_to_update.txt
+    file_list_path = sys.argv[1] if len(sys.argv) > 1 else "files_to_update.txt"
+    
+    # 从文件读取要更新的文件列表
+    files_to_update = read_files_list(file_list_path)
+    
+    if not files_to_update:
+        print("❌ 没有找到需要更新的文件")
+        return
+    
     es = import_classics.connect_to_elasticsearch()
     if not es:
         return
