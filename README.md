@@ -1,15 +1,36 @@
 # 「殆知阁」中国古典文献 TXT 大全集（修正版）
 
-* [原始项目及其说明](https://github.com/garychowcmu/daizhigev20/) by [@garychowcmu](https://github.com/garychowcmu)
-* [中国古典文献全文检索工具](https://daizhige.net/) https://daizhige.net/
+## 项目简介
+
+「中国古典文献全文检索引擎」是一个专门用于检索中华传统典籍的现代化搜索平台。我们致力于让古代智慧在数字时代焕发新的光彩，为研究者、学者和传统文化爱好者提供便捷、精准的文献检索服务。
+
+本站收录的文本均为简体中文。
+
+* [原始项目及其说明](https://github.com/garychowcmu/daizhigev20/) by [@garychowcmu](https://github.com/garychowcmu) 项目已停止维护，维护者无法联络
+* [中国古典文献全文检索工具 - daizhige.org](https://daizhige.org/)
+
+## 错误修正
+
+原「殆知阁」数据集已被大量研究机构用于 AI 训练。然而，我们发现该数据集中存在相当数量的错误，并且可能已经污染了中文古文语料。为避免以讹传讹，本站致力于系统性解决数据错误的问题：
+
+### 主要修正内容
+* **繁简转换错误**：在古文献中发现了相当数量的「记忆体」(实际应为「内存」)、「香港脚」（实际应为「脚气」）、「利瓦伊」（实际应为「李维」）等，这些是某些繁简转换工具造成的错误。
+* **非文献内容**：原始文本部分来自现已关闭的论坛；在复制过程中，部分文本被贴上了论坛的内容及链接。
+* **HTML及脚本**：某些文本中存在 HTML 及脚本代码，数据清洗不够精确。
+
+### 修正进展
+* **持续改进**：我们正在努力查找和修正数据集中的错误内容。如果您发现任何新的错误或有改进建议，欢迎通过 GitHub Issues 提交反馈，或者直接提交 pull requests，帮助我们提升数据质量。
+* **使用 AI 技术**：有时修复不能通过简单的全文替换实现。我们会尝试使用 AI 技术查找一些 out of place 的内容，并将其更正。
+* **与维基文库比对**：我们会与「维基文库」中收录的同样文本及古籍影印本进行比对，确保修改均有依据。
 
 ## 检索工具部署方法
 
 [本 fork](https://github.com/frankslin/daizhigev20/) 建立了一个基于 Elasticsearch 的可检索版本，包括导入脚本。
 部署方法详见[DEPLOYMENT.md](./DEPLOYMENT.md)。
 
-## 版本说明
+## 下载说明
 
-本项目会尽量修改明显由于繁简转换造成的错误文字，例如“脚气 -> 香港脚”、“内存 -> 记忆体”等。
+如需获取完整的文本文件，可通过以下方式：
 
-关于已修正和即将修正的内容错误，参见 [Issues List](https://github.com/frankslin/daizhigev20/issues?q=is%3Aissue)。
+* GitHub repo 克隆：可使用 `git clone https://github.com/frankslin/daizhigev20/` 命令将整个仓库克隆到本地。
+* GitHub pages 打包下载：访问 GitHub repo Actions 页面找到最新的 deployment，下载 artifacts 的压缩包。截至 2025 年 9 月，此压缩文件的总体积是 2.14GB。

@@ -4,7 +4,7 @@
 
 本项目基于 Elasticsearch 构建了一个中国古典文献全文搜索引擎，包含佛藏、儒藏、医藏、史藏等10个类别共计15,694个传统典籍文件，总大小约4.8GB。支持高性能全文检索和分类浏览。
 
-- [示例页面](https://cn-classics.xishiduliu.com/)
+- [示例页面 - daizhige.org](https://daizhige.org/)
 
 ### 🎯 项目特性
 
@@ -219,7 +219,7 @@ watch -n 30 'curl -s "localhost:9200/chinese-classics/_count?pretty"'
 预期导入结果：
 - **总文档数**: 15,694个
 - **索引大小**: 约10-15GB
-- **导入时间**: 2-3小时
+- **导入时间**: <1小时
 - **各藏分布**:
   - 佛藏: 5,135个文档
   - 史藏: 2,043个文档
