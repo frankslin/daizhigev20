@@ -1,0 +1,6 @@
+# File lists
+all_files.txt
+filelist.txt
+
+# Python cache
+scripts/__pycache__/
