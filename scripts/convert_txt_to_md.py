@@ -20,7 +20,7 @@ from datetime import datetime
 GITHUB_REPO_BASE_URL = "https://github.com/frankslin/daizhigev20/blob/master/"
 
 # 文件大小阈值（字节），超过此大小不转换
-MAX_FILE_SIZE = 100 * 1024  # 100KB
+MAX_FILE_SIZE = 1024 * 1024  # 1MB
 
 
 def get_file_last_commit_time(file_path):
