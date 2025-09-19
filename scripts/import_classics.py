@@ -5,11 +5,9 @@
 """
 
 import os
-import json
 import hashlib
-import re
 import yaml
-from pathlib import Path
+import re
 from elasticsearch import Elasticsearch
 from elasticsearch.helpers import bulk
 import argparse
@@ -92,6 +90,24 @@ def parse_markdown_file(content, filepath):
 
     return result
 
+def extract_markdown_headings(content):
+    """提取Markdown文档中的各级标题"""
+    headings = []
+    heading_pattern = r'^(#{1,6})\s+(.+)$'
+
+    for line_num, line in enumerate(content.split('\n'), 1):
+        match = re.match(heading_pattern, line.strip())
+        if match:
+            level = len(match.group(1))
+            title = match.group(2).strip()
+            headings.append({
+                'level': level,
+                'title': title,
+                'line_number': line_num
+            })
+
+    return headings
+
 def extract_markdown_metadata(yaml_data, content, filepath):
     """从Markdown文件的YAML元数据中提取信息"""
     metadata = {}
@@ -101,14 +117,46 @@ def extract_markdown_metadata(yaml_data, content, filepath):
         filename = os.path.basename(filepath)
         path_parts = filepath.split(os.sep)
 
+        # 提取Markdown标题结构
+        headings = extract_markdown_headings(content)
+        metadata['headings'] = headings
+
         # 从YAML中提取信息
         if yaml_data:
             # 标题处理
             title_data = yaml_data.get('title', {})
             if isinstance(title_data, dict):
-                metadata['title'] = title_data.get('zh-hant') or title_data.get('zh-hans') or filename
+                metadata['title'] = title_data.get('zh-hans') or title_data.get('zh-hant') or filename
             else:
                 metadata['title'] = str(title_data) if title_data else filename
+
+            # 作者信息处理
+            author_data = yaml_data.get('author', {})
+            if isinstance(author_data, dict):
+                # 处理多语言作者名
+                metadata['author'] = author_data.get('zh-hant') or author_data.get('zh-hans') or author_data.get('en', '')
+                metadata['author_info'] = author_data
+            elif isinstance(author_data, str):
+                metadata['author'] = author_data
+                metadata['author_info'] = {'name': author_data}
+            elif isinstance(author_data, list):
+                # 处理多个作者
+                authors = []
+                for auth in author_data:
+                    if isinstance(auth, dict):
+                        authors.append(auth.get('zh-hant') or auth.get('zh-hans') or auth.get('en', str(auth)))
+                    else:
+                        authors.append(str(auth))
+                metadata['author'] = ', '.join(authors)
+                metadata['author_info'] = author_data
+            else:
+                metadata['author'] = ''
+                metadata['author_info'] = {}
+
+            # 朝代信息
+            dynasty = yaml_data.get('dynasty')
+            if dynasty:
+                metadata['dynasty'] = dynasty
 
             # 分类信息
             category = yaml_data.get('category', '')
@@ -143,8 +191,20 @@ def extract_markdown_metadata(yaml_data, content, filepath):
                 metadata['additional_info'] = additional_info
 
         else:
-            # 没有YAML，使用文件名作为标题
-            metadata['title'] = os.path.splitext(filename)[0]
+            # 没有YAML，尝试从Markdown标题提取信息
+            if headings:
+                # 使用第一个一级标题作为标题
+                h1_headings = [h for h in headings if h['level'] == 1]
+                if h1_headings:
+                    metadata['title'] = h1_headings[0]['title']
+                else:
+                    metadata['title'] = headings[0]['title']
+            else:
+                metadata['title'] = os.path.splitext(filename)[0]
+
+            # 默认空作者信息
+            metadata['author'] = ''
+            metadata['author_info'] = {}
 
         # 从路径中提取藏和分类信息
         # 为了向后兼容，将 .md 文件名改为 .txt 记录
@@ -258,14 +318,31 @@ def extract_text_metadata(content, filepath):
                             metadata['title'] = line
                         break
         
+        # 提取Markdown标题结构
+        headings = extract_markdown_headings(content)
+        metadata['headings'] = headings
+
         # 如果没有找到标题，使用文件名（去掉.txt）
         if 'title' not in metadata:
-            title = os.path.splitext(filename)[0]
-            metadata['title'] = title
-            
+            if headings:
+                # 使用第一个一级标题作为标题
+                h1_headings = [h for h in headings if h['level'] == 1]
+                if h1_headings:
+                    metadata['title'] = h1_headings[0]['title']
+                else:
+                    metadata['title'] = headings[0]['title']
+            else:
+                title = os.path.splitext(filename)[0]
+                metadata['title'] = title
+
         # 如果没有找到章节，设为空
         if 'chapter' not in metadata:
             metadata['chapter'] = ''
+
+        # 设置默认作者信息
+        if 'author' not in metadata:
+            metadata['author'] = ''
+            metadata['author_info'] = {}
         
         # 文本统计
         if content:
@@ -443,6 +520,10 @@ def process_text_file(filepath, base_dir):
             '_id': doc_id,
             '_source': {
                 'title': metadata['title'],
+                'author': metadata.get('author', ''),
+                'author_info': metadata.get('author_info', {}),
+                'dynasty': metadata.get('dynasty', ''),
+                'headings': metadata.get('headings', []),
                 'chapter': metadata['chapter'],
                 'collection': metadata['collection'],
                 'collection_en': metadata['collection_en'],
@@ -457,6 +538,7 @@ def process_text_file(filepath, base_dir):
                 'truncated': metadata['truncated'],
                 'original_char_count': metadata['original_char_count'],
                 'file_size': file_size,
+                'file_type': 'text',
                 'indexed_at': datetime.now().isoformat()
             }
         }
@@ -495,8 +577,35 @@ def create_chinese_classics_index(es, index_name):
                         "keyword": {"type": "keyword"}
                     }
                 },
+                "author": {
+                    "type": "text",
+                    "analyzer": "ik_chinese_analyzer",
+                    "search_analyzer": "ik_chinese_search_analyzer",
+                    "fields": {
+                        "keyword": {"type": "keyword"}
+                    }
+                },
+                "author_info": {
+                    "type": "object",
+                    "enabled": True
+                },
+                "dynasty": {
+                    "type": "keyword"
+                },
+                "headings": {
+                    "type": "nested",
+                    "properties": {
+                        "level": {"type": "integer"},
+                        "title": {
+                            "type": "text",
+                            "analyzer": "ik_chinese_analyzer",
+                            "search_analyzer": "ik_chinese_search_analyzer"
+                        },
+                        "line_number": {"type": "integer"}
+                    }
+                },
                 "chapter": {
-                    "type": "text", 
+                    "type": "text",
                     "analyzer": "ik_chinese_analyzer",
                     "search_analyzer": "ik_chinese_search_analyzer"
                 },
@@ -517,7 +626,20 @@ def create_chinese_classics_index(es, index_name):
                 "truncated": {"type": "boolean"},
                 "original_char_count": {"type": "integer"},
                 "file_size": {"type": "long"},
-                "indexed_at": {"type": "date"}
+                "indexed_at": {"type": "date"},
+                "source_language": {"type": "keyword"},
+                "lastmod": {"type": "date"},
+                "source_urls": {"type": "keyword"},
+                "canonical_id": {"type": "keyword"},
+                "copyright": {"type": "text"},
+                "license": {"type": "keyword"},
+                "additional_info": {"type": "text"},
+                "file_type": {"type": "keyword"},
+                "has_yaml_metadata": {"type": "boolean"},
+                "yaml_metadata": {
+                    "type": "object",
+                    "enabled": True
+                }
             }
         }
     }
