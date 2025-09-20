@@ -1,0 +1,4 @@
+[submodule "data"]
+	path = data
+	url = git@github.com:frankslin/daizhigev20.git
+	branch = data
