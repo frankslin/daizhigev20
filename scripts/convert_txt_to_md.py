@@ -17,7 +17,7 @@ from urllib.parse import quote
 from datetime import datetime
 
 # GitHub 仓库基础 URL
-GITHUB_REPO_BASE_URL = "https://github.com/frankslin/daizhigev20/blob/master/"
+GITHUB_REPO_BASE_URL = "https://github.com/frankslin/daizhigev20/blob/data/"
 
 # 文件大小阈值（字节），超过此大小不转换
 MAX_FILE_SIZE = 1024 * 1024  # 1MB

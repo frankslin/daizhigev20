@@ -29,8 +29,8 @@ def parse_arguments():
     parser.add_argument('files', nargs='*', help='要更新的文件路径列表（相对于数据目录）')
     parser.add_argument('--from-file', '-f', help='从文件中读取要更新的文件列表（向后兼容）')
 
-    parser.add_argument('--data-dir', default='/home/ubuntu/daizhigev20',
-                       help='数据目录路径 (默认: /home/ubuntu/daizhigev20)')
+    parser.add_argument('--data-dir', default='./data',
+                       help='数据目录路径 (默认: ./data)')
     parser.add_argument('--index', default='chinese-classics',
                        help='Elasticsearch 索引名称 (默认: chinese-classics)')
 

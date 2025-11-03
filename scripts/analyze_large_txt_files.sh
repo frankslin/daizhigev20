@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 中国古典文献大文件分析脚本 (支持到100MB+)
-DATA_DIR="/home/ubuntu/daizhigev20"
+DATA_DIR="./data"
 
 echo "🔍 大文件分析 - 目录: $DATA_DIR"
 echo "📁 分析所有嵌套的 *.txt 文件 (支持到100MB+)..."

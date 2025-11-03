@@ -752,7 +752,7 @@ def show_import_stats(es, index_name, data_dir):
 
 def main():
     parser = argparse.ArgumentParser(description='导入中国古典文献到Elasticsearch')
-    parser.add_argument('--dir', default='/home/ubuntu/daizhigev20', help='数据目录路径')
+    parser.add_argument('--dir', default='./data', help='数据目录路径')
     parser.add_argument('--index', default='chinese-classics', help='Elasticsearch索引名')
     parser.add_argument('--batch-size', type=int, default=30, help='批量处理大小')
     parser.add_argument('--dry-run', action='store_true', help='仅扫描不导入')
