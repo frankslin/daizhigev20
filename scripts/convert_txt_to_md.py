@@ -20,7 +20,10 @@ from datetime import datetime
 GITHUB_REPO_BASE_URL = "https://github.com/frankslin/daizhigev20/blob/data/"
 
 # 文件大小阈值（字节），超过此大小不转换
-MAX_FILE_SIZE = 1024 * 1024  # 1MB
+MAX_FILE_SIZE = 100 * 1024 * 1024  # 100MB
+
+# Git 仓库根目录（需要在处理文件时计算）
+GIT_ROOT = None
 
 
 def get_file_last_commit_time(file_path):
@@ -29,21 +32,22 @@ def get_file_last_commit_time(file_path):
     """
     try:
         # 获取 git 仓库根目录
+        # 注意：使用当前工作目录而不是文件所在目录，避免进入子模块
         git_root_result = subprocess.run(
             ['git', 'rev-parse', '--show-toplevel'],
             capture_output=True,
             text=True,
-            cwd=os.path.dirname(os.path.abspath(file_path)) or '.'
+            cwd=os.getcwd()
         )
 
         if git_root_result.returncode != 0:
             print("警告：无法找到 git 仓库根目录，使用当前时间")
             return datetime.now().isoformat() + 'Z'
 
-        git_root = git_root_result.stdout.strip()
+        git_root = os.path.realpath(git_root_result.stdout.strip())
 
         # 计算文件相对于 git 根目录的路径
-        abs_file_path = os.path.abspath(file_path)
+        abs_file_path = os.path.realpath(file_path)
         try:
             rel_path = os.path.relpath(abs_file_path, git_root)
         except ValueError:
@@ -54,12 +58,26 @@ def get_file_last_commit_time(file_path):
         print(f"调试：git 根目录 '{git_root}'，相对路径 '{rel_path}'")
 
         # 使用 git log 获取文件的最后提交时间（作者时间）
-        result = subprocess.run(
-            ['git', 'log', '-1', '--format=%ai', rel_path],
-            capture_output=True,
-            text=True,
-            cwd=git_root
-        )
+        # 如果文件在 data/ 子模块中，需要在子模块目录中运行 git log
+        if rel_path.startswith('data/') or rel_path.startswith('data\\'):
+            # 文件在 data 子模块中
+            data_submodule_path = os.path.join(git_root, 'data')
+            # 计算相对于子模块的路径
+            submodule_rel_path = rel_path[5:]  # 移除 'data/' 或 'data\'
+            result = subprocess.run(
+                ['git', 'log', '-1', '--format=%ai', submodule_rel_path],
+                capture_output=True,
+                text=True,
+                cwd=data_submodule_path
+            )
+        else:
+            # 文件在主仓库中
+            result = subprocess.run(
+                ['git', 'log', '-1', '--format=%ai', rel_path],
+                capture_output=True,
+                text=True,
+                cwd=git_root
+            )
 
         if result.returncode == 0 and result.stdout.strip():
             # 解析 git 输出的时间格式，转换为 ISO 格式
@@ -177,35 +195,59 @@ def generate_frontmatter(input_file):
     """
     生成 YAML frontmatter
     """
+    global GIT_ROOT
+
     # 获取文件名（不含扩展名）
     filename_without_ext = os.path.splitext(os.path.basename(input_file))[0]
 
-    # 获取路径（相对路径，不含文件名）
-    file_dir = os.path.dirname(input_file)
-    # 标准化路径，移除 '.' 和处理相对路径
-    if file_dir and file_dir != '.':
-        # 移除开头的 './' 并统一使用 / 分隔符
-        file_dir = file_dir.replace('\\', '/')
-        if file_dir.startswith('./'):
-            file_dir = file_dir[2:]
-        category = '/' + file_dir if file_dir else '/'
+    # 获取 git 仓库根目录
+    if GIT_ROOT is None:
+        try:
+            # 使用当前工作目录而不是文件所在目录，避免进入子模块
+            git_root_result = subprocess.run(
+                ['git', 'rev-parse', '--show-toplevel'],
+                capture_output=True,
+                text=True,
+                cwd=os.getcwd()
+            )
+            if git_root_result.returncode == 0:
+                GIT_ROOT = os.path.realpath(git_root_result.stdout.strip())
+        except:
+            pass
+
+    # 计算文件相对于 git 根目录的路径
+    abs_file_path = os.path.realpath(input_file)
+    if GIT_ROOT:
+        try:
+            # 获取相对于 git 根目录的路径
+            rel_path = os.path.relpath(abs_file_path, GIT_ROOT)
+            # 移除文件名，只保留目录部分
+            file_dir = os.path.dirname(rel_path)
+            # 如果路径以 data/ 开头，移除它（因为 data 是子模块）
+            if file_dir.startswith('data/') or file_dir.startswith('data\\'):
+                file_dir = file_dir[5:]  # 移除 'data/' 或 'data\'
+            elif file_dir == 'data':
+                file_dir = ''
+        except ValueError:
+            # 文件不在 git 仓库中，使用原始路径
+            file_dir = os.path.dirname(input_file)
     else:
-        category = '/'  # 根目录
+        file_dir = os.path.dirname(input_file)
+
+    # 标准化路径，统一使用 / 分隔符
+    file_dir = file_dir.replace('\\', '/')
+    if file_dir.startswith('./'):
+        file_dir = file_dir[2:]
+
+    # 生成 category
+    category = '/' + file_dir if file_dir and file_dir != '.' else '/'
 
     # 生成 GitHub 仓库 URL（将 .txt 改为 .md）
     # 将路径中的中文进行 URL 编码
-    if file_dir and file_dir != '.' and file_dir:
-        # 处理相对路径
-        clean_dir = file_dir
-        if clean_dir.startswith('./'):
-            clean_dir = clean_dir[2:]
-        if clean_dir:
-            encoded_path = '/'.join(quote(part, safe='') for part in clean_dir.split('/'))
-            encoded_filename = quote(filename_without_ext + '.md', safe='')
-            github_repo_url = GITHUB_REPO_BASE_URL + encoded_path + '/' + encoded_filename
-        else:
-            encoded_filename = quote(filename_without_ext + '.md', safe='')
-            github_repo_url = GITHUB_REPO_BASE_URL + encoded_filename
+    if file_dir and file_dir != '.':
+        encoded_path = '/'.join(quote(part, safe='') for part in file_dir.split('/'))
+        encoded_filename = quote(filename_without_ext + '.md', safe='')
+        github_repo_url = GITHUB_REPO_BASE_URL + encoded_path + '/' + encoded_filename
     else:
         encoded_filename = quote(filename_without_ext + '.md', safe='')
         github_repo_url = GITHUB_REPO_BASE_URL + encoded_filename
@@ -309,11 +351,11 @@ def main():
     """主函数"""
     
     if len(sys.argv) < 2:
-        print("用法: python3 txt2md.py <输入文件.txt> [输出文件.md]")
+        print("用法: python3 convert_txt_to_md.py <输入文件.txt> [输出文件.md]")
         print()
         print("示例:")
-        print("  python3 txt2md.py document.txt")
-        print("  python3 txt2md.py document.txt output.md")
+        print("  python3 convert_txt_to_md.py document.txt")
+        print("  python3 convert_txt_to_md.py document.txt output.md")
         print()
         print("功能:")
         print("  将文本文件转换为 Markdown，确保渲染结果与原文完全一致")
