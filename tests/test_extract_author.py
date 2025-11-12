@@ -33,6 +33,7 @@ def test_derive_from_existing_author_formats_plain_entries():
 
 def test_strip_polite_suffix_is_applied():
     assert ea.strip_polite_suffix("陈函辉顿首") == "陈函辉"
+    assert ea.strip_polite_suffix("元晓师") == "元晓"
     formatted = ea.derive_from_existing_author("陈函辉顿首")
     assert formatted == ["陈函辉"]
 

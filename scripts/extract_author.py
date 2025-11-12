@@ -12,7 +12,7 @@ DYNASTY_LIST = sorted(dynasties, key=len, reverse=True)
 CONNECTOR_SYMBOLS = {"·", "•", "．", "・", "‧"}
 AUTHOR_LINE_RE = re.compile(r"^\s*author\s*:\s*(.*)$")
 AUTHOR_SPLIT_RE = re.compile(r"[，,、/；;]+")
-POLITE_SUFFIXES = ("顿首再拜", "顿首", "再拜", "拜手")
+POLITE_SUFFIXES = ("顿首再拜", "顿首", "再拜", "拜手", "师")
 PUNCT_AFTER = r"(?:[\s\n\r，,。．\.、…]|$)"
 
 
