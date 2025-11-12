@@ -31,7 +31,7 @@
 ## 检索工具部署方法
 
 [本 fork](https://github.com/frankslin/daizhigev20/) 建立了一个基于 Elasticsearch 的可检索版本，包括导入脚本。
-部署方法详见[DEPLOYMENT.md](./DEPLOYMENT.md)。
+部署方法详见[DEPLOYMENT.md](https://github.com/frankslin/daizhigev20/blob/tools/DEPLOYMENT.md)。
 
 ## 下载说明
 
