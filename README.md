@@ -6,8 +6,13 @@
 
 本站收录的文本均为简体中文。
 
-* [原始项目及其说明](https://github.com/garychowcmu/daizhigev20/) by [@garychowcmu](https://github.com/garychowcmu) 项目已停止维护，维护者无法联络
+* [原始项目及其说明](https://github.com/garychowcmu/daizhigev20/) by [@garychowcmu](https://github.com/garychowcmu) 项目已停止维护
 * [中国古典文献全文检索工具 - daizhige.org](https://daizhige.org/)
+
+## 格式转换
+
+本项目已将原始 TXT 文件全部转换为 Markdown 格式，并确保其渲染结果与原版保持一致。在此基础上，作为简单扩展，在文件头部增加了 YAML 格式的元数据。
+这一改进为后续的自动化处理、内容索引与多平台展示提供了更大的灵活性与可拓展性。
 
 ## 错误修正
 
@@ -32,5 +37,10 @@
 
 如需获取完整的文本文件，可通过以下方式：
 
-* GitHub repo 克隆：可使用 `git clone https://github.com/frankslin/daizhigev20/` 命令将整个仓库克隆到本地。
-* GitHub pages 打包下载：访问 GitHub repo Actions 页面找到最新的 deployment，下载 artifacts 的压缩包。截至 2025 年 9 月，此压缩文件的总体积是 2.14GB。
+* 若仅需获取数据文件，可使用以下命令克隆仓库 `data` 分支的最新版本：
+    ```bash
+    git clone --branch data --depth 1 https://github.com/frankslin/daizhigev20.git
+    ```
+  这将仅下载 data 分支的最新快照，不包含完整提交历史。
+* 若要进行开发（例如代码修改或生成数据），应改为克隆 `tools` 分支。`data` 分支在此情境下作为一个 Git 子模块（submodule）管理，保持与主仓库同步。
+* GitHub Pages 打包下载：访问 GitHub repo Actions 页面找到最新的 deployment，下载 artifacts 的压缩包。截至 2025 年 11 月，此压缩文件的总体积约为 2.14GB。
