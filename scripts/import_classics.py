@@ -44,19 +44,16 @@ def connect_to_elasticsearch():
         return None
 
 def safe_read_file(filepath):
-    """安全读取文件，处理各种编码"""
-    encodings = ['utf-8', 'gb2312', 'gbk', 'gb18030', 'big5', 'cp936']
-    
-    for encoding in encodings:
-        try:
-            with open(filepath, 'r', encoding=encoding, errors='ignore') as f:
-                content = f.read()
-            if content.strip():  # 确保不是空文件
-                return content
-        except (UnicodeDecodeError, IOError):
-            continue
-    
-    return None
+    """安全读取文件（仅支持 UTF-8 编码）"""
+    try:
+        with open(filepath, 'r', encoding='utf-8') as f:
+            content = f.read()
+        if content.strip():  # 确保不是空文件
+            return content
+        return None
+    except Exception as e:
+        print(f"⚠️  读取文件失败 {filepath}: {e}")
+        return None
 
 def parse_markdown_file(content, filepath):
     """解析Markdown文件，提取YAML front matter和正文"""

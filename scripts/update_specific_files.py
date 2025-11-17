@@ -92,8 +92,20 @@ def main():
     failed = 0
     
     for i, relative_path in enumerate(files_to_update, 1):
-        filepath = os.path.join(data_dir, relative_path)
-        print(f"[{i}/{len(files_to_update)}] 处理: {relative_path}")
+        # 自动去除路径开头的 data_dir 前缀（如果存在）
+        # 这样支持两种用法：
+        # 1. python script.py "子藏/类书/xxx.md"
+        # 2. python script.py "data/子藏/类书/xxx.md"
+        clean_path = relative_path
+        for prefix in [data_dir + '/', data_dir]:
+            if clean_path.startswith(prefix):
+                clean_path = clean_path[len(prefix):]
+                if clean_path.startswith('/'):
+                    clean_path = clean_path[1:]
+                break
+
+        filepath = os.path.join(data_dir, clean_path)
+        print(f"[{i}/{len(files_to_update)}] 处理: {clean_path}")
         
         if not os.path.exists(filepath):
             print(f"  ❌ 文件不存在")
