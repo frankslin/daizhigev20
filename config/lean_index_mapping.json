@@ -6,10 +6,14 @@
     "analysis": {
       "analyzer": {
         "ik_chinese_analyzer": {
-          "type": "ik_max_word"
+          "type": "custom",
+          "tokenizer": "ik_max_word",
+          "filter": ["lowercase"]
         },
         "ik_chinese_search_analyzer": {
-          "type": "ik_smart"
+          "type": "custom",
+          "tokenizer": "ik_smart",
+          "filter": ["lowercase"]
         }
       }
     }
@@ -29,7 +33,7 @@
       },
       "content": {
         "type": "text",
-        "analyzer": "ik_chinese_analyzer", 
+        "analyzer": "ik_chinese_analyzer",
         "search_analyzer": "ik_chinese_search_analyzer"
       },
       "chapter": {
