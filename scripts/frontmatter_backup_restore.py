@@ -166,8 +166,33 @@ from pathlib import Path
 from typing import Dict, Any, List
 import yaml
 import re
-from datetime import date, datetime
+from datetime import date, datetime, timezone, timedelta
 import hashlib
+
+
+class FrontmatterDumper(yaml.SafeDumper):
+    """自定义 YAML Dumper，保持缩进与特定字段的流式数组格式。"""
+
+    FLOW_STYLE_KEYS = {"author_cbdb_ids"}
+
+    def increase_indent(self, flow=False, indentless=False):
+        # 避免序列缩进丢失，保持 key 下列表缩进。
+        return super().increase_indent(flow, False)
+
+    def represent_mapping(self, tag, mapping, flow_style=None):
+        value = []
+        node = yaml.MappingNode(tag, value, flow_style=flow_style)
+        for item_key, item_value in mapping.items():
+            node_key = self.represent_data(item_key)
+            node_value = self.represent_data(item_value)
+            if (
+                isinstance(item_key, str)
+                and item_key in self.FLOW_STYLE_KEYS
+                and isinstance(node_value, yaml.SequenceNode)
+            ):
+                node_value.flow_style = True
+            value.append((node_key, node_value))
+        return node
 
 
 class FrontmatterManager:
@@ -187,8 +212,9 @@ class FrontmatterManager:
             self.base_dir = Path(base_dir)
 
         # 配置 YAML 以保持多行字符串格式
-        self.yaml_dumper = yaml.SafeDumper
+        self.yaml_dumper = FrontmatterDumper
         self.yaml_dumper.add_representer(str, self._str_representer)
+        self.yaml_dumper.add_representer(datetime, self._datetime_representer)
 
     @staticmethod
     def _str_representer(dumper, data):
@@ -197,6 +223,19 @@ class FrontmatterManager:
             # 对于多行字符串，使用 literal style (|)
             return dumper.represent_scalar('tag:yaml.org,2002:str', data, style='|')
         return dumper.represent_scalar('tag:yaml.org,2002:str', data)
+
+    @staticmethod
+    def _datetime_representer(dumper, data: datetime):
+        """以 ISO 8601 格式输出 datetime，优先使用 Z 表示 UTC。"""
+        if data.tzinfo is None:
+            iso = data.isoformat()
+        else:
+            offset = data.utcoffset()
+            if offset == timedelta(0):
+                iso = data.astimezone(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
+            else:
+                iso = data.isoformat()
+        return dumper.represent_scalar('tag:yaml.org,2002:timestamp', iso, style='')
 
     def extract_frontmatter(self, file_path: Path) -> tuple[Dict[str, Any], str]:
         """
@@ -246,13 +285,12 @@ class FrontmatterManager:
         return obj
 
     def _restore_dates(self, obj: Any) -> Any:
-        """递归还原 ISO 字符串为 date/datetime，尽量保持时区信息。"""
+        """递归还原 ISO 字符串为 date/datetime，保持稳定的 YAML 输出格式。"""
         if isinstance(obj, dict):
             return {k: self._restore_dates(v) for k, v in obj.items()}
         if isinstance(obj, list):
             return [self._restore_dates(v) for v in obj]
         if isinstance(obj, str):
-            # datetime (含可选时区) or date
             if re.match(r'^\d{4}-\d{2}-\d{2}[T ]\d{2}:\d{2}:\d{2}(\.\d+)?(Z|[+-]\d{2}:\d{2})?$', obj):
                 try:
                     iso_str = obj.replace('Z', '+00:00')
@@ -290,7 +328,8 @@ class FrontmatterManager:
                 Dumper=self.yaml_dumper,
                 allow_unicode=True,
                 sort_keys=False,
-                default_flow_style=False
+                default_flow_style=False,
+                indent=2
             )
 
             # 组合完整文件内容
@@ -302,14 +341,17 @@ class FrontmatterManager:
         except Exception as e:
             print(f"错误：无法写入文件 {file_path}: {e}", file=sys.stderr)
 
-    def backup_all_frontmatter(self, output_file: str, data_dir: str = None) -> int:
+    def backup_all_frontmatter(
+        self,
+        output_file: str,
+        data_dir: str = None,
+    ) -> int:
         """
         备份所有 markdown 文件的 frontmatter 到 JSON 文件
 
         Args:
             output_file: 输出 JSON 文件路径
             data_dir: 数据目录，默认为 base_dir/data
-
         Returns:
             处理的文件数量
         """
@@ -351,13 +393,19 @@ class FrontmatterManager:
         print(f"\n成功备份 {count} 个文件的 frontmatter 到: {output_path}")
         return count
 
-    def restore_all_frontmatter(self, input_file: str, dry_run: bool = False) -> int:
+    def restore_all_frontmatter(
+        self,
+        input_file: str,
+        dry_run: bool = False,
+        include_daizhige_id: bool = False,
+    ) -> int:
         """
         从 JSON 文件恢复所有 frontmatter 到原始 markdown 文件
 
         Args:
             input_file: 输入 JSON 文件路径
             dry_run: 如果为 True，只显示将要修改的文件，不实际修改
+            include_daizhige_id: 是否恢复 __daizhige_id 字段
 
         Returns:
             恢复的文件数量
@@ -396,6 +444,8 @@ class FrontmatterManager:
             else:
                 # 写回 frontmatter
                 restored = self._restore_dates(frontmatter)
+                if not include_daizhige_id and isinstance(restored, dict):
+                    restored.pop('__daizhige_id', None)
                 self.write_frontmatter(file_path, restored, current_content)
 
             count += 1
@@ -490,6 +540,12 @@ def main():
     )
 
     parser.add_argument(
+        '--include-daizhige-id',
+        action='store_true',
+        help='恢复时写入 __daizhige_id 字段'
+    )
+
+    parser.add_argument(
         '--dry-run',
         action='store_true',
         help='模拟运行，不实际修改文件（用于 restore 命令）'
@@ -520,7 +576,8 @@ def main():
 
         count = manager.restore_all_frontmatter(
             input_file=args.input,
-            dry_run=args.dry_run
+            dry_run=args.dry_run,
+            include_daizhige_id=args.include_daizhige_id,
         )
 
         return 0 if count > 0 else 1
