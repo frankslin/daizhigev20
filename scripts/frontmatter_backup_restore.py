@@ -252,7 +252,7 @@ class FrontmatterManager:
                 content = f.read()
 
             # 匹配 frontmatter (以 --- 开始和结束)
-            pattern = r'^---\s*\n(.*?)\n---\s*\n(.*)$'
+            pattern = r'^---[ \t]*\n(.*?)\n---[ \t]*\n(.*)$'
             match = re.match(pattern, content, re.DOTALL)
 
             if not match:
