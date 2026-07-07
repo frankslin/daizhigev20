@@ -1,0 +1,100 @@
+
+{|style="width:100%; margin-bottom:0px; border:1px solid #AADDAA; background-color: #E4F2E4; text-align:center;" class="ws-header"
+|-
+| class="noprint" style="width:25%; text-align:left; font-size:small;" |←[[../卷0911|卷九百十一]]
+|style="width:50%;" |'''全唐文'''
+| class="noprint" style="width:25%; text-align:right; font-size:small;" |[[../卷0913|卷九百十三]]→
+|}
+{|style="width:100%; background:#F2F9F2; font-size:small; border-bottom:1px solid #D5ECD5" class="ws-header"
+|- 
+|<div style="color:#464646"><ul id="plainSister" style="display:inline-block; font-size:93%; line-height:normal; list-style-type:none; list-style-image:none; list-style-position:outside; border:1px solid var(--border-color-base,#AAA); float:right; clear:right; margin:0.5ex 0.5ex 0.5ex 0.5ex; padding:0.0ex 0.0ex 0.0ex 0.0ex; background-color:var(--background-color-base,#FFFFFF);color: inherit;"><li class="noprint sisitem"><span class="sisicon" style="padding-right:1ex;">[[Image:Wikimedia-logo.svg|frameless|18px|link=Special:sitematrix|alt=姊妹计划]]</span>[[Special:sitematrix|姊妹计划]]: [[d:Q85537096|数据项]]</li></ul> </div>
+|}__NOEDITSECTION__[[category:Robot made]]
+{|style="width:100%; margin-bottom:1px; border:1px solid #D6C5C5; background:#FAF8F8;text-align:center" 
+|-
+| 这是一个自动生成的页面，需要人工复查。复查后，请移除此模板。
+|}
+=無行=
+無行，乾封中荊州等界寺沙門。
+==[[荊南戒壇舍利讚]]==
+餘等登趾荊岑，搜元秦嶺。承律謨於上德，聞所未聞；稟清範於靈壇，日新日損。是以皇覺慈訓，宏之在人，祇樹高風，幽心祥感。幸逢嘉會，瘞靈骨於福壇；元綱載維，想德愷之未遠。不勝手舞，景仰神光，敢述元猷，乃為讚曰：
+
+覺智圓明，應物唯靈。非滅示滅，無生現生。為人演法，三學開津。場壇肅穆，戒德氤氳。金河晦影，鶴樹澄神。能仁散體，多寶全身。奇光昭折，嘉瑞攸陳。二端尚在，八斛猶均。厥後無憂，爰初啟信。近護分光，靈墳是鎮。靈墳現奇，震嶺標基。扶風散彩，淮海騰輝。粵自荊岫，尋真太一。希世之風，載揚茲日。壇模山像，登頓有秩。鎮以遣身，幽誠雲畢。願言遐曠，克念崇尚。識鏡澄明，心河靜浪。庶劫名之方消，覿神珠於妙相。
+=道世=
+道世，字元惲，避太宗偏諱以字行。俗姓韓氏，其先伊闕人。祖代因官為京兆人。年十二，出家青龍寺。顯慶中詔住慈恩寺。復詔總持西明寺。編《法苑珠林》，至總章元年畢功。
+==[[辨道經真偽表]]==
+竊聞白馬東遊，三藏創茲而起；青牛西逝，二篇自此而興。或闡元元以化民，或明空空而救物。檢之圖牒，指掌可知。所以發唱顯宗，終乎此世。釋教翻譯，時代炳然，文史備彰。黎民不惑。至如道家元籍，斯則不然。唯老子二篇，李聃親闡。自餘經制，皆雜凡情。何者？前漢王褒造《洞元經》，後漢張陵造《靈寶經》及章醮等二十四卷，吳葛孝先造《上清經》，晉世王浮造《化胡經》。又鮑靖造《三皇經》，齊朝陳顯明造《六十四真步虛經》，梁陶宏景造《太清經》及《眾醮儀》十卷，周武、張賓之、焦子順、馬翼、李運挑攬佛經一千餘卷，隋輔惠祥改《涅槃經》為書《長安經》。《笑道論》曰：道家妄注諸子三百五十卷為道經。又按漢明帝時，褚善信等總將道經諸子書等三十七部七百四十四卷。晉葛洪《神仙傳》云：老教所有度世消災之法，凡九百三十卷，符書等七十卷。宋太始七年，陸修靜答明帝云：「道家經書並藥方符圖等一千二百二十八卷」，雲一千九十卷已行於世，一百三十八卷猶在天宮。又檢元都目錄，妄取《藝文誌》書名，矯注八百八十四卷為道經。今《元都經》目雲，依中陸氏所上之目，乃有六千三百六十三卷。雲二千四十卷見有其本，四千三百二十三卷並未見。據此前數目有無不同，虛妄明矣！增加卷目，添足篇章，依傍佛經，改頭換尾，或言名山唱出，或雲仙洞飛來。何乃黃領獨知，英賢不睹？書史無聞，典籍不記？請問道士後世之經，為是老子別陳？為是天尊更說？縱其說也，應有時方。師資說處，代年邦月，複是如何？如其有據，容可流行。若也妄言，理須焚翦。伏願當今明朝雲雲。
+==[[諸經要集序]]==
+原夫法身一相，瞻仰異容，正教無偏，說聽殊旨。故師有等兩之況，弟子有異聞之說，良以隨機授與，逐器淺深。至如十二分教之大綱，八萬法門之廣網，龍宮西蓄，未盡怒林之知；象駕東馳，豈窮手葉之誨？是以不遊大海，未睹沃日之奇；不仰泰山，靡覿幹霄之狀！得驪龍之珍，乃驗魚目之非寶；聽黃鍾之節，方知擊缶之為細。故知釋典幽宗，聖凡所尚，實人天之秘寶，越儒墨之希聲。威振大千，光超巨億，益覃沙界，功逾塵劫。宏濟之術，其大矣哉！但時緣未會，感通有殊。暨晨林變彩，宵夢啟徵，創開白馬之基，漸被赤烏之歲。聖跡遐感，年逾六百，道俗蒙益，等同一子，慨正像侵移，沿流末代，凡情闇短，器識昏迷，日有澆醨，教沈道喪。所以彝章訛替，教跡淪胥，文句浩汗，卒難尋覽。故於顯慶年中，讀一切經，隨情逐要，人堪行者，善惡業報，條出一千，述篇三十，勒成兩帙，冀道俗流行，傳燈有據。敬尋釋典深奧，非淺識之所知；出俗幽微，豈滯惑而能辯。良由海大舟輕，山高塵眇，操刀易割，制錦難成。不揆庸識，妄談秘典，輒樹題目，更增愧恧矣！
+=洪滿=
+洪滿，咸亨中潞州法興寺沙門。
+==[[大唐故贈司徒荊州大都督兗安二州都督鄭絳潞三州刺史上柱國鄭惠王石記]]==
+王諱某，字某，隴西狄道人也。曾祖太祖景皇帝。祖元皇帝。父高祖太武皇帝。王即太武皇帝之第十三子。往任潞州日，於此山奉為先聖敬造石舍利塔壹所，下並有敕賜舍利骨叁漆粒，造藏經三千卷。觀夫大造遠契，洪猷永貞，庶績咸熙，彝倫式敘。莫不分茅土，建諸侯，延帝子於維藩，降天孫於伯牧者矣。
+
+伏惟大王通源聖澤，寵位皇華，鬆姿孤堅，玉氣柔潤。鎮靜方嶽，聲政洽聞，都督荊安，惟德是順，出守絳潞，非賢勿居。即何暮海沂之謠，不足儔其匹也。而乃洗心覺路，虔誠妙門。慈林山中，雕礱寶塔；智乘寺所，裝飾真容。藻繪具周，慶讚將畢，洪滿親承教旨，躬奉綸言。以拙補勤，猥當檢校，恐河海傾竭，陵谷變移，謹件先皇子孫，勒諸貞石。
+=懷素=
+懷素，俗姓范氏，其先南陽人。父強為左武衛長史，遂為京兆人。貞觀十九年從元奘出家，居宏濟寺。上元三年，詔住西太原寺。尋歸西京。卒年七十四。
+==[[四分僧羯磨序]]==
+原夫鹿苑龍城，啟屍羅之妙躅；象岩鷲嶺，開解脫之元宗。於是三千大千，受清涼而出火宅；天上天下，乘戒筏而越迷津。內眾於是敷榮，外徒由斯安樂。其後韜真細氎，多聞折軸之憂；揜正微言，罕見浮囊之固。即有飲光秀出，維絕紐而虛求；波離聿興，振隤網而幽讚。慧炬於焉重朗，戒海由是再清。其律教也宏深，固難得而遍舉。此羯磨者，則紹隆之正術，匡護之宏規。宗緒歸於五篇，濫觴起於四分，實菩提之機要，誠涅槃之津涉者也。
+
+素以銳思弱齡，留情斯旨。眇觀至教，式考義途，亟曆炎涼，庶無大過誤耳。然自古諸德，取解不同，各述異端，總有五本。一本一卷，曹魏鎧律師於《許都集》。一本一卷，曹魏曇諦於《雒陽集》。一本一卷，元魏光律師於《鄴下集》。一本兩卷，隋願律師於并州撰。一本一卷，唐宣律師於京兆撰。素於諸家撰集，莫不研尋，校理求文，抑多乖舛。遂以不敏，輒述幽深，分為三卷，勒成一部，庶無增減，以適時機。祇取成文，非敢穿鑿。唯願戒珠增照，葉日月而齊明；係草傳芳，與天地而同朽。後之覽者，知斯誌焉。
+==[[四分比邱戒本序]]==
+夫戒者，迺是定慧之宏基，聖賢之妙趾，窮八正之道，盡七覺之源。然既樹五制之良規，傳須獲實；揚六和之清訓，覺者知詮。竊尋流行，總有四本，據其理雖複同，會其文則有異。致使宏揚失於宗敘，修奉乖於行儀，虧鹿野之微言，紊龍城之要旨。故今詳檢律本，參驗戒心，依於正文，錄之如左。庶使順菩提之妙道，成實相之嘉謀，作六趣之舟航，為三乘之軌躅者也。
+==[[食魚帖]]==
+老僧在長沙食魚，及來長安城中多食肉，又為常流所笑，深為不便。故久病，不能多書，實愧予報。諸公興善之會，當得扶羸也。即日懷素藏真白。
+=法才=
+法才，儀鳳中法性寺沙門。
+==[[光孝寺瘞髮塔記]]==
+佛祖興世，信非偶然。昔宋朝求那跋佗三藏建茲戒壇，豫讖曰：「後當有肉身菩薩受戒於此。」梁[[:Category:502年 (提及)|<span title="502年">天監元年</span>]][[Category:502年 (提及)]]，又有梵僧智藥三藏航海而至，自西竺持來菩提樹一株，植於戒壇前。立碑云：「吾過後一百六十年，當有肉身菩薩來此樹下，開演上乘，度無量眾，真儒佛心印之法王也。」今能禪師正月八日抵此，因論風幡語，而與宗法師說無上道。宗踴躍忻慶，昔所未聞。遂詰得法端由，於十五日，普會四眾，為師祝髮。二月八日，集諸名德，受具足戒。既而於菩提樹下，開單傳宗旨，一如昔讖。法才遂募眾緣，建茲浮屠，瘞禪師髮。一旦落成，八面嚴潔，騰空七層，端如湧出。偉歟禪師！法力之厚，彈指即遂，萬古嘉猷，巍然不磨。聊敘梗概，以紀歲月云。[[:Category:676年 (提及)|<span title="676年">儀鳳元年</span>]][[Category:676年 (提及)]]歲次丙子吾佛生日，法性寺住持法才謹識。
+=復禮=
+復禮，俗姓皇甫氏，出家住興善寺。永隆二年，詔問釋典稽疑十條。復禮撰《十門辨惑論》三卷上進。
+==[[十門辨惑論序]]==
+權文學聲冠應行，地參園綺，縉紳嘉其令望，緇素挹其芳猷。而頃著十疑，幹我二諦。公孫生之聰辯，自昔難酬；舍利子之雄才，嗟今莫擬。豈當仁而抗議，試言誌以成文，必也正名乎？稱之曰「十門辯惑」。雖詩雲勸誡，蔽之可幾乎一言，而法唯秘密，述之敢忘乎三轉？遂取類觀象，載盈卷軸，煩而無當，有愧知音者焉。
+=圓測=
+圓測，永隆末京師西明寺沙門。
+==[[造塔功德經序]]==
+夫塔者梵之稱，譯者謂之墳，或方或圓，厥制多緒，乍琢乍璞，文質異宜。並以封樹遺靈，扃鈴法藏，冀表河沙之德，庶酬塵劫之勞。豈伊弓劍衣冠，言申永慕，禹陵孔壁，用顯緘藏而已哉！將有量等大千，覆三界而高梵世；取均庵果，偶棗葉而譬針鋒。洪纖兩途，福應無二；大小千計，淨心終一。何隻黃金白玉，架迥爭暉；火齊水精，浮空競彩。夕震祥飆之響。入鏤鐸以流清；晨霏仙露之甘，上雕盤以凝泫。至乃位隆三果，勳重四禪。高升有頂之宮，行屆無災之地，斯教之宏旨也。此經以永隆元年冬十一月十五日，請天竺法師地婆訶羅與西明寺沙門圓測等五人，於宏福道場奉詔宣譯，至其年十二月八日終其文義，庶斯法寶，周給大千。俾彼慧燈，照融三界雲爾。
+=靈廓=
+靈廓，永昌時沙門。
+==[[唐宣州刺史陶府君德政碑]]==
+（碑前闕兩行半計一百十六字）高躅者惟（闕一字）明明（闕五十六字）周（闕六字）尚（闕一字）輔（闕二字）茂（闕七字）擒祥金車（闕四字）祖（闕三字－）任（闕七字）垂仁位居（闕三十二字）州刺史（闕一字）陵郡開國公食邑七百戶。祖諱昱，梁衡山郡太守。（闕十九字）上儀同三司，（闕三字）三州刺史，（闕二十三字）湛叔度之（闕一字）陂（闕一字）雲千里摶風九萬（闕二字）珠之（闕一字）器宏略（闕十九字）崇班（闕二字）仁（闕一字）方膺厚秩（闕三字）武異代同榮。父諱瓚。梁著作隨西（闕一字）司功（闕三字）朝（闕一字）州清池縣令介州司馬上柱國丹陽縣開國公。月宇幹峙（闕六字）山（闕十三字）兩儀之（闕一字）氣黃中玉潤，應九德之淳和。林林服武庫之鋒，灼灼（闕一字）翰林之（闕一字）曩者伏（闕一字）宏贍方（闕一字）著作之榮（闕三字）高言從展驥之職。而芳徽懿範，（闕十字）通（闕四字）州刺史安西都護上柱國燕容縣開國公，局度端凝，幹能強濟，量包江海，氣蘊風雲。孕彼人英，（闕一字）茲天爵。委質從政，踐丹地而光緝帝猷；露冕頒條，辟彤帷而宏（闕五字）辟房之故事，則（闕一字）冠當時。嗣伯舉之高蹤，迺榮超望表，馮野王之兄弟。璧合珠聯，潘安仁之（闕一字）德；花明錦繢，豈與夫八龍勝藹。照灼前書，兩鳳飛英，鏘洋後葉而已。公積慶藍田，耿長虹之（闕二字）分枝（闕一字）菀，挺（闕一字）日之（闕六字）天姿韶亮，儼乎風骨。（闕一字）川三篋，洞曉神機，洛陽萬卷，暗符靈府。言泉瀉態，接翰海以疏瀾；（闕一字）圃含葩，擁詞條而振縟。玉帳金壇之妙，回鸞返鵲之奇，綠沈明月之（闕五字）之刃（闕二字）懷抱，囊括古今，（闕一字）萬善於心台，問群言於玉吻。晉司空之博物，才敷辯劍之言；魯司寇之多聞，猶述對日之說。含章（闕二字）豈曰同年，既而漸陸遷鶯。即撫翔鴆之化，登（闕七字）之（闕一字）至總章元年，特授使持節廓州諸軍事守廓州刺史，散官如故。總章二年授使持節渭州諸軍事渭州刺史，散官如故。至鹹亨元年（闕一字）使持節都督十五州諸軍事守池州刺史，（闕十一字）演雅克劭，幹略兼優，曆職（闕二字）才挺仁明之譽；攝官方鎮，載彰撫馭之材。即試為真，允光朝命。六年轉授，（闕二字）都督七州諸軍事守都州刺史，散官如故。詔云：體質（闕十字）克播威（闕九字）其年轉授使持節許州諸軍事守許州刺史，散官如故。至鹹亨五年授中散大夫使持節都督四州諸軍事守秦州都督。詔云：器識沈敏，理懷開（闕十四字）孤（闕七字）崇朝（闕二字）秩奧藩至上元二年，授使持節始州諸軍事守始州刺史，散官如故。既而綬結（闕五字）花之院；印回龜紐，光浮蓮葉之津。（闕一字）仁則（闕二字）春風（闕一字）教則（闕七字）寄（闕四字）至儀鳳四年，授中大夫使持節都督四州諸軍事守梁州刺史，散官如故。至調露元年授使持節恒州諸軍事守恒州刺史，散官如故。詔云：（闕一字）質端（闕二字）用強（闕十七字）審官求材，實資僉議。至宏道元年，轉授使持節宣州諸軍事守宣州刺史，（闕四字）如故。公迺（闕二字）馳傳，應八命以遐臨；建節飛驂，綜七（闕一字）而（闕二十二字）私書（闕二字）每杏花春縟，勤黛耜於龍鱗；堦蟀秋吟，整鵷紋於錦室。鯉庭聞訓，（闕五字）之（闕一字）圜土（闕二字）怪氣息長（闕一字）之阪，三辰既朗，笑祖逖之（闕二十七字）左雄之廉儉，六條備舉，化軼兩岐，百城仰德。恩隆五袴，倉廩（闕一字）實（闕三字）行四（闕三字）父之歡。千里浹神明之訓，家殷俗阜（闕三十字），千群（闕一字）馬（闕三字）之陣（闕一字）沙萬計霜戈騰照日之鋒。自謂（闕二字）九（闕七字）兩柄雄據一方。品彙嗷然，側足無地。公以（闕五字）奉詔（闕六字）風（闕一字）草（闕六字）振羽字遙飛低（闕一字）回塗指日，（闕一字）屆遂乃躬率子弟，架禦黎，示以禍福之門，（闕一字）以短長之（闕一字）溫（闕一字）一灑，人思挾纊之恩；美喻才霑，士積投醪之（闕一字）斷（闕一字）飛灰之（闕九字）之（闕三字）四馬。公乃運不測之深智，縱無穹之遠圖，或左犄而扼其喉，或右粗以燃其腹。提戈擐甲，接（闕三字）一鼓騰威，九嬰俄戮，斯實天波廣運廟略（闕二十二字）之績既覃飲至之歌方永。若乃忠為令德，孝實天經。非忠無以奉帝圖，非孝何以通幽顯？豈與王（闕一字）淚柏，宏演納肝，總而為言，公實（闕一字）矣！況（闕十二字）規挹清瀾而結戀。雙桐藺景，曳履之響由存；五柳低陰，納駟之聲尚在。而懷章舊邸，遽踐通德之門，（闕二字）旋鄉，還履貴遊之路。往者相如入蜀，珂喧濯錦之津；買臣（闕二字）磬駭藏符之（闕二字）若蓬山羽客，振手長辭，桂陽仙鶴，留歌永逝。至垂拱四年轉授使持節相州諸軍事相州刺史，勳封如故。詔云：襟情敏裕，器局恬和。早分符瑞之職，曆授方隅之任。其年十月（闕三字）州刺史加兼（闕五字）封（闕二字）縣開國侯。詔云：誌識沈敏，格器端和。早昇榮祿，頻參重寄。論功比德，何其謬歟？迺有野逕樵夫，江皋逸客，（闕三字）子服冕王孫，相與抗聲。各揚言曰： 「夫立功（闕四字）寄於（闕九字）播（闕二字）乎（闕一字）素豈使歸軿儼蓋，攀轅無可逮之悲。去鷁騰漪，挽軸有傷心之痛，道士陶（闕一字）僧道元、僧曇紹、僧惠（闕一字）僧宏（闕一字）僧智矩、僧元濟、僧惠幹、周元允、陶紹真。陸（闕十九字）及州縣吏人等六萬餘戶，惜棠陰之易遠，徒留勿翦之詩。（闕一字）日禦（闕一字）難羈，空切銷魂之賦。若不（闕一字）茲紺（闕一字）無以絢彼清猷，庶使寰海揚塵，而德聲無絕。銘曰：
+
+（闕三字）胄伊祁命族，派演瓊（闕一字）枝分若木。跡膺星象，靈摛嶽瀆，左貂右蟬，丹輪朱轂。（其一）
+
+龍生渥水，玉產藍田，誕茲人傑，孕此英賢。匡周翼漢，裂壤開壥，蛇蟠結組，龜紐乘蓮。（其二）
+
+天縱挺生，黃中通理，（闕二字）九棘，功（闕一字）四履。珥筆龍扃，含香帝扆，基仁踐孝，淵渟巒峙。（其三）
+
+藝殫元圃，學富蓬台。花箋（闕五字）開碧雞雄辯，雕虯逸才；吞應納謝，含鄒孕枚。（其四）
+
+建節班條，褰襜問俗，恩歸五袴，（闕一字）存（闕四字）如（闕一字）捐（闕一字）似粟青梧鳳丹，黃沙草綠。（其五）
+
+愛洽惸嫠，信霑童馬，懷忠據德，矜孤恤寡。蝗移獸去，錦開鴆下，雊麥分岐，吟蟬被野。（其六）
+
+馳驂故裏，懷章舊館，喧盧靜夜，鳴雞警旦。榮慶兩歸，簪紱雙（闕八字）岸。（其七）
+
+來暮淒歌，去思纏想。勳銘鼐鼎，恩留葦杖。日新月故，風歸雲往。俾令範與嘉聲，永鏤勣於窮壤．（其八）
+=誌靜=
+誌靜，永昌中定覺寺沙門。
+==[[佛頂尊勝陀羅尼經序]]==
+守真<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>者，繩繩用之<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕三字）<span style="color:transparent;font-size:0px">〉</span></small>味禪悅者，湯湯酌之而難<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>潔冰淨，光映涅槃之山；<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>泠玉華，源流功德之水。上以灑甘露，下以泛慈航，拔乎生老病死，拯乎胎卵濕化，則是我沙門雄猛大師法王<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕二字）<span style="color:transparent;font-size:0px">〉</span></small>金輪帝孫淨飯王子者也。<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>其超三界，騰九天，置大地於爪甲，納須彌於毛孔，引眾生於彼岸。飭駕三車，照群聾於他方；了開千眼。於是闡無上道，啟不二門。<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>大雲而群山共滋，<span class="inline-unihan" style="border-block-end: 1px dotted; font-variant: normal;cursor: help; font-family: sans-serif, 'FZSongS-Extended', 'FZSongS-Extended(SIP)', 'WenQuanYi Zen Hei Mono', 'BabelStone Han', 'HanaMinB', 'FZSong-Extended', 'Arial Unicode MS', Code2002, DFSongStd, 'STHeiti SC', unifont, SimSun-ExtB, TH-Tshyn-P0, TH-Tshyn-P1, TH-Tshyn-P2, Jigmo3, Jigmo2, Jigmo, ZhongHuaSongPlane15, ZhongHuaSongPlane02, ZhongHuaSongPlane00, 'Plangothic P1', 'Plangothic P2';" title="字符描述：⿱雨鮮 &#10;※如果您看到空白、方塊或問號，代表您的系統無法顯示此字元。">-{𩆵}-</span>法雨而<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>花皆潤。般若根茂<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕五字）<span style="color:transparent;font-size:0px">〉</span></small>螻蟻菩提<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕六字）<span style="color:transparent;font-size:0px">〉</span></small>於草木<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕六字）<span style="color:transparent;font-size:0px">〉</span></small>之袤其<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕八字）<span style="color:transparent;font-size:0px">〉</span></small>京須開<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕八字）<span style="color:transparent;font-size:0px">〉</span></small>眾敷寶<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕八字）<span style="color:transparent;font-size:0px">〉</span></small>信鼓龍女<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕八字）<span style="color:transparent;font-size:0px">〉</span></small>八音雲王雨花馥芳<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>香<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>數里河嶽為之震動。<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕二字）<span style="color:transparent;font-size:0px">〉</span></small>於焉悚怛，將謂<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>會同共宣說《佛頂尊勝陀羅尼咒》者也。俾其病者愈，凶者吉，愚者惠，虛者實。乾<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>婆之少遇，已焚解脫之香。<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>陀羅之乍聞，更入慈悲之<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>暨乎昆蟲啟蟄，蟊螣將飛。一聆雅音，生乎天垂。矧乎嚴<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>香華稽首歸信，祈無量壽國，登不死福<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>夫何難哉！日者信厚居<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>安定皇甫公王諱賓少年<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>長劍，壯歲追酒徒，聲如震雷。材可扛鼎。言談多逐日之氣，叱吒有幹星之力。又有太原<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>長者<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕二字）<span style="color:transparent;font-size:0px">〉</span></small>池水登耆闍山，意<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>太清誌在禪閫，共成<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕四字）<span style="color:transparent;font-size:0px">〉</span></small>之原善哉！吾未之逮也。<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕三字）<span style="color:transparent;font-size:0px">〉</span></small>戰諸侯鳥飛白屋<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕四字）<span style="color:transparent;font-size:0px">〉</span></small>黔黎非罪而見戮，良可<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕三字）<span style="color:transparent;font-size:0px">〉</span></small>礱智慧劍，剜煩惱緣。<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕三字）<span style="color:transparent;font-size:0px">〉</span></small>燈照無明室，斷疑網而<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕二字）<span style="color:transparent;font-size:0px">〉</span></small>洞解魔縛而覺路將開。<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕三字）<span style="color:transparent;font-size:0px">〉</span></small>而蓮花淨心，持正法而金石<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>體。莫不內分忠孝之<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>外<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕三字）<span style="color:transparent;font-size:0px">〉</span></small>之<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>增<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕七字）<span style="color:transparent;font-size:0px">〉</span></small>崩劫火<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>龍鳳字金玉文<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕二字）<span style="color:transparent;font-size:0px">〉</span></small>五采文氤氳須達長<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕四字）<span style="color:transparent;font-size:0px">〉</span></small>東西<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕二字）<span style="color:transparent;font-size:0px">〉</span></small>皆頂謁百福千<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕二字）<span style="color:transparent;font-size:0px">〉</span></small>祐<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>想滄波竭<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕二字）<span style="color:transparent;font-size:0px">〉</span></small>海自<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕六字）<span style="color:transparent;font-size:0px">〉</span></small>相<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕五字）<span style="color:transparent;font-size:0px">〉</span></small>手拯群生<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕七字）<span style="color:transparent;font-size:0px">〉</span></small>誠空餘<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕三字）<span style="color:transparent;font-size:0px">〉</span></small>長。
+{| class="ws-noexport noprint ws-footer" width="100%" cellpadding="0" cellspacing="0" style="border:1px solid var(--border-color-content-added,#a3d3ff); background-color: var(--background-color-progressive-subtle,#eaf3ff); width:100%; margin-bottom:0px; text-align:center;"
+| width="20%" align="left" |　[[../卷0911|卷九百十一]]
+| <span style="color:#999"> ◄ </span>
+| width="50%" align="center" |[[#top|↑返回頂部]]
+| <span style="color:#999"> ► </span>
+| width="20%" align="right" |[[../卷0913|卷九百十三]]
+|}
+<templatestyles src="Template:License/styles.css" /><div class="licenseContainer licenseBanner dynlayout-exempt " >
+<div><div><div><div>
+<span class="imageLeft">[[File:PD-icon.svg|x48px|alt=|link=]]</span>
+</div><div>
+<div>
+此唐朝作品在全世界都属于'''[[w:公有领域|公有领域]]'''，因为作者逝世已经超过100年，且作品于1931年1月1日之前出版。
+</div>
+</div><div>
+<span class="noimageRight></span>
+</div></div></div></div>
+<div class="licensetpl">
+<span class="licensetpl_short">Public domain</span><span class="licensetpl_long">Public domain</span><span class="licensetpl_link_req">false</span><span class="licensetpl_attr_req">false</span>
+</div>
+</div>[[分類:唐朝]]

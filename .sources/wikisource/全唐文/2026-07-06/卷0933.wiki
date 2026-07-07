@@ -1,0 +1,7 @@
+{{Album header|type=|title=全唐文|section=|author=|previous=[[../卷0932|卷九百三十二]]|next=[[../卷0934|卷九百三十四]]|notes=}}__NOEDITSECTION__{{robot made}}
+==[[歷代崇道記]]==
+{{:歷代崇道記}}{{footer
+|previous=[[../卷0932|卷九百三十二]]
+|next=[[../卷0934|卷九百三十四]]
+}}
+{{唐朝作品}}

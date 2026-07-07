@@ -1,0 +1,112 @@
+
+{|style="width:100%; margin-bottom:0px; border:1px solid #AADDAA; background-color: #E4F2E4; text-align:center;" class="ws-header"
+|-
+| class="noprint" style="width:25%; text-align:left; font-size:small;" |←[[../卷0996|卷九百九十六]]
+|style="width:50%;" |'''全唐文'''
+| class="noprint" style="width:25%; text-align:right; font-size:small;" |[[../卷0998|卷九百九十八]]→
+|}
+{|style="width:100%; background:#F2F9F2; font-size:small; border-bottom:1px solid #D5ECD5" class="ws-header"
+|- 
+|<div style="color:#464646"><ul id="plainSister" style="display:inline-block; font-size:93%; line-height:normal; list-style-type:none; list-style-image:none; list-style-position:outside; border:1px solid var(--border-color-base,#AAA); float:right; clear:right; margin:0.5ex 0.5ex 0.5ex 0.5ex; padding:0.0ex 0.0ex 0.0ex 0.0ex; background-color:var(--background-color-base,#FFFFFF);color: inherit;"><li class="noprint sisitem"><span class="sisicon" style="padding-right:1ex;">[[Image:Wikimedia-logo.svg|frameless|18px|link=Special:sitematrix|alt=姊妹计划]]</span>[[Special:sitematrix|姊妹计划]]: [[d:Q85539214|数据项]]</li></ul> </div>
+|}__NOEDITSECTION__[[category:Robot made]]
+{|style="width:100%; margin-bottom:1px; border:1px solid #D6C5C5; background:#FAF8F8;text-align:center" 
+|-
+| 这是一个自动生成的页面，需要人工复查。复查后，请移除此模板。
+|}
+==[[唐易州上穀郡故安定梁府君墓誌銘]]==
+<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>夫昏默未形，爰依大道。龍龜啟象，始敘吉凶；漸著君親，乃陳孝悌。生以溫清色養，歿以封樹烝嚐，人子送終，其來遠矣。梁氏門風祖允，此不備書。蓋以星朔既淹，子孫繁嗣，因官得第，而居此焉。曾祖諱希幹，不仕，素為文業，曾苦詩書，厭官辭榮，隱居畢世。皇祖諱甫平，亦不仕，慎守公方，克勤儉素，外符忠正，內切孝慈，在邦而於人有和，居室而與物無競，年鄰耳順，而終壽焉。皇考諱重立，字顯英，性惟貞謹，言慎樞機，溫鑒而良彥取裁，博達而英髦受旨，羽儀朝市，紀綱人倫，可謂名似玉而長溫，行如鬆而不朽。年逾知命，石火忽臨，以天祐七年正月十二日，<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>於永樂坊之私第而告終矣。夫人武功蘇氏，郡中之良族也，笄總之<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>禮赴移天，耳順之秋，風燭長別。痛<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>履冰，傷彼斷弦。
+
+府君有嗣子三人：孟曰思景，高陽軍押衙充孔目官。仲曰思恩，季曰思度。押衙昆仲幼懷聰敏，長有博聞，蘊季子之詞華，抱安仁之才器，笙簧密職，丹藻列班，孝盡旨甘，讓敦手足。押衙與弟，昊天罔極，何日忘之？荼蓼纏心，鋒針刻骨，晨昏難及，喪薦竭修。押衙昆仲以乾坤吉就，龜筮葉和，以天祐十年癸酉歲孟冬月己巳朔二十三日辛卯，於易州東北隅一里半易縣玉山鄉梁村之右本塋之禮葬也。其勢乃前臨易郭，後倚燕山，左近昭王之祠，右接荊卿之廟，東西遐回，形勝可觀。良恐海變飛塵，山成朽燼，垂之記祀，傳以後昆者歟！銘曰：
+
+乾剛坤柔，有勞有休。人倫終始，難逃去留。嗣子而昊天不報，甘養而叩地無由。府君兮金玉君子，逝水兮萬古千秋。
+==[[唐故陳府君墓誌銘]]==
+府君諱環，潁川人也。祖興，父道清，並不求宦達。君即清公之第二子也。幼著才識，長閑規矩，克言理行，（闕）有三以當年八月十八日，窆於（闕）二十八里齊景鄉推山南二里祖墳<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕三字）<span style="color:transparent;font-size:0px">〉</span></small>塋。禮也。
+
+君娶吳郡顧氏，有子三人：長曰遂<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>次曰師損，三曰公甫，並至謙至讓，忠乎孝乎。泣血主喪，絕漿逾<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕二字）<span style="color:transparent;font-size:0px">〉</span></small>恐月日久邁，陵穀遷移，刊石為誌，永傳不朽。銘曰：
+
+山作田兮田作海，萬古存兮誰不改？青松新隴曉無年，千載惟留銘記在。
+==[[鄔府君墓誌銘]]==
+府君唐故侍御史某之次孫，性好古，不撓於時。夫人顧，生三子，趨庭頗聞詩禮。長子頌遠，為運漕之使，北自維揚旋於海昌，謂其弟曰：「宗墓眾廣，塋壟比櫛，其間安厝，豈汝等願耶？」遂卜他地，得海昌里之一墟焉，南去古墟三十步。禮也。銘曰：
+
+海昌之里，馬牧之墟。孤墳巋如，歸生之餘。送終伊何？家有孝子。卜兆伊何？青烏是指。千歲蒿里，百年遄已。
+==[[大唐濟度寺大比邱尼墓誌銘]]==
+法師諱法願，俗姓蕭氏，蘭陵蘭陵人。梁武帝之六葉孫，唐故司空宋國公之第三女也。原夫微子去殷，昭茂勳於抱樂；文終起沛，兆峻伐於收圖。瓊構鬱而臨雲，珠源淼而浴日。延禎錫祚，開鳳曆於朱方；疊慶聯規，纂龍符於紫蓋。逮鼎遷南服，胄徙東周，英靈冠上國之先，軒冕宅中州之半。
+
+法師乘因敻劫，植本遐生。孕月仙姿，稟清規於帝渚；儀星寶態，降淑範於台門。繈褓之辰，先標婉質；髫齔之歲，遽挺柔情。聰悟發於生知，孝友基乎天縱，中外姻族，莫不異焉。加以骨象無儔，韶妍獨立，鉛華不禦，彩絢春桃，玉顏含澤，光韜朝。年將十載，頗自矜莊，整飾持容，端懷檢操。每留神於鞶帨，特紆情於紝組，瓊環金翠之珍，茵簟衾幬之飾，必殫華妙，取玩閨闈，麗而不奢，盈而不溢。既而疏襟學府，繹慮詞條，一覽而隅隩鹹該，再覿而英華畢搴。豪飛八體，究軒史之奇文；法兼二妙，符衛姬之逸跡。群藝式甄，女儀逾邵，宋公特深撫異，將求嘉匹，載佇孫龍，以光宋鯉。而嚴庭垂訓，早沐慈波；鼎室承規，幼明真諦。飄花見雪，初陪太傅之觀；摘葉為香，遽警息慈之念。爰發宏誓，思證菩提，懼塵情於六禮，乃翹誠於十誦，承間薦謁，請離俗緣。宋公論道槐端，丹青神化，虔襟柰苑，棟梁正法，重違雅誌，許以出家。甫及笄年，爰披法服，乃於濟度伽藍，別營禪次，庭標雁塔，遠蔑娥台，藏寫龍宮，遙嗤魯館。
+
+於是沿空寂念，襲慧薰心，悅彼棄衣，俄捐綺縠，甘茲蔬膳，遽斥膻腥。戒行與松柏齊貞，彗解共冰泉等澈，超焉拔類，恬然晏坐。若乃弟兄辦供，親屬設齋，九乳流音，六銖含馥。瓶錫鹹萃，冠蓋畢臻，唯是瞻仰屏帷，遙申禮謁，自非至戚，罕有覿其形儀者焉。加以討尋經論，探窮閫域，核妒路之微言，括毗尼之邃旨，至於《法華》《般若》，攝論維摩，晨夕披誦，兼之講說。持戒弟子，近數十人，莫不仰味真乘，競趍丹枕，傍窺淨室，爭詣元扉，肅肅焉，濟濟焉。七眾之仰曇彌，何以尚也？重以深明九次，閱想禪枝；洞曉三空，澄襟定水。厭此纏蓋，忽現身疾，大漸之晨，謂諸親屬曰：「是身無我，取譬水萍。是身有累，同夫風葉。生死循環，實均晝夜。然則淨名申誡，本乎速朽。能仁垂則，期於早化。金棺乃示滅之機，玉匣豈棲神之宅！誠宜捐軀摯鳥，委形噬獸。」斂衿正念，奄然無言，粵以龍朔三年八月廿六日，舍壽於濟度寺之別院，春秋六十三。姊弟永懷沉痛，不忍依承遺約，乃以其年十月十七日，營窆於少陵原之側，儉以從事。律也。
+
+法師夙盥禪池，資慶源而毓彩。初依道樹，托華宗而降靈，蘊地義於閑和，苞天情於婉嫕，睹一善則怡然自悅，聞一惡則惄爾疚懷，激仁義於談端，明色空於慮表。故能辭台閫，托禪門，舍七珍，祛八膳，精苦之行，標映緇徒；戒律之儀，錙銖法侶。佇津梁於苦海，奄滅度於仁祠。棣萼分華，悲素秋之改色；荊株析幹，望青枝而增感。所懼塵飛海帶，將迷渭涘之塋；石盡仙衣，不辨檀溪之隧。重宣此義，乃為頌曰：
+
+<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>有殊稱，法無異源。爭驅意馬，俱制心猿。誌擾情紊，神凝理存。展如淑範，獨趣元門。璿彩<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>分，瑤姿月舉。含芳槐路，疏貞桂序。雲吐荊台，霞霏洛渚。學兼班媛，詞彬蔡女。奠禽匪誌，<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕二字）<span style="color:transparent;font-size:0px">〉</span></small>昭仁。捐華台室，沐道元津。法關開揵，心衢屏塵。九流遣累，八定棲真。忍藥分滋，戒香含烈。傳燈不倦，寫瓶無竭。奄愴神遷，空悲眼滅。式鐫柔範，終天靡絕。
+==[[威神寺故思道禪師墓誌銘]]==
+和上俗姓師，諱思道。絳州夏縣平原人也。天縱其志，七歲出家，人推其聰，十八剃髮，事人不事，為人不為。同鵲巢於頂之年，護浮囊無缺之日。次就有德轉相師，師禪行法門，戒律經論，耳目聞見，紀之心胸，緇錫求求，簪裾欽仰。聽習者鶴林若市，頂謁者鹿苑如雲。
+
+去[[:Category:757年 (提及)|<span title="757年">至德二載</span>]][[Category:757年 (提及)]]，春秋八十有一，僧夏六十一。時催二鼠，妖纏十夢。其年十二月，示身有疾，隨為眾生。其月二日，禪河流竭，坐般涅槃，驚慟知聞，悲覃飛走，孫威神寺主僧承嗣，五內摧裂，擗踴攀號，聲竭潛哀，淚盡續血。至[[:Category:需要指定公元的紀年|<span title="請指定為“1302年”或“758年”">乾元元年</span>]][[Category:需要指定公元的紀年]]十二月二日，遷於條山之側胄子塠頭。禮也。詢問其地，取人不爭，砥柱東橫，汾河西澍，青台鎮北，鹽池臨南，崒爾塠頭，卜擇安葬。雖則天長地久，而恐代異時移，陵谷改遷，斯文不謬。其詞曰：
+
+緇門積舋，寶樹崩摧。法消蓮坐，魂滋夜台。條山陰麓，巋然塠頭。碧岩引吹，清澗繞流。和上登兮舊賞，功匠興兮今修。建崇塔兮數仞，瘞金骨兮千秋。
+==[[唐故張禪師墓誌銘]]==
+香山禪師諱義琬，字思靖，俗姓董氏，河南陽翟人。紹嵩岳會善大安禪師智印，法歲廿七，世齡五十九。[[:Category:731年 (提及)|<span title="731年">開元十九年</span>]][[Category:731年 (提及)]]七月十九日，長天色慘，塞樹凝霜。頂白方，面赤方，右肱枕席，左臂垂膝，言次寂默，奄魂而歸。舉體香軟，容華轉鮮，感瑞嘉祥，具載碑錄。師未泥洹，先則元記：「吾滅度卅年內，有大功臣置寺度遺法居士為僧。卅五年後焚身，留吾果園，待其時也。」果廿八年，有文武朝綱<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>國老忠義司徒、尚書左僕射、朔方大使相國郭公上額於居士拜首受僧，奏塔梵宮，榜乾元寺。法孫明演授禪文，託葬祖黃金述德於中書令汾陽郡王郭公，徹天請號焚葬，借威儀所由檢校。
+
+[[:Category:768年 (提及)|<span title="768年">大曆三年</span>]][[Category:768年 (提及)]]二月，汾陽表曰：「義琬禪行素高，為智海舟航，是釋門龍象。心超覺路，遠近歸依。身歿道存，實資褒異。伏望允其所請，光彼法流。」其月十八日敕，義琬宜賜諡號「大演禪師」，餘依。擇吉辰八月，十九日荼毗入塔。今卌載無記，不從大禪翁也。行慈悲海，得玉髻珠，施惠若春，研芳吐翠。破邪寶劍，見網皆除。業為學山，萬法包納，練行凝寂，方能動天。塔磨青霄，砌下雲起，星龕月戶，面河背山。清淨神靈庶幾。銘曰：
+
+行破羣邪，業為學海。戒月青空，心珠自在。塔面長伊，鈴搖岳風。動天威力，無住無空。
+==[[唐故鳳光寺俊禪和上墓銘]]==
+和上諱常俊，俗姓張氏，清河人也。皇祖莊、皇考李，即李之第二子也。卅歲出家，年齡七十，僧夏卌，奄自[[:Category:841年 (提及)|<span title="841年">會昌元年</span>]][[Category:841年 (提及)]]五月十五日示疾歿。即以其月廿六日，遷柩於常州無錫縣太平鄉（闕）村東一里官河西八十步張宗祖墓中，卜其宅兆庚首而安厝之。禮也。有門人文則、元通、伯昌、俗兄秀、侄令容等，悲痛哀摧，涕淚交結。恐陵谷遷改，桑田變移，塋域無徵，乃刊磚而為誌。銘曰：
+
+禪宗內蘊，法印心<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕二字）<span style="color:transparent;font-size:0px">〉</span></small>棄浮生，歸乎寂滅。
+==[[慈潤寺故大靈琛禪師毀身塔銘]]==
+禪師俗姓周，道諱靈琛，初以弱冠出家，即味《大品經論》，後遇禪師信行，更學當<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>佛法。其性也慈而剛，其行也和而潔。但世間福盡，大暗時來，年七十有五。歲在<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕二字）<span style="color:transparent;font-size:0px">〉</span></small>三月六日，於慈潤寺所，結跏端儼，泯然遷化。禪師亡日，自足冷先，頂需後歇。《經》云：有此相者，克<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>生勝處。又康存遺囑，依經<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>林血肉施生，求無上道。<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>合成皂白，祇教<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕二字）<span style="color:transparent;font-size:0px">〉</span></small>含悲傷失，送茲山所，肌骨<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕二字）<span style="color:transparent;font-size:0px">〉</span></small>闍維鏤塔，冀海竭山灰，芳音永嗣。乃為銘曰：
+
+逖德元風，高惟遠量。<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>學莫舍，一乘獨暢。始震法雷，<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>淪道藏。示諸滅體，<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>茲奇相。器敗身中，需餘頂<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>結跏不改，神域雲喪。<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>曰既虧，群迷失望。非生淨土，禪指何向？塔頌一首，（闕）高帶淥水鏤塔寫神儀<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕四字）<span style="color:transparent;font-size:0px">〉</span></small>形名留萬古<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕四字）<span style="color:transparent;font-size:0px">〉</span></small>劫盡乃應虧
+==[[（闕六字）夫人程氏塔銘]]==
+<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕六字）<span style="color:transparent;font-size:0px">〉</span></small>果東郡東阿人，魏汝<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕五字）<span style="color:transparent;font-size:0px">〉</span></small>昌裔也。若乃道風門慶<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕五字）<span style="color:transparent;font-size:0px">〉</span></small>史牒詳之矣。夫人貞規<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕五字）<span style="color:transparent;font-size:0px">〉</span></small>融，少崇龍女之因，長勵<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕四字）<span style="color:transparent;font-size:0px">〉</span></small>說生應化。雖順軌於六塵，<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕四字）<span style="color:transparent;font-size:0px">〉</span></small>；竟騰身於百寶。以顯慶四<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕三字）<span style="color:transparent;font-size:0px">〉</span></small>四日，終於京第，春秋五十有<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕三字）<span style="color:transparent;font-size:0px">〉</span></small>明元年十月五日，遷葬於終<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕二字）<span style="color:transparent;font-size:0px">〉</span></small>祔徵士靈塔安厝，遵先誌也。其<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕二字）<span style="color:transparent;font-size:0px">〉</span></small>噫！將恐二天地，一山川，敬勒徽<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕二字）<span style="color:transparent;font-size:0px">〉</span></small>昭不朽。其詞曰：
+
+<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>阿女訓，西鄂婦德。貝葉因成，蓮花<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>陟。岩岩兮神掛，杳杳兮靈闕。將畢<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>而恒存，與終峰而罔極。
+==[[嵩山（闕三字）故大德淨藏禪師身塔銘]]==
+大師諱藏，俗姓[A13N]，濟陰郡人也。十九出家，六歲持誦《金剛》、《般若》、《楞伽》、《思益》等經，寫瓶貫綖，諷味精純。來至嵩嶽，遇安大師，親承諮問，十有餘年。大師化後，遂往韶郡，詣能和上，諮元問道，言下流涕。遂至荊南，尋睹大師，親承五載，能遂印可付法，傳燈指而兆歸。至大雄山玉像蘭若，一從棲寓，三十餘周，名聞四流，眾所知識。復至嵩南會善西塔安禪師院，睹茲靈跡，實可奇耳。遂於茲住，闕乎聖典，乃造寫藏經五千餘卷。師乃如如生象，空空烈跡，可粲信忍，宗旨密傳。七祖流通，起自中嶽，師亦心苞萬有，慧照五明，為法侶津梁，作禪門龜鏡。於是化流河洛，屢積歲辰，不憚劬勞，成崇聖教。春秋七十有二，夏三十八臘，無疾示疾，憩息禪堂，端坐往生，歸乎寂滅。即以其歲天寶五載歲次丙（闕）十月廿六日午時，奄將神謝。門人慧雲、智祥、法俗弟子等，莫不攀慕教緣，香花雨淚，哀戀摧慟，良可悲哉！敬重師恩，勒銘建塔，舉高四丈，給砌一層。念多寶之全身，想釋迦之半座，標心孝道，以偈而宣。
+
+猗歟高僧，嵩岩劫增。心星聚照，智月清升。坐功深遠，靈跡時徵。厥惟上德，成茲法興。<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（其一）<span style="color:transparent;font-size:0px">〉</span></small>
+
+五法三性，八萬四千。帝京河洛，流化通宣。不憚劬勞，三五載間。造寫三藏，頓悟四禪。<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（其二）<span style="color:transparent;font-size:0px">〉</span></small>
+
+三摩缽底，定力孤堅。悲通法界，慈洽人天。法身圓淨，無言可詮。門人至孝，建塔靈山。<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（其三）<span style="color:transparent;font-size:0px">〉</span></small>
+==[[宣化寺故比邱尼堅行禪師塔銘]]==
+禪師諱堅行，俗姓魚氏，京兆府櫟陽人也。惟師貞儀苦節，精勤厥誌。捐別修而遵普道，欽四行而造真門。豈圖晨霜易晞，夕露難久，寢疾床枕，藥餌無徵，嗚呼哀哉！以開元十二年十月廿一日，遷化於本院，春秋七十有六，夏卌矣！臨命遺囑，令門人等造空施身。至開元廿一年，親弟大雲僧誌葉、弟子四禪、賢首、法空、淨意等，收骨起塔，以申仰答罔極之誌。閏三月十日。
+==[[唐崇業寺故大德禪師尼真空塔銘]]==
+禪師諱真空，俗姓申氏，馮翊郡朝邑人也。植性明悟，天姿卓越，六度<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕二字）<span style="color:transparent;font-size:0px">〉</span></small>稟自齠年，<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>戒深仁，行諸早歲。既而<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕二字）<span style="color:transparent;font-size:0px">〉</span></small>宿善童子出家，訪道<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕二字）<span style="color:transparent;font-size:0px">〉</span></small>與波<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>（闕一字）<span style="color:transparent;font-size:0px">〉</span></small>而無異，練心（闕）
+==[[趙州真際禪師行狀]]==
+師即南泉門人也，俗姓郝氏，本曹州郝鄉人也。諱從諗。鎮府有塔記云：師得七百甲子歟？值武王微沐，避地岨崍，木食草衣，僧儀不易。師初隨本師行腳到南泉，本師先入事了，師方乃入事。南泉在方丈內臥次，見師來參，便問：「近離什麼處？」師云：「瑞像院。」南泉云：「還見瑞像麼？」師云：「瑞像即不見，即見臥如來。」南泉乃起問：「你是有主沙彌，無主沙彌？」師對云：「有主沙彌。」泉云：「那個是你主？」師云：「孟春猶寒，伏惟和尚尊體起居萬福。」 泉乃喚維那云：「此沙彌別處安排。」
+
+師受戒後，聞受業師在曹州西住護國院，乃歸院省覲。到後本師令郝氏云：「君家之子遊方已回。」其家親屬忻懌不已。祇候來日，鹹往觀焉。師聞之乃云：「俗塵愛網，無有了期。已辭出家，不願再見。」乃於是夜結束前邁，其後自攜瓶錫，遍曆諸方。常自謂曰：「七歲童兒勝我者，我即問伊。百歲老翁不及我者，我即教佗。」年至八十，方住趙州城東觀音院，去石橋十里已來。住持枯槁，誌效古人。僧堂無前後架，旋營齋食，繩床一腳折，以燒斷薪用繩係之，每有別制新者，師不許也。住持四十來年，未嘗齎一封書告其檀越。因有南方僧來，舉問雪峰：「古澗寒泉時如何？」雪峰云：「瞪目不見底學。」云：「飲者如何？」峰云：「不從口入，師聞之曰，不從口入，從鼻孔裏入。」其僧卻問師：「古澗寒泉時如何？」師云：「苦學。」云：「飲者如何？」師云：「死。」雪峰聞師此語，讚云：「古佛古佛！雪峰因此後不答話矣。」
+
+厥後因河北燕王領兵收鎮府，既到界上，有觀氣象者奏曰：「趙州有聖人所居，戰必不勝。」燕、趙二王因展筵會，俱息交鋒。乃問趙之金地上士何人？或曰：「有講《華嚴經》大師，節行孤邈。若歲大旱，鹹命往台山祈禱。大師未回，甘澤如瀉。」乃曰：「恐未盡善。」或云：「此去一百二十里有趙州觀音院，有禪師，年臘高邈，道眼明白。」僉曰：「此可應兆乎？」二王稅駕觀焉。既屆院內，師乃端坐不起。燕王遂問曰：「人王尊耶？法王尊耶。」師云：「若在人王，人王中尊。若在法王，法王中尊。」燕王唯然矣。師良久中間問阿「那個是鎮府大王？」趙王應喏「弟子」。師云：「老僧濫在山河，不及趨麵。」須臾，左右請師為大王說法。師云：「大王左右多，爭交老僧說法？」乃約令左右退。師身畔特有沙彌文遠，高聲云：「啟大王，不是者個左右。」大王乃問：「是甚麼左右？」對曰： 「大王尊諱多，和尚所以不敢說法。」燕王乃云：「請禪師去諱說法。」師云：「故知大王曩劫眷屬，俱是冤家。我佛世尊，一稱名號，罪滅福生。大王先祖才有人觸著名字，便生嗔怒。」師慈悲非倦，說法多時，二王稽首讚歎？珍敬無盡。來日將回，燕王下先鋒使，聞師不起，淩晨入院責師傲兀君侯。師聞之，乃出迎接。先鋒乃問曰：「昨見二王來不起，今日見某甲來，因何起接？」師云：「待都衙得似大王，老僧亦不起接。」先鋒聆師此語，再三拜而去。
+
+尋後趙王發使取師供養，既屆城門，闔城威儀迎之入內。師才下寶輦，王乃設拜，請師上殿，正位而坐。師良久以手斫額云：「階下立者是何官長？」左右云：「是諸院尊宿，並大師大德。」師云：「他各是一方化主，若在階下，老僧亦起。」王乃命上殿。是日齋筵將罷，僧官排定，從上至下，一人一問。一人問佛法，師既望見，乃問作什麼？云：「問佛法。」師云：「這裏已坐卻老僧，那裏問什麼法？二尊不並化。」王乃令止。其時國後與王俱在，左右侍立。國後云：「請禪師為大王摩頂受記。」師以手摩大王頂云：「願大王與老僧齊年。」
+
+是時迎師權在近院駐泊。獲時選地，建造禪宮。師聞之，令人謂王曰：「若動著一莖草，老僧卻歸趙州。」其時竇行軍願舍果園一所，直一萬五千貫。號為 「真際禪院」，亦雲竇家園也。師入院後，海眾雲臻。是時趙王禮奉燕王從幽州奏到命服，鎮府具威儀迎接。師堅讓不受。左右舁箱至師麵前云：「大王為禪師佛法，故堅請師著此衣。」師云：「老僧為佛法故，所以不著此衣。」左右云：「且看大王麵。」師云：「又幹俗官什麼事？」乃躬自取衣掛身上，禮賀再三，師惟知應喏而已。
+
+師住趙州二年，將謝世時，謂弟子曰：「吾去世之後，焚燒了，不用淨淘舍利。宗師弟子不同浮俗，且身是幻舍利，何生斯不可也。」令小師送拂子一枝與趙王，傳語云：「此是老僧一生用不盡底。」師於戊子歲十一月十日，端坐而終。於時竇家園道俗車馬，數萬餘人，哀聲振動原野。趙王於時盡送終之禮感歎之泣，無異金棺匿彩於俱屍矣！莫不高營雁塔，特豎豐碑，諡號曰「真際禪師光祖之塔。」
+
+後唐保大十一年孟夏月旬有三日，有學者谘問東都東院惠通禪師，趙州先人行化厥由，作禮而退。乃授筆錄之具實矣。
+{| class="ws-noexport noprint ws-footer" width="100%" cellpadding="0" cellspacing="0" style="border:1px solid var(--border-color-content-added,#a3d3ff); background-color: var(--background-color-progressive-subtle,#eaf3ff); width:100%; margin-bottom:0px; text-align:center;"
+| width="20%" align="left" |　[[../卷0996|卷九百九十六]]
+| <span style="color:#999"> ◄ </span>
+| width="50%" align="center" |[[#top|↑返回頂部]]
+| <span style="color:#999"> ► </span>
+| width="20%" align="right" |[[../卷0998|卷九百九十八]]
+|}
+<templatestyles src="Template:License/styles.css" /><div class="licenseContainer licenseBanner dynlayout-exempt " >
+<div><div><div><div>
+<span class="imageLeft">[[File:PD-icon.svg|x48px|alt=|link=]]</span>
+</div><div>
+<div>
+此唐朝作品在全世界都属于'''[[w:公有领域|公有领域]]'''，因为作者逝世已经超过100年，且作品于1931年1月1日之前出版。
+</div>
+</div><div>
+<span class="noimageRight></span>
+</div></div></div></div>
+<div class="licensetpl">
+<span class="licensetpl_short">Public domain</span><span class="licensetpl_long">Public domain</span><span class="licensetpl_link_req">false</span><span class="licensetpl_attr_req">false</span>
+</div>
+</div>[[分類:唐朝]]

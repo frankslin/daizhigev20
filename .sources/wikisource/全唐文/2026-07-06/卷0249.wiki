@@ -1,0 +1,9 @@
+{{Collection header|type=|title=全唐文|section=|author=|previous=[[../卷0248|卷二百四十八]]|next=[[../卷0250|卷二百五十]]|notes=}}__NOEDITSECTION__{{robot made}}
+==[[攀龍台碑]]==
+{{:攀龍台碑}}
+==[[懿德太子哀冊文]]==
+{{:懿德太子哀冊文}}{{footer
+|previous=[[../卷0248|卷二百四十八]]
+|next=[[../卷0250|卷二百五十]]
+}}
+{{唐朝作品}}

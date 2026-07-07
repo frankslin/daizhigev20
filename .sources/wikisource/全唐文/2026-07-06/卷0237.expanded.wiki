@@ -1,0 +1,99 @@
+
+{|style="width:100%; margin-bottom:0px; border:1px solid #AADDAA; background-color: #E4F2E4; text-align:center;" class="ws-header"
+|-
+| class="noprint" style="width:25%; text-align:left; font-size:small;" |←[[../卷0236|卷二百三十六]]
+|style="width:50%;" |'''全唐文'''
+| class="noprint" style="width:25%; text-align:right; font-size:small;" |[[../卷0238|卷二百三十八]]→
+|}
+{|style="width:100%; background:#F2F9F2; font-size:small; border-bottom:1px solid #D5ECD5" class="ws-header"
+|- 
+|<div style="color:#464646"><ul id="plainSister" style="display:inline-block; font-size:93%; line-height:normal; list-style-type:none; list-style-image:none; list-style-position:outside; border:1px solid var(--border-color-base,#AAA); float:right; clear:right; margin:0.5ex 0.5ex 0.5ex 0.5ex; padding:0.0ex 0.0ex 0.0ex 0.0ex; background-color:var(--background-color-base,#FFFFFF);color: inherit;"><li class="noprint sisitem"><span class="sisicon" style="padding-right:1ex;">[[Image:Wikimedia-logo.svg|frameless|18px|link=Special:sitematrix|alt=姊妹计划]]</span>[[Special:sitematrix|姊妹计划]]: [[d:Q85521982|数据项]]</li></ul> </div>
+|}__NOEDITSECTION__
+=蘇安恒=
+安恒，冀州武邑人。神龍初為習藝館內教，節湣太子之難，或讒安恒豫謀，下獄死。睿宗立，詔贈諫議大夫。
+==[[請復位皇太子疏]]==
+臣聞曆數在躬，握璿璣者哲後；天命攸屬，臨寶極者聖人。或揖讓而昇，或幹戈以定，二途一也，古今共之。伏惟皇帝陛下德合天地，澤流河海，庶物和平，靈光充塞，臣謂胥庭之化，無以過也。陛下欽先聖之顧托，受嗣子之推讓，豈不以極斯大節，成此鴻勳，應天順人，於今二十餘年矣。臣馳情緗素，竊見女媧之代，風俗簡樸，人淳易理，垂衣拱手，不足可言。洎漢朝以惠帝幼衝，呂後監撫，享國八歲，日不暇給，是傳簡策，亦烏足道哉？豈如陛下之在位，五星同色，四海無波？陛下造明堂，即祖文宗武之業也；封中嶽，則萬代一時之事也；受寶圖，即河圖洛書之瑞也。功既大矣，業既成矣，即當捐其犬馬，減其服禦，觀四大其如遺，視萬乘其若脫。陛下豈不聞虞舜褰裳，周公複辟，良以大禹至聖，成王既長，推位遜國，其道備焉。故舜之於禹，事祇族親；旦與成王，不離叔父。且族親何如子之愛？叔父何如母之恩？今太子孝敬是崇，春秋既壯，若使統臨宸極，何異陛下之身？陛下年德既尊，寶位將倦，機務殷重，浩蕩勞心，何不釋位東宮，自怡聖體？陛下縱日慎一日，雖休勿休，其若大寶何？其若人事何？陛下輟金輪聖神等號，即是厭倦萬機之象，此謂天意也。太子以奸臣枉構，久已自新，相王推位青宮，退居朱邸，天下聞之，莫不謳吟聖代，此謂人事也。故知天意人事，鍾我聖朝。大臣重祿不言，近臣畏罪不諫，使吾君有堯舜之位，不行堯舜之道，故《書》曰「後德惟臣」，此之謂也。
+
+臣又聞自古明王之以孝理天下者，不見二姓而俱王也。當今梁定、河內、建昌諸王等，承陛下之蔭覆，並得封王，臣恐千秋萬歲之後，於事非便，臣請黜為公侯，任以閑薄曹務。臣又聞陛下有二十餘孫，今無尺土之侯，此非長久計也，臣請四面都督及要衝州郡，分土而王之。縱今年尚幼小，未聞養人之術，臣請擇立師傅，成其孝敬之道，將以夾輔周室，藩屏皇家，使累葉重光，饗祀不輟，斯為美矣，豈不大哉？臣今又聞胡賊侵邊覘中國，陛下居總章、申廟算，赫然發怒，分閫出師，免粟飛芻，十室而九，撓竿鑠刃，以時係年，即士卒不遑，府庫空竭，此其謂也。陛下若能告倦萬歲，推位太子，分州列郡，以王子孫，自然四夷聞之，係頸麵縛，百姓聞之，鼓腹擊壤。史臣曰：「掩媧燧而邁胥庭，後代聞之曰：『四三皇而六五帝。』豈虛也哉！豈虛也哉！」
+
+臣山中一草萊耳，無擊鍾鼎食之榮，有碩學鴻儒之業。臣來日，跑而辭父，父謂臣曰：「丈夫處代，君子生年，必當獻一謀、畫一策，厥塗不就，草木何殊？今上有堯舜之德，下有稷皋之位。古人有言：『欲安其家，必先安其國；欲安其親，必先安其君。』當今天下雖安，亦有未然之計。故書曰：『若昔大猷，制理於未亂，保邦於未危。』此其謂也。」臣母又謂臣曰：「朝暮倚閭而望，汝若能上干人主，進書獻說，揚名後代，以榮父母，是吾之子也！」臣感父母之言，明發不寐，今故杖策千里，徒步三川，雖牽拙而無同，敢獻芹而竊抃。陛下若采微臣一言之善，成家國萬代之基，臣之懇誠幸甚。謹言。
+==[[請復位皇太子第二疏]]==
+臣聞忠臣不順時而取寵，烈士不惜死而偷生。故君道不明者，忠臣之過歟？臣道不軌者，烈士之過歟？伏惟皇帝陛下功格四表，道大百王。昔者先皇晏駕，留其顧托，將以萬務殷廣玲陛下兼知政事，雖唐堯、虞舜居其位，而共工、伯鯀在其朝，間陛下骨肉之恩，阻陛下母子之愛，愚臣謂聖情以運祚將衰，極斯大節。天下之人。謂陛下微弱李氏，貪天之功，何以年在耄倦，而不能複子明辟，使忠言莫進，奸邪乘時，夷狄紛擾，屠害黎庶？陛下雖納隍軫念，亦何以救此生靈？臣聞天下者，神堯文皇之天下也。昔有隋失馭，小人道長，群雄駭鹿，四海瞻烏。皇唐親事戎旃，鳳翔參野，削平<dfn class="unicode-pua" style="border: 1px solid orange; background: yellow; font-style: normal; cursor: help;" title="此处原字符使用了Unicode私有区编码而无法识别，请协助查实修正。原字符为：，请注意在不同系统中的显示可能完全不同。"></dfn>[[Category:包含Unicode私有区字符的条目]]縣，龍飛踐極。歃血為盟，指河為誓，非李氏不王，非功臣不封。陛下雖居正統，實因唐氏舊基，故詩曰：「惟鵲有巢，惟鳩居之。」此言雖小，可以喻大。陛下自坤生德，乘乾作主，豈不以上符天意，下順人心？東宮昔在諒陰，相王又非長子，陛下恐宗祀中絕，所以應其謳歌。當今太子追回，年德俱盛，陛下貪其寶位，而忘母子深恩。臣聞京邑翼翼，四方取則，陛下蔽太子之元良，枉太子之神器，何以教天下母慈子孝焉？何以使天下移風易俗焉？惟陛下思之。將何聖顏以見唐家宗廟？將何誥命以謁大帝墳陵？陛下何故日夜積憂，不知鍾鳴漏盡？臣愚以為天意人事，還歸李家。陛下雖安天位，殊不知物極則反，器滿則傾。故語曰：「當斷不斷，反受其亂。」此之謂也。陛下不如高揖樞務，自怡聖躬，命史臣以書之，令樂府以歌之，斯亦太平之盛事也。臣聞見過不諫，非忠臣也；畏死不言，非勇士也。臣何惜一朝之命，而不安萬乘之國哉！故曰：苟利國家，雖死可矣！願陛下暫輟萬務，詳臣愚見。陛下若以臣為忠，則從諫如流，擇是而用；若以臣為不忠，則斬取臣頭，以令天下。
+==[[理魏元忠疏]]==
+臣伏聞昔者明王有含天下之量，有濟天下之心，必能達天下之善，除天下之惡。若為君上而不行此四者，則當神冤鬼怒，陰錯陽亂，欲使國家榮泰，其可得乎？伏惟皇帝陛下縣像設教，順時致理，非不欲褒，進良直，屏黜奸佞，蓋為逆耳者寡，順情者多。陛下往日革命之初際，即能勤於庶政，親總萬幾，博采謀猷，旁求俊彥，故四海之內，以陛下為納諫之主。陛下期年以來，怠於政事，讒邪結黨，水火成災，百姓不親，五品不遜，故四海之內，以陛下為受佞之主。當今邪正晨辨，獄訟蒙冤，豈陛下昔是而今非？蓋居安忘危之失也。臣竊見御史大夫檢校太子左庶子同鳳閣鸞台平章事魏元忠，廉直有聞，位居宰輔。履中正之基者，用元忠為龜鑒；踐邪佞之路者，疾元忠如仇讎。伏見麟台監張易之兄弟，在身無德，於國無功，不逾數年，遂極隆貴。自當飲冰懷懼，酌水思清，夙夜兢兢，以答恩造。不謂溪壑，其誌，豺狼其心，欲指鹿而獻蒲，先害忠而損善。斯將亂代之法，汙我明君之朝。自元忠下獄以來，臣見長安城內，街談巷議，皆以陛下委任奸佞，斥逐賢良。以元忠必無不順之言，以易之必有交亂之意，相逢偶語，人心不安。雖有忠臣烈士，空撫髀於私室，而鉗口不敢言者，皆懼易之等威權，恐無辜而受戮，亦徒虛死耳。
+
+今三秋屆節，蕃中則馳馬盛肥；九牧作貢，天下則斂賦繁重。以臣言之，此已不勝其弊，況又聞陛下縱逸讒慝，禁錮善良。倘刑罰失中，則遐邇生變。臣恐四夷因之，即窺覘得失，以為邊郡之患；百姓因之，即聚結義兵，以除君側之惡。複恐逐鹿之黨，叩關而至；亂階之徒，從中相應：爭鋒於朱雀門內，問鼎於大明殿前。陛下將何事以謝之？複何方以禦之？臣今為陛下計，安百姓之心者，莫若收雷電之威，解元忠之網，複其爵位，君臣如初，則天下幸甚。陛下好生惡殺，縱不能斬佞臣頭以塞人望，臣請奪其榮寵，翦其羽翼，無數熄柄在手，驕橫日滋，專國倍於穰侯，回天過於左悺，則社稷危矣，惟陛下圖之。臣雖微賤，天性愚直，未曾謁王侯將相，亦不識元忠、易之之麵，豈此可親而彼可疏，但恐讒邪長而忠臣絕。伏惟陛下暫回天鑒，察臣此心，即微臣朝得誌行，夕死無恨。
+=於知微=
+知微字辨機，太僕少卿立政子。永微元年以門蔭補宏文生，三年擢進士第，釋褐授太子內坊丞，遷秘書郎，累官太子左庶子太僕少卿，封東海郡侯，除兗州都督。景雲二年進封公，檢校鴻臚少卿。太極二年卒。
+==[[明堂令於大猷碑]]==
+粵以天子制爵祿，諸侯掌邦畿，五十里之國者（闕十一字）十有一。蓋所以設方伯，置令長，疆理宇宙，宰制群庶者矣。故汝南國之心腹，河東郡之股肱，非賢勿居，惟材是寄。大則曳青縞而紆銀印，小則綰墨綬而佩銅章。是以<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>宰<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>城皇漢則以南台御史；俾居<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>邑大晉則以東宮<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>人。故能齊其政而不失其宜，修其教而不易其俗者，其惟明堂縣令東海于公乎！公諱大猷，字徽本，東海郯人。後<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕三字）">■■■</span>遂寓家雍州，今高<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕二字）">■■</span>也。<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕二字）">■■</span>帝<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>之命官開國，侯伯之保姓受氏，祚<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>則周公之允，邘韓則武王之穆。金章建國，里中大丞相之門；玉帳<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>家，閫外列將軍之戟。曾祖宣道，隨內史舍人在左衛率成安縣開國子，皇朝贈使持節都督涼、肅、甘、瓜、沙五州諸軍事涼州刺史，諡曰獻。徐邈以東州儒素，劉超則西省人倫，表<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕二字）">■■</span>而警彤闈，執虎符而飛<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕三字）">■■■</span>德降表墳之贈，優賢崇告第之儀。祖志寧，禮部尚書侍中尚書左僕射太子太傅太師上柱國燕國公，贈使持節都督、幽、易、媯、檀、平、燕六州諸軍事幽州刺史，諡曰定。皂裾瓊佩，北斗喉舌之司；絳服金蟬，西掖股肱之寄。劍履上殿，方崇重傅之恩；羽葆蓋車，式備尊師之禮。鳳扆推其獻納，龍樓<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>其<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕二字）">■■</span>。父立政，尚書吏部郎中國子司業太子率更令渠、虢二州刺史太僕少卿上護軍仙台侍女禮閣郎官。攝齋槐肆之前，曳組桂山之下。郗超以蕃伯之望，職總<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>河；馬防以<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>公之材，榮參象海。
+
+公丹山鳳下，滄溟鯤化，明珠則徑寸為寶，白璧則盈尺稱珍。小年識五方之書，大成通九經之義，嬉戲則以詩書禮樂，造次則以孝友謙衝。顯慶三年解褐左千牛餅豁。材推令德，士選良家，青巢晨嚴，赤墀近侍。緣坐左遷梓州參軍事，譴即讁居，咎非投俾。郗嘉賓之卓犖高雋，見<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>公軍；袁彥道之俶儻不羈，言歸柏府。轉桂州都督府功曹參軍。境接鳶溪，載洽昇龍之譽；地鄰鯨海，幾淪棲鳳之材。文明元年選授蘇州司兵參軍，東裏藩維，恐老荊州從事；南中方鎮，謂屈蠻府參軍。屬攀號弓劍，遏密金石，錫印章而錄舊，膺璽誥而念勞。垂拱三年敕除并州大都督府士曹參軍。唐叔翦桐之境，遲爾材<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕三字）">■■■</span>分竹之郊，光我藩翰。榆之地，誠為沮洳之川；豐沛之郊，何必芒<dfn class="unicode-pua" style="border: 1px solid orange; background: yellow; font-style: normal; cursor: help;" title="此处原字符使用了Unicode私有区编码而无法识别，请协助查实修正。原字符为：，请注意在不同系统中的显示可能完全不同。"></dfn>[[Category:包含Unicode私有区字符的条目]]昜之澤？帝鄉推其善價，公府義其良圖，惡少遷佩犢之風，流俗漸驅雞之化。永昌元年授洛州<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕二字）">■■</span>參軍。向雄佐鎮西之府，毛玠處平南之軍。太守范滂，主諾之聲猷自遠；功曹岑至。坐嘯之風裁獨高。
+
+制授朝散大夫，餘如故，尋加朝請大夫，行<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>州<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>官縣令。榮曜朱紱，材光紫誥。蔣公炎豈千石之器，而委割雞；龐士元非百里之材，方思展驥。制除德州司馬，又遷汾州長史。一冠介幘，二職彤襜，曆從事之班，居<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕二字）">■■</span>之<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>。形色安於席地，神意見乎屏<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>不撓於危，無負於物。聖曆元年除使持節隨州諸軍事隨州刺史。田叔以壯勇而刺三河，王尊以忠貞而驅九折。分行<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕二字）">■■</span>朱明以刾強宗；獨坐州鎮，元英而按豪族。聖曆二年制除雍州明堂縣令。黃圖帝國，黑水神皋，地即京都，人多傑暴。信陽侯之門客，尚在必誅；寧平主之家僮，猶<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕三字）">■■■</span>。威信表西門之化，惠愛奉東裏之風，抑挫右姓，誅<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕二字）">■■</span>猾。災蝗宛轉，由去督郵；義鳥歸飛，為馴童子。推誠而理，則人不忍欺；宿訟無冤，則吏維仰德。加以笙簧六籍，篋笥五經，三寸弱毫，回鸞拂羽；四<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>油素，縞鳳和鳴。眷眷吏人，預軫去思之戀；依依故老，每哥來晚之謠。悲夫！安仁七旬，不遇箱中之術；桓侯五日，<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>聞壁上之行。以聖曆三年七月十日，終於萬年縣常樂裏之私第，春秋五十七。黃髮攀輈，心傷折石之痛；元髫戀扌匹，瞼盈埋玉之悲。
+
+公劍號純鉤，珍稱<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>炎儀表<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕二字）">■■</span>風神壯勇。黃金必棄，每見揮鋤；赤仄無留，恒持掛樹。總角之歲，隱幔駭而不驚；佩觿之年，<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>衣去而無慍。一日千里，四代五公，忠孝足以光時，能賢足以軌物。夫人熒陽鄭氏，父<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>矩雍州富平縣令，魏趙郡李氏外<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕二字）">■■</span>都公<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕二字）">■■</span>公<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>服尚書<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>衣蕙問都<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>蘭儀婉淑，女訓芬乎奉菷，母師光乎主饋。即以其年歲次庚子十一月乙亥朔十二日景戌，合葬於雍州三原縣萬壽鄉<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>坳之先塋，禮也。兄銀青光祿大夫行太子左庶子使持節都督袞州諸軍事袞州刺史辨機，鯉庭禮樂，鵷序杞梓。搖山入輔擢彼正人；外台出<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>慰茲群庶。鶺鴒懷斷，<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>摧金玉之心，鴻雁悲鳴，若灑瓊環之<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>。嗟乎！八龍長逝，三虎永懷，庶振家聲，思光祖德。南陽陌上，爰標構石之墳；就兆阡傍，俾建生金之碣。共詞曰：
+
+浩浩洪源，<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕三字）">■■■</span>代。<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕二字）">■■</span>朱輪，翻飛紫蓋。錫爵分茅，命官食采。邘韓之穆，里閭其大。（其一）
+
+傅相繼業，公侯踵武。氣雄家邦，榮曜區宇。人之領袖，物之規矩。<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕四字）">■■■■</span>，量<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>公輔。（其二）
+
+<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>明俊德，丕承寵光。風儀礌落，天骨昂藏。家<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>之盛，門戶之綱。襲茲圭組，侍彼岩廓。（其三）
+
+銅陵之東，珠崖之北。姑蘇臺下，晏溫鼎側。囂然令望，偉哉高<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>。端委佐茲，刑清訟息。（其四）
+
+<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>以師友，賢哉主吏。聯翩化鶴，徘徊展驥。球琳之寶，瑚璉之器。白日既披，青雲自致。（其五）
+
+漢東舊國，隨有大名。關西列郡，秦稱上京。<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>有良翰，宰<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕三字）">■■■</span>。教漸<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕二字）">■■</span>，威加<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>城。（其六）
+
+秩秩德音，凜凜風格。山靈固<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>，河神是迫。手答棧書，心明糾擿，蟲螟感化，犬牙移陌。（其七）
+
+僉言惠愛，帝曰允諧。劇<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>爾<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>，繁俗<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>懷。祥鸞翽翽，鳴鳳喈喈。<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕四字）">■■■■</span>，玉樹<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕一字）">■</span>埋。（其八）
+
+衣冠道謝，袞職誰補。<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="（闕三字）">■■■</span><dfn class="unicode-pua" style="border: 1px solid orange; background: yellow; font-style: normal; cursor: help;" title="此处原字符使用了Unicode私有区编码而无法识别，请协助查实修正。原字符为：，请注意在不同系统中的显示可能完全不同。"></dfn>[[Category:包含Unicode私有区字符的条目]]風悲，蒼茫霧苦。寂寂兮猾賙，幽幽兮后土。石槨掩兮千年，金聲振兮萬古。（其九）
+=魏知古=
+知古，深州陸澤人。舉進士，長安中曆遷鳳閣舍人衛尉少卿。神龍初擢拜吏部侍郎，授晉州刺史。睿宗景雲二年遷右散騎常侍同中書門下平章事。先天二年累封梁國公，知吏部尚書。開元二年改紫微令，除工部尚書，罷知政事，三年卒，年六十九，贈幽州都督，諡曰忠。
+==[[答張九齡賀西幸延期表]]==
+省表具知。朕初聞三輔之間，今歲善熟，朕緣陵寢，誠欲西幸，然積累虛年，乍得小稔，即又聚食，蠍窅重難。儻夏麥不登，未免蕢乏，百姓不足，君孰與安？所以再三痛懷，欲去不忍。至於宮苑所樂，氣候非宜，苟得人安，終不以此為念。卿可宣前旨，更俊後期。所請遍示朝列及宣付史官，亦豈煩也，任卿等自商量。
+==[[諫造金仙玉真觀疏]]==
+臣聞《縠梁傳》曰：「古之君人者，必時視人之所勤。人勤於力，則功築䍐；人勤於財，則貢賦少；人勤於食，則百事廢。」《書》曰：「不作無益害有益。」又曰：「罔咈百姓以從已之欲。」《禮》曰：「季夏之月，樹木方盛，無有斬伐，不可興土功以妨農。」又曰：「季夏行冬令，則風寒不時。」語曰：「修已以安百姓。」此皆興化立理之教，為政養人之本也。今陛下為公主造觀，將樹功德以祈福佑。但兩觀之地，皆百姓之宅，卒然迫逼，令其轉徙，扶老攜幼，投竄無所，發剔椽瓦，呼嗟道路，乖人事，違天時，起無用之作，崇不急之務，群心震搖，眾口藉藉。陛下為人父母，欲何以安之？且國有簡冊，君舉必記，動則左史書之，言則右史書之，是以非禮勿言，非禮勿動。夫如是，則君之所舉，可不慎歟？微臣備位諫諍，兼秉史筆，書而不法，後嗣何觀？臣愚必以為不可。伏願俯順人欲，仰稽天意，降德音，下明策，速罷功役，收之桑榆，其失不遠。
+==[[又諫營道觀疏]]==
+臣聞人以君為天，君以人為本；人安則政理，本固則邦寧。自陛下戡翦凶逆，君臨寶位，蒼生喁喁，以謂朝有新政。今風教頹替，日甚一日，府藏空虛，人力凋敝，營作不息，官員日增。諸司試補員外、檢校等官，僅至二千餘人。太府之布帛以殫，太倉之米粟不支。又金仙、玉真等觀，造作鹹非急務，臣先請奏停，竟亦未止。今歲前水後旱，五穀不熟，若至來春，必甚饑饉，陛下為人父母，欲何方以賑恤？療饑拯溺，須及其時。又突厥於中國為患，其來自久，其人本無禮義，焉有誠信？今雖遣使來請結婚，恐豺狼之心，首鼠何定？弱則順伏。強則驕逆，屬草衰月滿，弓勁馬肥，乘中國饑虛，在和親際會，窺犯亭鄣，國家何以防之？臣所論者，事甚急切，伏願特垂詳察。
+==[[報吐番宰相坌達延書]]==
+承屯聚兵馬，初不知者，頗亦為疑。但以彼國君臣，素敦信義，況立盟誓，又結婚姻，悠悠之談，複何足信？若見利忘義，破親負約，神道不遠，何以逃殃？自見來書，果符意揣，兩國和好，百姓安寧，永絕邊釁，豈非好事？所論分界，先有盟書，今奉敕令左散騎常侍解琬往河源，與公平章。解琬國之重臣，素有德行，言無二諾，眾所共推，昔嚐充使西安，備諳彼之境土，今遣將命，實惟命焉。
+=祝欽明=
+欽明字濰姮，就兆始平人。舉明經。永淳、天授間又中英才傑出、業奧六經等科，拜著作郎。長安初累遷太子率更令兼崇文館學士，進太子少保。中宗立，擢拜國子祭酒同中書門下三品，加銀青光祿大夫，曆刑、禮二部尚書兼修國史，累封魯國公。景龍三年，中宗將祀南郊，欽明希旨言皇后當助祭，於是韋后為亞獻。
+景雲初，侍御史倪若水劾論其事，左授饒州刺史，徙洪州都督，入為崇文館學士。
+==[[皇后南郊助祭議]]==
+謹按《周禮》：「天神曰祀，地祇曰祭，宗廟曰享。」大宗伯職曰：「祀大神，祭大祇，享大鬼。理其大禮，若王有故不預，則攝位。凡大祭祀，王後不預。則攝而薦徹豆籩。」又追師職：「掌王後之首服，以待祭祀。」又內司服職：「掌王後之六服，凡祭祀，供後之衣服。」又九嬪職：「大祭祀，後祼獻，則替，瑤爵亦如之。」據此諸文，即皇後合助皇帝祀天神、祭地祇明矣。故鄭元注《內司服》云：「闕狄，皇後助王祭群小祀之服。」然則小祀尚助王祭，中、大推理可知。闕狄之上，猶有兩服，第一褘衣，第二搖狄，第三闕狄，此三狄皆助祭之服。闕狄即助祭小祀，即知搖狄助祭中祀，褘衣助祭大祀。鄭舉一隅，故不委說。惟祭宗廟，《周禮》王有兩服，先王袞冕，先公鷩冕。鄭元因此以後助祭宗廟，亦分兩服：雲褘衣助祭先王，搖狄且祭先公。不言助祭天地社稷，自宜三隅而反。且《周禮》正文「凡祭王後不預」，既不專言宗廟，即知兼祀天地，故雲凡也。又《春秋外傳》云：「禘郊之事，天子親射其牲，王後親舂春粢。」故人工婦職但雲詔王後之禮事，不主言宗廟也。若專方宗廟者，則內宗、外宗職皆言掌宗廟之祭祀。此皆禮分明，不合疑惑。舊說以天子父天母地，兄日姊月，所以祀天於南郊，祭地於北郊，朝日於東門之外，以昭事神訓人事，君必躬親以禮之，有故然後使攝，此其義也。又《禮記·祭統》曰：「夫祭也者，必夫婦親之，所以備內外之官也。官備則具備。」又哀公問於孔子曰：「冕而親迎，不已重乎？」孔子愀然作色而對曰：「合二姓之好，以繼先聖之後，以為天地宗廟社稷之主，君何謂已重焉？」，又《漢書·郊祀誌》云：「天地合祭，先祖配天，先妣配地，天地合精，夫婦判合。祭天南郊，則以地配一體之義也。」據此諸文，即知皇後合助祭望，請別修助祭儀注同進。
+==[[詳定博士等七廟議]]==
+博士三人，自分兩議。張齊賢以景帝始封為唐宗太祖，不合更祖昭王。劉承慶以王制三昭三穆，不合重崇宣帝。臣等商議，依張齊賢以景皇帝為太祖，依劉承慶尊崇六室。
+==[[建太社議]]==
+《周頌·載芟篇敘》曰：「春藉田而祈社稷也。」《禮記》：「天子為藉千畝，諸侯為藉百畝。」即此緣有藉田，自為立社，王社、侯社，因此有名。卿大夫以下無藉田。所以成群置社。藉田壇祭，止是王社。往者直雲藉田，近日改名先農之祭，不知王社根本。魏世妄設三牢，群說紛紛，乍毀乍立。晉氏徒雲省費，不知仍在藉田。千畝共迷，其日固久不詳經典，致此喧嘩。今者創立社稷，理宜正名典故，請改儀注及式，將先農以為帝社，數纖聽不惑，古義具存。移前代之末學，表當今之準繩，豈不美歟！
+==[[社稷議]]==
+藉田之祭，本是王社，承前若祠先農，共是勾龍、后稷。烈山之子，亦謂之農，周棄繼之，皆祀為稷。共工之子，後土主名，湯既勝夏，欲遷不可。社稷主祭，惟此二神，祭法所載，祀典皆存。自黃帝以下，羲、農二皇，不列常祀，豈有社稷之祭，上取炎皇？正經典籍，曾無此語；膚淺諸儒，妄為曲說。借如蠟主先嗇，鄭元云：「若神農，徒見易之揉木，即雲若神農耳。如其遠推邃古，磨蜄在神農前，將為先嗇，有何不可？」比鄭之謬妄，不尋祭法根源，後儒守株，即以為定。始立社稷祈報，惟祭共工、烈山，神農未報大功，何不遠取祈報？即明三皇以上，樸略洪荒，帝王之道，無取為教，魏秦靜者，又何知社稷先農，妄分為二？且六宗之義，先儒猶且紛然；六神之言，秦靜憑何分析？習俗迷謬，殊不可依。豈有一藉田中，置四壇墠？先農、王社，同貫異名，固是一種；后稷、勾龍，更無二道：同途分祭，四牢徒費，豈是爾愛其羊？又言漢祀禹神，此義更殊未得。若將禹平水土，其功大於勾龍，成湯革夏社時，何不替勾龍之祀？周棄既將易祀，夏禹豈可獨遺？漢德不逮殷湯，祀禹無迺為諂？後王更為遵用，明其一時謬僻，禮官今欲效僻張禹，無迺迂乎？前以王社沒於先農，欲依祀典正號，今迺更加兩祀，亦恐乖謬增多。退傳禮官，更加詳度，具依經訓，勿據俗儒。
+=賈虛己=
+虛己，神龍時官左拾遺。
+==[[諫封後族疏]]==
+臣聞孔子曰：「唯名與器，不可以假人。」其非李氏而王，自古盟書所棄。今陛下創制謀如，垂範將來，為皇王之令圖，子孫之明鏡。匡復未幾，-{后}-族有私，臣雖庸愚，尚知不可，史官執簡，必是直書。今萬姓禺然，聞一善令，莫不途歌-{里}-頌，延頸向風，欣然慕化，日恐不及。陛下奈何行私惠，使樵夫議之？而先朝贈太原王，殷鑒不遠，同雲生於膚寸，尋木起於蘖栽，誠可惜也！如渙汗已行，憚改成命，臣望請皇-{后}-抗表固辭，使天下知宏讓之風，彤管著沖謙之德。是則巍巍聖鑒，無得而稱。
+{| class="ws-noexport noprint ws-footer" width="100%" cellpadding="0" cellspacing="0" style="border:1px solid var(--border-color-content-added,#a3d3ff); background-color: var(--background-color-progressive-subtle,#eaf3ff); width:100%; margin-bottom:0px; text-align:center;"
+| width="20%" align="left" |　[[../卷0236|卷二百三十六]]
+| <span style="color:#999"> ◄ </span>
+| width="50%" align="center" |[[#top|↑返回頂部]]
+| <span style="color:#999"> ► </span>
+| width="20%" align="right" |[[../卷0238|卷二百三十八]]
+|}
+<templatestyles src="Template:License/styles.css" /><div class="licenseContainer licenseBanner dynlayout-exempt " >
+<div><div><div><div>
+<span class="imageLeft">[[File:PD-icon.svg|x48px|alt=|link=]]</span>
+</div><div>
+<div>
+此唐朝作品在全世界都属于'''[[w:公有领域|公有领域]]'''，因为作者逝世已经超过100年，且作品于1931年1月1日之前出版。
+</div>
+</div><div>
+<span class="noimageRight></span>
+</div></div></div></div>
+<div class="licensetpl">
+<span class="licensetpl_short">Public domain</span><span class="licensetpl_long">Public domain</span><span class="licensetpl_link_req">false</span><span class="licensetpl_attr_req">false</span>
+</div>
+</div>[[分類:唐朝]]

@@ -1,0 +1,201 @@
+
+{|style="width:100%; margin-bottom:0px; border:1px solid #AADDAA; background-color: #E4F2E4; text-align:center;" class="ws-header"
+|-
+| class="noprint" style="width:25%; text-align:left; font-size:small;" |←[[../卷0637|卷六百三十七]]
+|style="width:50%;" |'''全唐文'''
+| class="noprint" style="width:25%; text-align:right; font-size:small;" |[[../卷0639|卷六百三十九]]→
+|}
+{|style="width:100%; background:#F2F9F2; font-size:small; border-bottom:1px solid #D5ECD5" class="ws-header"
+|- 
+|<div style="color:#464646"><ul id="plainSister" style="display:inline-block; font-size:93%; line-height:normal; list-style-type:none; list-style-image:none; list-style-position:outside; border:1px solid var(--border-color-base,#AAA); float:right; clear:right; margin:0.5ex 0.5ex 0.5ex 0.5ex; padding:0.0ex 0.0ex 0.0ex 0.0ex; background-color:var(--background-color-base,#FFFFFF);color: inherit;"><li class="noprint sisitem"><span class="sisicon" style="padding-right:1ex;">[[Image:Wikimedia-logo.svg|frameless|18px|link=Special:sitematrix|alt=姊妹计划]]</span>[[Special:sitematrix|姊妹计划]]: [[d:Q85529917|数据项]]</li></ul> </div>
+|}__NOEDITSECTION__[[category:Robot made]]
+{|style="width:100%; margin-bottom:1px; border:1px solid #D6C5C5; background:#FAF8F8;text-align:center" 
+|-
+| 这是一个自动生成的页面，需要人工复查。复查后，请移除此模板。
+|}
+==[[平賦書（並序）]]==
+孔子曰：「道千乘之國，敬事而信，節用而愛人，使民以時。」又曰：「若欲行而法，則周公之典在。」孟子曰：「夏后氏五十而貢，殷人七十而助，周人百畝而徹，其實皆什一也。欲輕之於堯舜之道，大貉小貉也。欲重之於堯舜之道，大桀、小桀也。」是以什一之道，公私皆足。人既富，然後可以服教化，反淳樸。古之聖賢，未有不善於為政理人，而能光於後代者也。故善為政者莫大於理人，理人者莫大於既富之又教之。凡人之情，莫不欲富足而惡貧窮，終歲不制衣則寒，一日不得食則饑。四人之苦者，莫甚於農人。麥粟布帛，農人之所生也，歲大豐，農人猶不能足衣食，如有水旱之災，則農夫先受其害。「有若曰，百姓不足，君孰與足？」夫如是，百姓之視其長上如仇讎，安既不得享其利，危又焉肯盡其力？自古之所以危亡，未有不由此者也。人皆知重斂之可以得財，而不知輕斂之得財愈多也。何也？重斂則人貧，人貧則流者不歸，而天下之人不來，由是土地雖大，有荒而不耕者，雖耕之，而地力有所遺，人日益困，財日益匱。是謂棄天之時，遺地之利，竭人之財。如此者雖欲為社稷之臣，建不朽之功，誅暴逆而威四夷，徒有其心，豈可得耶？故輕斂則人樂其生；人樂其生，則居者不流而流者日來；居者不流而流者日來，則土地無荒，桑柘日繁，盡力耕之，地有餘利，人日益富，兵日益強，四鄰之人，歸之如父母，雖欲驅而去之，其可得耶？是以與之安而居，則富而可教；與之危而守，則人皆自固。孟軻所謂「率其子弟，攻其父母，自生人以來，未有能濟」者也。
+
+嗚呼！仁義之道，章章然如大道焉，人莫不知之，然皆不能行，何也？見之有所未盡，而又有嗜欲以害之，其自任太多，而任人太寡，是以有土地者有仁義，無代無之，雖莫不知之，然而未有一人能行之而功及後代者，由此道也。秦滅古法，隳井田，而夏殷周之道廢，相承滋久，不可卒復。翱是以取可行於當時者，為《平賦書》，而什一之法存焉。庶幾乎能有行之者云爾。
+
+凡為天下者視千里之都，為千里之都者視百里之州，為百里之州者起於一畝之田，五尺謂之步（古者六尺為步，古之尺小，為茲時之尺四尺八寸，則方一步為古之方一步餘三百步六寸二分五厘），二百有四十步謂之畝（古者步百為畝，與此時不同，從俗之數則易行也。一畝為古之田三畝），三百有六十步謂之里（古者畝百為夫，夫三為屋，屋三為井。井之田九夫三屋。方三百步為一里也，方一里之田九夫。頃異名也）。方里之田五百有四十畝（畝百為頃，五頃四十畝也。古之里雖小，其畝又加小，所以古之方一里為田九頃，茲時方一里為田五頃四十畝，為古之田一十六頃有二十畝也），十里之田五萬有四千畝（五百四十頃也，為古之田一千六百二千頃也），百里之州五十有四億畝（五萬四十頃也，為古之田一十六萬二十頃也），千里之都五千有四百億畝（五百四十萬頃也，為古之一千六百二十萬頃也）。方里之內，以十畝為之屋室徑路，牛豚之所息，蔥韭菜蔬之所生植，裏之家給焉（古者方一里為井，為田九百畝，農夫家各受田百畝，公田八十畝。八家同養公田，公事畢，然後理私事。《詩》曰：「雨我公田，遂及我私。」餘田二十畝為廬井屋室。茲時里既加大，一畝之田為古之田三畝，則十畝之田為古之田三十畝，校其多少亦相若矣）。凡百里之州，為方十里者百，州縣城郭之所建，通川大途之所更，邶墓鄉井之所聚，川遂溝瀆之所渠，大計不過方十里者三十有六，有田一十九億四萬有四千畝（一萬九千四百四十頃也），百里之家給焉。千里亦如之。高山大川城郭其中，斬長綴短而量之。
+
+一畝之田，以強並弱，水旱之不時，雖不能盡地力者，歲不下粟一石。公索其十之一。凡百里之州有田五十有四億畝，以一十九億四萬有四千畝為之州縣、城郭、通川、大途、川遂、溝澮、邶墓、鄉井、屋室、徑路，牛豚之所息，蔥韭菜蔬之所生植，餘田三十四億五萬有六千畝（三萬四千五百六十頃也）。畝率十取粟一石，為粟三十四萬五千有六百石，以貢於天子，以給州縣凡執事者之祿，以供賓客，以輸四方，以禦水旱之災，皆足於是矣。其田間樹之以桑，凡樹桑人一日之所休者謂之功。桑太寡則乏於帛，太多則暴於田，是故十畝之田，植桑五功。一功之蠶，取不宜歲度之，雖不能盡其功者，功不下一匹帛。公索其百之十。凡百里之州有田五十四億畝，以十九億四萬有四千畝為之州縣、城郭、通川、大途、川遂、溝澮、邶墓、鄉井、屋室、徑路，牛豚之所息，蔥韭菜蔬之所生植，餘田三十四億五萬有六千畝，麥之田大計三分當其一，其土卑，不可以植桑，餘田二十三億有四千畝，樹桑凡一百一十五萬有二千功。功率十取一匹帛，為帛一十一萬五千有二百匹，以貢於天子，以給州縣凡執事者之祿，以供賓客，以輸四方，以禦水旱之災，皆足於是矣。
+
+鰥寡孤獨有不人疾者，公與之粟帛；能自給者，弗征其田桑。凡十里之鄉，為之公囷焉，鄉之所入於公者，歲十舍其一於公囷，十歲得粟三千四百五十有六石。十里之鄉多人者不足千六百家，鄉之家保公囷，使勿偷。饑歲並入不足於食，量家之口多寡，出公囷與之，而勸蠶以須麥之升焉。及其大豐，鄉之正告鄉之人，歸公所與之畜，當戒必精勿濡，以內於公囷。窮人不能歸者與之，勿徵於書。則歲雖大饑，百姓不困於食，不死於溝洫，不流而入於他矣。
+
+人既富，樂其生，重犯法而易為善。教其父母使之慈，教其子弟使之孝，教其在鄉黨使之敬讓，羸老者得其安，幼弱者得其養，鰥寡孤獨有不人病者皆樂其生。屋室相鄰，煙火相接於百里之內，與之居則樂而有禮，與之守則人皆固其業，雖有強暴之兵不敢陵。自百里之內推而布之千里，自千里而被乎四海，其孰能當之？是故善為政者，百姓各自保而親其君上，雖欲危亡，弗可得也。其在《詩》曰：「迨天之未陰雨，徹彼桑土，綢繆牖戶，今此下民，或敢侮予。」此之謂也。
+==[[數奇篇]]==
+禽滑釐問於子墨子曰：「魯氏有叔侄同處者，叔曰無恒，侄曰數奇。數奇強力能施，儉以厚人。凡魯氏有大事，父叔兄弟所不能集者，數奇皆盡身以成之；親戚之喪在野者，數奇往葬之；姑姊妹之無主失時者，數奇皆取而嫁之；其或不能自存者，數奇買田宅以生養之。凡數奇之祿，朋友故舊、緦麻小功之親，無不皆周也。仕於齊，積功當遷，辭不受，請以與其叔，無恒因得官。遠近之親，莫不歡以賴之，獨無恒以為不足於己。無恒有妾曰善佞，畜私夫以生子曰不類，數奇愛不類如其子。無恒久乃告數奇曰：‘不類非吾子，他人之子也，汝勿以為弟。’數奇驚曰：‘叔父得無誤乎？’無恒曰：‘吾察之詳矣，有驗存焉。’數奇之從父妹笑曰：‘孰不知之？雖然，叔父之為人也無常心，其後必悔，悔則兄受謗，為不仁而棄弟矣。盍請契焉。’數奇以為然，因質於無恒，無恒遂裂帛具書其然之故，與數奇以為信。既而數奇仕於蜀，無恒果復以不類為子，愛之加於初。數奇至，固爭之，無恒大怒，告人曰：‘帛書非吾意，數奇強我以為。’無恒惡數奇之不順己也，毀而敗之，冀有惡名於時。數奇終不怨，其自行如初。敢問為數奇者，宜奈何而可？」子墨子曰：「數奇絜身而去可也。」問曰：「侄舍叔而去，義乎？」子墨子曰：「有大故，雖子去父可也，叔侄何有？古公欲立王季曆，太伯、仲雍知之，遂適吳不返，避嫡以成父志。晉獻公信驪姬之讒，將立奚齊，太子申生不去，終被惡名，雉經以死，且陷其父於惡。公子重耳奔翟逃禍，卒有晉國，霸天下。故重耳為孝，而申生為恭。無恒之惡數奇也深矣，不去，後必相殘，陷無恒於大惡。孰與去而皆全，以追太伯、仲雍、重耳之跡而行乎？雖子逃父可也。」問曰：「數奇可以不去而盡從無恒之所行耶？」曰：「不可。從道不從父，從義不從君，況叔父乎？無恒之所行無恒也，如皆從之，是陷無恒於惡，數奇將何以立？」禽滑厘以子墨子告於數奇，數奇遂適東夷，東夷之俗大化。
+==[[五木經]]==
+樗蒲，五木，玄白判。厥二作雉，背雉作牛。王采四：盧、白、雉、牛。甿采六：開、塞、塔、禿、橛、𢳚。全為王，駁為甿。皆玄曰“盧”，厥筴十六；皆白曰“白”，厥筴八；雉二玄三曰“雉”，厥筴十四；牛二白三曰“犢”，厥筴十；雉一牛一白三曰“開”，厥筴十二；雉一牛一餘皆玄曰“塞”，厥筴十一；雉白各二玄一曰“塔”，厥筴五；牛玄各二白一曰“禿”，厥筴四；雉二白一玄二曰“撅”，厥筴三；牛二白二玄一曰“𢳚”，厥筴二。矢百有二十。設關二，間矢為三。馬筴二十，厥色五。凡擊馬及王采皆又投。馬出初關疊行，非王采不出關，不越坑。入坑有謫。行不擇筴馬。一矢為坑。
+==[[皇祖實錄]]==
+公諱楚金，諮議詔第二子。明經出身，初授衛州參軍，又授貝州司法參軍。夫人清河崔氏，父球，兗、鄆、懷三州刺史。公伯兄惟慎，太原府壽陽縣丞。性曠達樂酒，不理家產。每日齎錢一千出遊，求飲酒者，必盡所齎然後歸。其飲酒徒，善草、隸書張旭其人也。公事壽陽如父在，每事必請於壽陽。壽陽曰：「汝年亦長矣，若都不能自治立然，每事必擾我何為？」公曰：「不請，非不能為此也，不滿乎人心。」其請如初。及在貝州，刺史嚴正晦禁官吏於其界市易所無，公至官之日，養生之具皆自衛州車以來，又以二千萬錢入，曰：「吾食貝州水而已。」及正晦黜官，百姓舊不樂其政，將俟其出也，群聚號呼，斃之以瓦石，揚言無所畏忌。錄事參軍不敢禁，懼謂公曰：「若之何？」公曰：「錄事必不能當，請假歸，攝錄事參軍斯可矣。」乃如之。公告正晦曰：「若以威強不便於百姓，百姓俟使君行，加害於使君。使君更期出，其為使君任其患。」於是集州縣小吏得百餘人，皆持兵，無兵者持樸，埋長木於道中，令曰：「使君出，百姓敢有出觀者，杖殺大木下。」及正晦出，百姓莫敢動。或曰：「刺史出，可作矣，如李司法何？」貝州震恐。後刺史至，委政於公，奸吏皆務以情告不敢隱，貝州於是大理。壽陽之夫人鄭氏，賢知於族，嘗謂壽陽曰：「某觀叔賢於君，某之質不敢與叔母較高下，君之家和，子孫必有興者。」壽陽之第二子為戶部侍郎。初戶部氏兄弟五人，妹一人，其喪母也皆幼。公每日必抱置膝上，或泣而傷。諸侄之安於叔父也，如未失母時。有子三人，曰某，祗承父業，不敢弗及。夫人清河崔氏，能以柔順接於親族，其來歸也。皆自以為己親焉。翱生不及祖，不得備聞其景行，其貝州事業，親受之於先子，其餘皆聞之於戶部叔父。伏以皇祖之為子弟時，若不能自任也，及蒞官行事，則剛勇不回也如此，其行事皆可以傳於後世，為子孫法。蓋聞先祖有善而不知，不明也，知而不傳，不仁也。翱欲傳，懼文章不足以稱頌道德，光耀來世，是以頓首願假辭於執事者，亦惟不棄其愚而為之傳焉。
+==[[來南錄]]==
+[[:Category:808年 (提及)|<span title="808年">元和三年</span>]][[Category:808年 (提及)]]十月，[[w:李翱|翱]]既受[[w:楊於陵|嶺南尚書公]]之命。
+
+[[:Category:809年 (提及)|<span title="809年">四年</span>]][[Category:809年 (提及)]]<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆809年1月31日">正月己丑</span>，自旌善第以妻、子上船於漕。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆2月6日">乙未</span>，去[[w:隋唐洛阳城遗址|東都]]，[[w:韓愈|韓退之]]、[[w:石洪|石濬川]]假舟送予。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆2月7日">明日</span>，及[[w:汉魏洛阳故城|故洛]]東，吊[[w:孟郊|孟東野]]，遂以東野行，濬川以妻疾自漕口先歸，黃昏到景雲山居。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆2月8日">詰朝</span>登上方，南望[[w:嵩山|嵩山]]，題姓名記別，既食，韓、孟別予西歸。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆2月9日">戊戌</span>，予病寒，飲蔥酒以解表，暮宿於[[w:鞏縣|鞏]]。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆2月11日">庚子</span>，出洛下河，止汴梁口，遂泛汴流，通河於淮。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆2月12日">辛丑</span>，及[[w:河陰|河陰]]。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆2月16日">乙巳</span>，次[[w:汴州|汴州]]，疾又加，召醫察脈，使人入盧。
+
+<span style="display:inline-block; inline-size:1em;"></span>又<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆2月18日">二月丁未朔</span>，宿[[w:陳留|陳留]]。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆2月19日">戊申</span>，莊人自盧又來，宿[[w:杞縣|雍鄴]]。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆2月20日">乙酉</span>，次[[w:宋州|宋州]]，疾漸瘳。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆2月23日">壬子</span>，至[[w:永城|永城]]。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆2月25日">甲寅</span>，至[[w:埇桥区|埇口]]。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆2月27日">丙辰</span>，次[[w:泗州|泗州]]，見刺史假舟，轉淮上河如[[w:揚州|揚州]]。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆3月3日">庚申</span>，下[[w:汴水|汴渠]]入[[w:淮河|淮]]，風帆及[[w:盱眙|盱眙]]，風逆天黑，色波水激，順潮入[[w:新浦|新浦]]。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆3月5日">壬戌</span>，至[[w:楚州|楚州]]。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆3月10日">丁卯</span>，至[[w:揚州|揚州]]。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆3月11日">戊辰</span>，上[[w:扬州大明寺|棲靈浮圖]]。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆3月14日">辛未</span>，濟[[w:長江|大江]]至[[w:潤州|潤州]]。
+
+<span style="display:inline-block; inline-size:1em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="此三月初二，公曆3月21日">戊寅</span>，至[[w:常州|常州]]。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆3月25日">壬午</span>，至[[w:蘇州|蘇州]]。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆3月26日">癸未</span>，如[[w:虎丘|虎邱]]之山。息足千人石，窺劍池，宿望海樓，觀走砌石，將遊[[w:报恩寺塔_(苏州市)|報恩]]，水涸舟不通，無馬道，不果遊。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆3月28日">乙酉</span>，濟松江。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆3月30日">丁亥</span>，官艘隙，水溺舟敗。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆3月31日">戊子</span>，至[[w:杭州|杭州]]。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆4月1日">己丑</span>，如[[w:武林|武林]]之山，臨曲波，觀輪椿，登石橋，宿高亭，晨望平湖孤山江濤，窮[[w:雲棲竹徑|竹道]]，上新堂，周眺群峰，聽松風，召靈山永吟叫猿，山童學反舌聲。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆4月5日">癸巳</span>，駕[[w:錢塘江|濤江]]逆波至[[w:富春|富春]]。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆4月8日">丙申</span>，七里灘至[[w:睦州|睦州]]。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆4月12日">庚子</span>，上[[w:杨炯(唐朝)|楊盈川]]亭。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆4月13日">辛丑</span>，至[[w:衢州|衢州]]，以妻疾止行，居[[w:天寧寺(衢州)|開元佛寺]]臨江亭後。
+
+<span style="display:inline-block; inline-size:1em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="此閏三月初一，公曆4月19日">三月丁未朔</span>，翱在[[w:衢州|衢州]]。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆5月6日">甲子</span>，女某生。
+
+<span style="display:inline-block; inline-size:1em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆5月18日">四月丙子朔</span>，翱在[[w:衢州|衢州]]，與[[故處士侯君墓誌|侯高]]宿石橋。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆5月28日">丙戌</span>，去[[w:衢州|衢州]]。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆5月30日">戊子</span>，自[[w:常山县|常山]]上嶺至[[w:玉山县|玉山]]。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆6月1日">庚寅</span>，至[[w:信州|信州]]。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆6月5日">甲午</span>，望[[w:龟峰风景名胜区|君陽山]]，怪峰直聳似[[w:華山|華山]]。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆6月7日">丙申</span>，上[[w:于越亭|-{于}-越亭]]。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆6月10日">己亥</span>，直渡[[w:鄱陽湖|擔石湖]]。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆6月12日">辛丑</span>，至[[w:洪州|洪州]]，遇嶺南使，遊徐孺亭，看荷花。
+
+<span style="display:inline-block; inline-size:1em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆6月23日">五月壬子</span>，至[[w:吉州|吉州]]。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆7月3日">壬戌</span>，至[[w:虔州|虔州]]。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆7月6日">乙丑</span>，與[[w:韓泰_(唐朝)|韓泰]]<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>安平<span style="color:transparent;font-size:0px">〉</span></small>渡江，遊靈應山居。<ref>時韓泰為虔州司馬，推測為渡貢江至水東雷崗，遊“聖濟廟”。傳其神屢顯靈嘉應，頗有驗者。</ref>
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆7月12日">辛未</span>，上[[w:大庾嶺|大庾嶺]]。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆7月13日">明日</span>，至[[w:湞昌縣|湞昌]]。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆7月14日">癸酉</span>，上[[w:苍石寨旅游区|靈屯西嶺]]，見[[w:韶石|韶石]]。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆7月15日">甲戌</span>，宿靈鷲山居。
+
+<span style="display:inline-block; inline-size:1em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆7月16日">六月乙亥朔</span>，至[[w:韶州|韶州]]。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆7月17日">丙子</span>，至[[w:始興|始興]]公室。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆7月19日">戊寅</span>，入東蔭山，看大竹筍如嬰兒，過[[w:湞陽峽|湞陽峽]]。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆7月20日">己卯</span>，宿[[w:清遠|清遠]][[w:飞来寺 (清远市)|峽山]]。
+
+<span style="display:inline-block; inline-size:2em;"></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆7月24日">癸未</span>，至[[w:廣州|廣州]]。
+
+自[[w:洛陽|東京]]至[[w:廣州|廣州]]，水道出衢、信七千六百里，出上元、西江七千一百又三十里。自[[w:洛州|洛州]]下[[w:黃河|黃河]]、[[w:汴梁|汴梁]]，過[[w:淮河|淮]]至[[w:淮陰|淮陰]]一千八百有三十里，順流。自[[w:淮陰|淮陰]]至[[w:邵伯|邵伯]]三百有五十里，逆流。自[[w:邵伯|邵伯]]至[[w:長江|江]]九十里，自[[w:潤州|潤州]]至[[w:杭州|杭州]]八百里，渠有高下，水皆不流。自[[w:杭州|杭州]]至[[w:常山县|常山]]六百九十有五里，逆流，多驚灘，以竹索引船，乃可上。自[[w:常山县|常山]]至[[w:玉山縣|玉山]]八十里，陸道，謂之[[w:常玉古道|玉山嶺]]。自[[w:玉山縣|玉山]]至[[w:鄱陽湖|湖]]七百有一十里，順流，謂之[[w:信江|高溪]]。自[[w:鄱陽湖|湖]]至[[w:洪州|洪州]]一百有一十八里，逆流。自[[w:洪州|洪州]]至[[w:大庾嶺|大庾嶺]]一千有八百里，逆流，謂之[[w:贛江|漳江]]。自[[w:大庾嶺|大庾嶺]]至[[w:湞昌縣|湞昌]]一百有一十里，陸道，謂之[[w:梅關古道|大庾嶺]]。自[[w:湞昌縣|湞昌]]至[[w:廣州|廣州]]九百有四十里，順流，謂之[[w:湞江 (河流)|湞江]]，出[[w:韶州|韶州]]謂之[[w:北江|韶江]]。
+==[[何首烏錄]]==
+僧文象好養生術，[[:Category:812年 (提及)|<span title="812年">元和七年</span>]][[Category:812年 (提及)]]三月十八日，朝茅山，遇老人於華陽洞口，告僧曰：「汝有仙相，吾授汝秘方。有何首烏者，順州南河縣人，祖能嗣，本名田兒，天生閹，嗜酒。年五十八，因醉夜歸，臥野中。及醒，見田中有藤兩本，相遠三尺，苗蔓相交，久乃解，解合三四。心異之，遂掘根持問村野人，無能名。曝而乾之，有鄉人良戲而曰：‘汝閹也，汝老無子，此藤異而後以合，其神藥，汝盍餌之？’田兒乃篩末酒服。經七宿，忽思人道，累旬力輕健，欲不制，遂娶寡婦曾氏。田兒因常餌之，加餐兩錢，七百餘日，舊疾皆愈，反有少容，遂生男。鄉人異之。十年生數男，俱號為藥。告田兒曰：‘此交藤也，服之可壽百六十歲，而古方本草不載。吾傳於師，亦得之於南河，吾服之，遂有子。吾本好靜，以此藥害於靜，因絕不服。汝偶餌之，乃天幸。’因為田兒盡記其功，而改田兒名能嗣焉。嗣年百六十歲乃卒，男女一十九人。子庭服，亦年百六十歲，男女三十人。子首烏服之，年百三十歲，男女二十一人。安期《敘交藤》云：‘交藤味甘，溫無毒，主五痔腰腹中宿疾冷氣，長筋益精，令人多子能食，益氣力，長膚延年。一名野苗，一名交莖，一名夜合，一名地精，一名桃柳藤。生順州南河縣田中，嶺南諸州往往有之。其苗大如槁，本光澤，形如桃柳葉，其背偏獨單，皆生不相對。有雌雄，雄者苗色黃白，雌者黃赤。其生相遠，夜則苗蔓交，或隱化不見。春末、夏中、初秋三時候，晴明日，兼雌雄采之，烈日曝乾，散服酒下，良。采時盡其根，勿洗，乘潤以布帛拭去泥土，勿損皮，密器貯之，每月再曝。凡服，偶日二、四、六、八日是，服訖以衣覆，汗出導引，尤忌豬羊肉血。’」老人言訖，遂別去，其行如疾風。浙東知院殿中孟侍御識何首烏，嘗餌其藥，言其功如所傳。出賓州牛頭山，苗如萆薢蔓生，根如杯拳，削去側皮，生啖之，南人因呼為何首烏焉。[[:Category:813年 (提及)|<span title="813年">元和八年</span>]][[Category:813年 (提及)]]八月錄。
+==[[陸歙州述]]==
+吾郡陸傪，字公佐，生於世五十有七年矣。明於仁義之道，可以化人倫厚風俗者餘三十年。連事觀察使，觀察使不能知，退居於田者六七年。由侍御史入為祠部員外郎，二年出刺歙州，卒於道，貞元十八年四月二十八日也。凡人所不能窮者，必推之於天，天之注膏雨也，人心以為生旱苗然也，雨與苗運相違，或雨於海，或雨於山，旱苗不得仰其澤。惟人也亦然，天之生俊賢也，人之心以為拯憔悴之人然也，賢者與憔悴之人時不合，或死於野，或得其位而道不能行，憔悴之人不得被其惠。膏雨之降也適然，賢者之生於時也亦然。運相合，旱苗仰其澤，憔悴之人賴其力，傅說、甘盤、尹吉甫、管夷吾之類也；時勿合，膏雨降雖終日，賢哲生雖比肩，旱苗之不救，百姓之弗賴，顏子、子思、孟子、董仲舒之類也。故賢哲之生自有時，百姓之賴其力天也，不賴其力亦天也。嗚呼！公佐之官，雖升於朝，刺於州，其出入始二年，道之不行，與居於田時弗差也。公佐之賢雖日聞，其德行未必昭昭然聞於天子，公佐是以不得其職，出刺一州，又短命道病死，天下之未蒙其德固宜矣。然則天之生君也，授之以救人之道，不授之以救人之位，如膏雨之或雨於海，或雨於山，旱苗之不沐其澤者均也。故君子不得其位以行其道者，命也，其亦有不足於心者耶？得其道者窮居於野，非所謂屈，冠冕而相天下，非所謂伸，其何有不足於心者耶？
+==[[題燕太子丹傳後]]==
+荊軻感燕丹之義，函匕首入秦，劫始皇，將以存燕霸諸侯。事雖不成，然亦壯士也。惜其智謀不足以知變識機。始皇之道異於齊桓，曹沫功成，荊軻殺身，其所遭者然也。乃欲促檻車，駕秦王以如燕，童子婦人且明其不能，而軻行之，其弗就也非不幸。燕丹之心，苟可以報秦，雖舉燕國猶不顧，況美人哉？軻不曉而當之，陋矣。
+==[[題桄榔亭]]==
+翱與監察御史韋君詞皆自東京如嶺南，水道僅八千里。翱以<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="公曆809年2月6日">正月十八日</span>上舟於漕以行，韋君期以二月策馬疾驅，追我於汴宋之郊，或不能及，約自[[w:宣城|宣城]]會我於[[w:常州|常州]]以偕行。既翱停舟宿留，日日以須，韋君之出洛也易期。又宣城謀疾到，逆江南流上。翱以妻疾，居信安四十餘日，比及江西，韋君亦前行矣。上[[w:桄榔亭|桄榔亭]]，見韋君紀姓名，且有念我之言。嗟夫！皆行八千里，先後之不齊也不過十日，而初謀竟乖。人事之不果，不可以前期也。
+==[[題峽山寺]]==
+翱為兒童時，聞山遊者說[[w:飞来寺 (清远市)|峽山寺]]難為儔，遠地嘗以為無因能來。及茲獲遊，周厯五峰，然後知峽山之名有以然也。於靈鷲寺時，述諸山居之所長，而未言其所不足，如虎邶之劍池不流，天竺之石橋下無泉，麓山之力不副天奇，靈鷲擁前山不可視遠。峽山亦少平地，泉出山無所潭。乃知物之全能難也，況求友擇人而欲責全耶？去其所闕，用其所長，則大小之材無遺，致天下於平治也弗難矣。
+==[[題靈鷲寺]]==
+凡居山，以怪石、奇峰、走泉、深潭、老木、嘉草、新花、視遠為幽。自江之南而多好山居之所，翱之對者七焉，皆天下山居之尤者也。蘇州有虎邱山，則外為平地，入然後上，高石可居數百人，劍池上峭壁聳立，憑樓檻以遠望。
+
+==[[高愍女碑]]==
+愍女姓高，妹妹名也。生七歲，當[[:Category:781年 (提及)|<span title="781年">建中二年</span>]][[Category:781年 (提及)]]。父彥昭，以濮陽歸天子。前此逆賊質妹妹與其母兄，而使彥昭守濮陽，及彥昭以城歸，妹妹與其母兄皆死。其母李氏也，將死，憐妹妹之幼無辜，請獨免其死，而以為婢於官，眾皆許之。妹妹不欲，曰：「生而受辱，不如死，母兄且皆不免，何獨生為！」其母與兄將被刑，咸拜於四方，妹妹獨曰：「我家為忠，宗黨誅夷，四方神祗尚何知？」問其父所在之方，西向哭，再拜，遂就死。明年，太常諡之曰愍。當此之時，天下之為父母者聞之，莫不欲愍女之為其子也；天下之為夫者聞之，莫不欲愍女之為其室家也；天下之為女與妻者聞之，莫不欲愍女之行在其身也。昔者曹娥思盱，自沉於江；獄吏噓囚，章女悲號；思唁其兄，作詩載馳；緹縈上書，乃除肉刑。彼四女者，或孝或智，或義或仁。噫此愍女，厥生七歲，天生其知，四女不倫。向遂推而布之於天下，其誰不從而化焉？雖有逆子必改行，雖有悍妻必易心。賞一女而天下勸，亦王化之大端也。異哉愍女之行，而不家聞戶知也。[[:Category:797年 (提及)|<span title="797年">貞元十三年</span>]][[Category:797年 (提及)]]，翱在汴州，彥昭時為潁州刺史，昌黎韓愈始為余言之。余既悲而嘉之，於是作《高愍女碑》。
+==[[唐故特進左領軍衛上將軍兼御史大夫平原郡王贈司空柏公神道碑]]==
+柏氏係自有周，叔虞封晉，其支子有受邑於伯為采地者，因以為姓。後世生宗，宗以直顯，景公、厲公之時，三郤惡宗，共譖殺之。其客畢陽，以其子州黎奔楚，於是改伯為柏。及漢有鴻者，由議郎為魏郡守，子孫家焉，故為魏郡也。有季纂者，入唐為工部尚書，生敬仁為蘄州長史，生謇為河南永寧令，贈大理寺少卿，生造為懷之獲嘉令，即公之父也。
+
+公諱良器，字公亮。生十二年，安祿山陷東郡，獲嘉守縣印不去，為賊將所害。公既免喪，懷平賊志，乃學擊劍，依父友王奐。奐嚐曰：「汝額文似李臨淮，面黑子似顏平原，其必立。」臨淮即太尉光弼也。年十七，得汝州龍興尉。王奐從事太尉府，薦之太尉，召與言，遂授以兵，使平安越之盜。累授左武衛中郎將，以所將兵隸於浙西。廣德歲中，盜陷江東十州，公帥所將兵來婺州，功多進左武衛將軍。平方清於洞中，賜錢五百萬，破張三霸海上，改左金吾衛將軍，為都知兵馬使。大曆初，潘獰虎據小傷，胡參據蒸里，江東大擾，公將卒三千人、騎五百人與戰，皆破之，斬首三千級，執俘一千人。詔加檢校光祿大夫兼蘇州別駕，又加左羽林大將軍試殿中監察御史。李棲筠問公年，對曰二十有四，戰陣幾何，曰六十有二。李公歎曰：「相識甚近，得公甚深，勉哉！」公泣涕謝曰：「遭時喪亂，父死家破，誓棄性命，以除寇讎，私誌未立，豈敢望為明公之所知哉！」
+
+建中初嘗至京師，宰相楊炎召之語，公因言兩河有事，職稅所辦者，惟在江東，李道昌無政，宜速得人以代之。炎許諾，其冬遂並宣越與浙西以為一，而以晉州刺史韓滉代道昌焉。及德宗如梁州，李希烈陷汴州，逐李勉，遂僭帝號，寇陳州，圍宋寧陵，滉使公將卒萬人救陳並寧陵。是時劉元佐敗於白塔，收其卒保宋州，使將王彥昭守寧陵。希烈擁水灌其南，築埇道親臨其北，令軍中曰：「明日日中陷城。」公聞之，厲所將兵，成陣以進，恐城陷不及，使弩手善遊者五百人，沿汴渠夜進，去城數里，沒於水中，遂得入。及旦，賊驅勇卒登城，城中伏弩悉發，皆貫人斃。其後希烈始知救兵得入，殺守將，因罷去。將昌集城中人哭曰：「向非浙西救至，則此城已屠矣。」遂拔襄邑，收漳口，宋州由是獲全。李希烈遂失汴州，奔於蔡。詔封平原郡王，食邑三千戶，特進兼御史中丞。
+
+[[:Category:786年 (提及)|<span title="786年">貞元二年</span>]][[Category:786年 (提及)]]淮西平，詔曰：「休勳茂伐，書於竹帛，戎籍乃為裨將副，非所以褒功寵德也，其以為左神策軍將軍知軍事兼官如故。」五年詔與太尉晟、侍中瑊等三十六人圖形於淩煙閣，上親御，即其形而贊之。八年遷大將軍，士卒之在市販者，悉揮斥去，募勇者代之，故為所監者不悅。明年，公之故人有犯禁宿於望仙門者，衛使奏言，遂轉右領軍衛大將軍，所監者乃用其衙將魏循代為將軍，自是軍中之政，不復在於將軍矣。十五年兼英武將軍使，十八年遷左領軍兼御史大夫。十九年閏十月，以疾卒，年六十一。天子為之廢朝，贈陝州大都督。明年，葬於萬年畢原。
+
+夫人康氏先歿，後始附葬。有子曰元封，為蔡州刺史；曰耆，為諫議大夫；曰元鳳，為澄城主簿；曰夔，為襄州參軍。三女皆幼。以元封及耆累贈為司空，夫人追封魏國太夫人。初公與王棲曜、李長榮皆事韓晉公，棲曜至鄜坊，長榮至河陽澤潞，皆擁節有土。公自少則戮力破賊，及壯解寧陵、猗杖之圍，希烈之所以兵不及於宋，而江東以全者，實公之所為也。功最高，位獨以不副，克生良子，能大厥家。[[:Category:827年 (提及)|<span title="827年">太和元年</span>]][[Category:827年 (提及)]]，翱自廬以諫議大夫徵，路出於蔡，元封泣拜，且曰：「先公之碑未樹，教後嗣其果有辭俟也，公不可聽。」乃銘曰：
+
+公生十二，未壯家毀。誓殄父仇，不怯勇死。釋官就軍，焯有其勳。擒凶盜平，威明顯聞。人誰不貴，孰勝其位。由卑至巨，莫匪躬致。宣疏土疆，報未功當。是生後人，紹慶不忘。
+==[[唐故橫海軍節度齊棣滄景等州觀察處置等使金紫光祿大夫檢校兵部尚書使持節齊州諸軍事兼齊州刺史御史大夫上柱國貝郡開國公食邑二千戶贈左僕射傅公神道碑]]==
+傅為古姓，介子誅樓蘭王，封義陽侯；俊為二十八將，功高稱於兩漢；而毅以文章顯。自漢以降，世累有人。曾祖諫，易州長史。生大父定州司馬韶，贈鄧州長史。生父榮，贈刑部尚書。
+
+公諱良弼，字安道，清河人也。以善弓矢顯，仁於成德軍，流輩稱其樸厚。博野樂壽，本隸瀛州，在范陽、成德間為要害，地每相攻，以取兩城。及武王俊破走朱滔，詔以博野、樂壽與成德軍，其後以公選為將，而鎮於樂壽。公善撫士卒，與之同苦樂，得士卒死力。長慶初，幽州繼亂，范陽執其帥宏靖而扶克融，成德殺其帥宏正，將庭湊因盜有地。公奮曰：「吾豈可以為賊乎？」遂誓眾，喻以逆順，閉城拒賊，潛疏以聞。詔以樂壽為神策行營，命公以為都知兵馬使，與深州將牛元翼、博野李寰犄角相應。賊屢攻之，卒不能克。會詔下，以克融、庭湊皆為節度使，公遂將樂壽之師，及其妻子，拔城以出賊，轉鬥且引，遂遇官軍，以免於難。以功遷沂州刺史，未到，遽以為左神策軍將軍，數月拜鄭州刺史。
+
+公本用武力進，未嘗治人，於是痛自刻凜，清已率下，凡從公將卒，本與公同立於樂壽者，皆飭懼不敢越條令以侵物，故鄭州稱理，雖他時文吏，罕能過者。明年改為鹽州刺史。閔帝初，以公為銀、夏、綏、宥等州節度使，居河陽。濡民不耕織，党項千餘落，以畜牛羊馬代田業。先時將帥多貪，至有盜其善馬者，蕃落咸怨走，以出他境。及公之至，蕃人來見，或獻馬者，公拒而不受，蕃人喜，傳以相告，未逾月，而部落相勸皆歸。蕃人之有罪者，懼而來奔，故事皆使蕃人出馬以贖，公曰：「吾將於此，職當禁其逃亡，有罪何俟於贖？」皆執之以付其蕃落，蕃人益喜。
+
+[[:Category:需要指定公元的紀年|<span title="請指定為“228年”或“329年”或“345年”或“367年”或“478年”或“648年”">太和二年</span>]][[Category:需要指定公元的紀年]]九月，以公為橫海軍節度使檢校兵部尚書，俾治齊州，以圖滄、景之寇，知兵者咸以為命將之當，必且有成矣。旌旗及於陝而得疾，疾愈即路，以十月晦，薨於硤石驛，春秋五十有六。天子悼痛，為之廢朝，贈尚書左僕射。以明年七月，葬河南府洛陽縣伯樂里。
+
+夫人南陽張氏，柔立善斷。公以樂壽拒賊，暨轉戰以出，夫人粗衣糲食，與兵士妻女均好惡，用助公事。再封南陽郡夫人。三子守常、守中、守章等，皆孝謹寡過。公方將立大功，以報於國，不以男子之仕為念，故官甚卑；有未官者。銘曰：
+
+大夫致身，不賴前業。遭變竭忠，奇節奕奕。乃作刺史，乃作將軍。乃統邊兵，事績昭聞。廉以檢已，嚴以督下。蕃落完安，馬牛在野。大革前事，自我為初。爾後之來，視此勿渝。
+{| class="ws-noexport noprint ws-footer" width="100%" cellpadding="0" cellspacing="0" style="border:1px solid var(--border-color-content-added,#a3d3ff); background-color: var(--background-color-progressive-subtle,#eaf3ff); width:100%; margin-bottom:0px; text-align:center;"
+| width="20%" align="left" |　[[../卷0637|卷六百三十七]]
+| <span style="color:#999"> ◄ </span>
+| width="50%" align="center" |[[#top|↑返回頂部]]
+| <span style="color:#999"> ► </span>
+| width="20%" align="right" |[[../卷0639|卷六百三十九]]
+|}
+<templatestyles src="Template:License/styles.css" /><div class="licenseContainer licenseBanner dynlayout-exempt " >
+<div><div><div><div>
+<span class="imageLeft">[[File:PD-icon.svg|x48px|alt=|link=]]</span>
+</div><div>
+<div>
+此唐朝作品在全世界都属于'''[[w:公有领域|公有领域]]'''，因为作者逝世已经超过100年，且作品于1931年1月1日之前出版。
+</div>
+</div><div>
+<span class="noimageRight></span>
+</div></div></div></div>
+<div class="licensetpl">
+<span class="licensetpl_short">Public domain</span><span class="licensetpl_long">Public domain</span><span class="licensetpl_link_req">false</span><span class="licensetpl_attr_req">false</span>
+</div>
+</div>[[分類:唐朝]]

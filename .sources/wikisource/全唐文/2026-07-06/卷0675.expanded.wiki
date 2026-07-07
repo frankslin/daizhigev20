@@ -1,0 +1,108 @@
+
+{|style="width:100%; margin-bottom:0px; border:1px solid #AADDAA; background-color: #E4F2E4; text-align:center;" class="ws-header"
+|-
+| class="noprint" style="width:25%; text-align:left; font-size:small;" |←[[../卷0674|卷六百七十四]]
+|style="width:50%;" |'''全唐文·卷六百七十五'''
+| class="noprint" style="width:25%; text-align:right; font-size:small;" |[[../卷0676|卷六百七十六]]→
+|}
+{|style="width:100%; background:#F2F9F2; font-size:small; border-bottom:1px solid #D5ECD5" class="ws-header"
+|- 
+|<div style="color:#464646"><ul id="plainSister" style="display:inline-block; font-size:93%; line-height:normal; list-style-type:none; list-style-image:none; list-style-position:outside; border:1px solid var(--border-color-base,#AAA); float:right; clear:right; margin:0.5ex 0.5ex 0.5ex 0.5ex; padding:0.0ex 0.0ex 0.0ex 0.0ex; background-color:var(--background-color-base,#FFFFFF);color: inherit;"><li class="noprint sisitem"><span class="sisicon" style="padding-right:1ex;">[[Image:Wikimedia-logo.svg|frameless|18px|link=Special:sitematrix|alt=姊妹计划]]</span>[[Special:sitematrix|姊妹计划]]: [[d:Q85539453|数据项]]</li></ul> </div>
+|}
+
+　　◎　白居易（二十）
+
+　　　　◇　[[與元九書]]
+
+月日，居易白。微之足下：自足下謫江陵至于今，凡所贈答詩僅百篇，每詩來，或辱序，或辱書，冠于卷首，皆所以陳古今歌詩之義，且自敘爲文因緣與年月之遠近也。僕既受足下詩，又諭足下此意，常欲承答來旨，粗論歌詩大端，并自述爲文之意，總爲一書，致足下前。累歲已來，牽故少暇，間有容隙，或欲爲之，又自思所陳亦無足下之見，臨紙復罷者數四，卒不能成就其志，以至于今。今俟罪潯陽，除盥櫛食寢外無餘事，因覽足下去通州日所留新舊文二十六軸，開卷得意，忽如會面，心所畜者，便欲快言，往往自疑不知相去萬里也。既而憤悱之氣，思有所洩，遂追就前志，勉爲此書，足下幸試爲僕留意一省。
+
+夫文尚矣。三才各有文：天之文，三光首之；地之文，五材首之；人之文，六經首之。就六經言，詩又首之。何者？聖人感人心而天下和平。感人心者，莫先乎情，莫始乎言，莫切乎聲，莫深乎義。詩者：根情、苗言、華聲、實義。上自賢聖，下至愚騃，微及豚魚，幽及鬼神，羣分而氣同，形異而情一，未有聲入而不應，情交而不感者。聖人知其然，因其言經之以六義，緣其聲緯之以五音，音有韻，義有類，韻協則言順，言順則聲易入，類舉則情見，情見則感易交。於是乎孕大含深，貫微洞密，上下通而一氣泰，憂樂合而百志熙。五帝三皇所以直道而行，垂拱而理者，掲此以爲大柄，決此以爲大寶也。故聞「元首明股肱良」之歌，則知虞道昌矣；聞「五子洛汭」之歌，則知夏政荒矣。言者無罪，聞者足戒，言者聞者，莫不兩盡其心焉。洎周衰秦興，採詩官廢，上不以詩補察時政，下不以歌洩導人情，乃至於諂成之風動，救失之道缺，於時六義始刓矣。國風變爲騷辭，五言始於蘇李，蘇李騷人皆不遇者，各繫其志發而爲文，故河梁之句止於傷別，澤畔之吟歸于怨思，彷徨抑鬱不暇及他耳。然去詩未遠，梗概尚存，故興離別則引雙鳧一鴈爲喻，諷君子小人則引香草惡鳥爲比，雖義類不具猶得風人之什二三焉，于時六義始缺矣。晉宋已還得者蓋寡：以康樂之奧博，多溺於山水，以淵明之高古，偏放於田園，江鮑之流又狹於此，如梁鴻五噫之例者，百無一二焉！于時六義寖微矣。陵夷至于梁陳間，率不過嘲風雪、弄花草而已。噫！風雪花草之物，三百篇中豈捨之乎！顧所用何如耳。設如「北風其涼」，假風以刺威虐也；「雨雪霏霏」，因雪以愍征役也；「棠棣之華」，感華以諷兄弟也；「采采芣苢」，美草以樂有子也。皆興發於此而義歸於彼。反是者可乎哉！然則「餘霞散成綺，澄江淨如練」、「離花先委露，別葉乍辭風」之什，麗則麗矣，吾不知其所諷焉，故僕所謂嘲風雪、弄花草而已，于時六義盡去矣。唐興二百年，其間詩人不可勝數，所可舉者：陳子昂有《感遇詩》二十首、鮑防有《感興詩》十五首。又詩之豪者，世稱李杜，李之作，才矣，奇矣，人不逮矣！索其風雅比興，十無一焉。杜詩最多，可傳者千餘篇，至於貫穿今古覼縷格律，盡工盡善又過於李，然撮其《新安吏》《石壕吏》《潼關吏》《塞蘆子》《留花門》之章、「朱門酒肉臭路有凍死骨」之句，亦不過三四十首。杜尚如此，況不逮杜者乎！
+
+僕嘗痛詩道崩壞，忽忽憤發，或食輟哺、夜輟寢，不量才力，欲扶起之。嗟乎！事有大謬者，又不可一二而言！然亦不能不粗陳於左右：僕始生六七月時，乳母抱弄於書屏下，有指無字之字示僕者，僕雖口未能言，心已默識，後有問此二字者，雖百十其試，而指之不差，則僕宿習之緣，已在文字中矣。及五六歲，便學爲詩，九歲諳識聲韻，十五六始知有進士，苦節讀書，二十已來，晝課賦夜課書，間又課詩，不遑寢息矣，以至于口舌成瘡、手肘成胝，旣壯而膚革不豐盈，未老而齒髮早衰白，瞥瞥然如飛蠅垂珠在眸子中也，動以萬數！蓋以苦學力文所致。又自悲矣家貧多故，二十七方從鄉賦。旣第之後，雖專於科試，亦不廢詩，及授校書郎時已盈三四百首，或出示交友如足下輩，見皆謂之工，其實未窺作者之域耳。自登朝來，年齒漸長，閲事漸多，每與人言多詢時務，每讀書史多求理道，始知文章合爲時而著，歌詩合爲事而作。是時皇帝初即位，宰府有正人，屢降璽書，訪人急病。僕當此日，擢在翰林，身是諫官，月請諫紙啓奏之外，有可以救濟人病裨補時闕而難於指言者，輒詠歌之，欲稍稍遞進聞於上：上以廣宸聰，副憂勤；次以酬恩獎，塞言責；下以復吾平生之志。豈圖志未就而悔已生，言未聞而謗已成矣！又請爲左右終言之：凡聞僕賀雨詩，而衆口籍籍，已謂非宜矣；聞僕哭孔戡詩，衆面脈脈，盡不悅矣；聞《秦中吟》，則權豪貴近者相目而變色矣；聞樂遊園寄足下詩，則執政柄者扼腕矣；聞宿紫閣村詩，則握軍要者切齒矣。大率如此，不可徧舉。不相與者號爲沽名，號爲詆訐，號爲訕謗。苟相與者，則如牛僧孺之誡焉，乃至骨肉妻孥皆以我爲非也。其不我非者，舉世不過三兩人：有鄧魴者，見僕詩而喜，無何而魴死；有唐衢者，見僕詩而泣，未幾而衢死；其餘則足下，足下又十年來困躓若此。嗚呼！豈六義四始之風天將破壞不可支持耶？抑又不知天之意，不欲使下人之病苦聞於上耶？不然，何有志於詩者不利若此之甚也！
+
+然僕又自思關東一男子耳，除讀書屬文外，其他懵然無知，乃至書畫棊博可以接羣居之歡者，一無通曉，即其愚拙可知矣。初應進士時，中朝無緦麻之親，達官無半面之舊，策蹇歩於利足之途，張空弮於戰文之場，十年之間，三登科第，名入衆耳，迹升清貫，出交賢俊，入侍冕旒。始得名於文章，終得罪於文章，亦其宜也！日者又聞親友間説：禮吏部舉選人，多以僕私試賦判傳爲準的，其餘詩句亦往往在人口中。僕恧然自愧，不之信也。及再來長安，又聞有軍使高霞寓者欲娉倡妓，妓大誇曰：「我誦得白學士《長恨歌》，豈同他妓哉！」由是增價。又足下書云：到通州日，見江館柱間有題僕詩者，復何人哉。又昨過漢南日，適遇主人集衆樂娛他賓，諸妓見僕來，指而相顧曰：「此是《秦中吟》《長恨歌》主耳。」自長安抵江西，三四千里，凡鄉校佛寺逆旅行舟之中，往往有題僕詩者，士庶僧徒孀婦處女之口，每每有詠僕詩者。此誠雕蟲之戲，不足爲多，然今時俗所重正在此耳。雖前賢如淵雲者、前輩如李杜者，亦未能忘情於其間哉。古人云：「名者公器，不可以多取。」僕是何者？竊時之名已多，旣竊時名，又欲竊時之富貴，使己爲造物者，肯兼與之乎！今之迍窮，理固然也。況詩人多蹇，如陳子昂杜甫各授一拾遺，而迍剝至死；李白孟浩然輩，不及一命，窮悴終身；近日孟郊六十，終試協律；張籍五十，未離一太祝。彼何人哉！彼何人哉！況僕之才，又不逮彼。今雖謫佐遠郡，而官品至第五，月俸四五萬，寒有衣、饑有食，給身之外施及家人，亦可謂不負白氏之子矣！微之微之，勿念我哉。
+
+僕數月來檢討囊袠中，得新舊詩，各以類分，分爲卷目：自拾遺來，凡所遇所感，關於美刺興比者，又自武德訖元和，因事立題，題爲「新樂府」者，共一百五十首，謂之「諷諭詩」；又或退公獨處，或移病閑居，知足保和吟玩情性者一百首，謂之「閑適詩」；又有事物牽於外，情理動於內，隨感遇而形於歎詠者一百首，謂之「感傷詩」；又有五言、七言、長句、絕句，自一百韻至兩韻者四百餘首，謂之「雜律詩」。凡爲十五卷，約八百首，異時相見，當盡致於執事。微之，古人云：「窮則獨善其身，達則兼濟天下。」僕雖不肖，常師此語。大丈夫所守者道，所待者時。時之來也，爲雲龍爲風鵬，勃然突然，陳力以出；時之不來也，爲霧豹爲冥鴻，寂兮寥兮，奉身而退。進退出處，何往而不自得哉。故僕志在兼濟，行在獨善，奉而始終之則爲道，言而發明之則爲詩。謂之「諷諭詩」，兼濟之志也；謂之「閑適詩」，獨善之義也。故覽僕詩，知僕之道焉。其餘雜律詩，或誘於一時一物，發於一笑一吟，率然成章非平生所尚者，但以親朋合散之際，取其釋恨佐懽。今銓次之間，未能刪去，他時有爲我編集斯文者，略之可也。
+
+微之，夫貴耳賤目，榮古陋今，人之大情也！僕不能遠徵古舊，如近歲韋蘇州歌行，才麗之外，頗近興諷，其五言詩又高雅閑澹，自成一家之體，今之秉筆者誰能及之！然當蘇州在時，人亦未甚愛重，必待身後，然人貴之。今僕之詩，人所愛者，悉不過雜律詩與《長恨歌》已下耳，時之所重，僕之所輕。至於諷諭者，意激而言質；閑適者，思澹而詞迂。以質合迂，宜人之不愛也。今所愛者，並世而生獨足下耳，然千百年後，安知復無如足下者出而知愛我詩哉。故自八九年來，與足下小通則以詩相戒，小窮則以詩相勉，索居則以詩相慰，同處則以詩相娛，知吾最要，率以詩也。如今年春遊城南時，與足下馬上相戲，因各誦新豔小律，不雜他篇，自皇子陂歸昭國里，迭吟遞唱不絶聲者二十里餘，樊李在傍無所措口。知我者以爲詩仙，不知我者以爲詩魔。何則？勞心靈、役聲氣，連朝接夕不自知其苦，非魔而何？偶同人當美景，或花時宴罷，或月夜酒酣，一詠一吟，不知老之將至，雖驂鸞鶴遊蓬瀛者之適無以加於此焉，又非仙而何？微之微之，此吾所以與足下外形骸，脫蹤跡，傲軒鼎，輕人寰者，又以此也。當此之時，足下興有餘力，且欲與僕悉索還往中詩，取其尤長者，如張十八古樂府，李二十新歌行，盧楊二祕書律詩，竇七元八絶句，博搜精掇編而次之，號「元白往還詩集」，衆君子得擬議於此者，莫不踴躍欣喜，以爲盛事。嗟乎！言未終而足下左轉，不數月而僕又繼行，心期索然，何日成就！又可爲之歎息矣。又僕嘗語足下，凡人爲文，私於自是，不忍於割截，或失於繁多；其間妍蚩，益又自惑。必待交友有公鑒無姑息者，討論而削奪之，然後繁簡當否得其中矣。況僕與足下爲文尤患其多，己尚病之，況他人乎！今且各纂詩筆，粗爲卷第，待與足下相見日，各出所有，終前志焉，又不知相遇是何年，相見在何地，溘然而至則如之何！微之微之，知我心哉！
+
+潯陽臘月，江風苦寒，歲暮鮮歡，夜長無睡。引筆鋪紙，悄然燈前，有念則書，言無次第。勿以繁雜爲倦，且以代一夕之話也。微之微之知我心哉，樂天再拜。
+
+　　　　◇　[[答戶部崔侍郎書]]
+
+侍郎院長閣下：戶部牒中奉八月十七日書，具承康寧，喜與抃會。并別睹手翰，訪敘綢繆，何眷好勤勤若此之不替也，幸甚幸甚。首垂問以鄙況，不足云，蓋默默兀兀，委順任化而已。次垂問以體氣，除舊目疾外，雖不甚健，亦幸無急病矣。次垂問以月俸，月俸雖不多，然量入以為用，亦不至凍餒矣。又垂問以舍弟，渠從事東川，近得書，且知無恙矣。終垂問以心地，此最要者，輒梗概言之。頃與閣下在禁中日，每視草之暇，匡床接枕，言不及他，常以南宗心要，互相誘導。別來閑獨，隨分增修，比於曩時，亦似有得，得中無得，無可寄言。來書云「粗示可乎」，斯不可也。又知兵部李尚書同在南宮，錢、蕭二舍人移官閑秩，退朝之暇，數獲晤言，每話舊游，輒蒙見念。此蓋君子久要之心，不為榮悴合散增減耳。而不佞者，又何幸焉！然自到潯陽，忽已周歲，外物盡遣，中心甚虛。雖賦命之間，則有厚薄，而忘懷之後，亦無窮通，用此道推，頹然自足。又或杜門隱-{几}-，塊然自居，木形灰心，動逾旬月。當此之際，又不知居在何地，身是何人，雖鵩鳥集於前，枯柳生於肘，不能動其心也，而況進退榮辱之累耶？又思頃者接確論時，走嘗有言薦於執事云：「心與跡多相戾，道與名不兩立，茍有志於道者，若不幸於外，是幸於內。」猥蒙嘆賞，猶憶之乎？今之身心，或近是矣。退思此語，撫省初心，求仁得仁，又何不足之有也？前月中，長兄從宿州來，又孤幼弟侄六七人，皆自遠至，日有糲食，歲有粗衣，饑寒獲同，骨月相保，此亦默默委順之外，益自安也。況廬山在前，九江在左，出門是滄浪水，舉頭見香爐峰，東西二林，時時一往，至如瀑水怪石，桂風杉月，平生所愛者，盡在其中，此又兀兀任化之外，益自適也。今日之心，誠不待此而後安適，況兼之者乎？此鄙人所以安又安、適又適，而不知命之窮、老之至也。院長公望日重，啟沃非遙，仰惟勉樹勛名，勿以鄙劣為念。
+
+　　　　◇　[[與濟法師書]]
+
+月日，弟子太原白居易白濟上人侍右：昨者頂謁時，不以愚蒙，言及佛法，或未了者，許重討論。今經典間未諭者，其義有二，欲面問答，恐彼此卒卒，語言不盡，故粗形於文字，愿詳覽之，敬佇報章，以開未悟，所望所望。
+
+佛以無上大慧，觀一切眾生，知其根性大小不等，而以方便智說方便法，故為闡提說十善法，為小乘說四諦法，為中乘說十二因緣法，為大乘說六波羅蜜法，皆對病根，投以良藥，此蓋方便教中不易之典也。何者？若為小乘人說大乘法，心則狂亂狐疑不信，所謂無以大海內於牛跡也；若為大乘人說小乘法，是以穢食置於寶器，所謂彼自無創，勿傷之也。故《維摩經》總其義云：「為大醫王，應病與藥。」又《首楞嚴三昧經》云：「不先思量，而說何法，隨其所應，而為說法。」正是此義耳。猶恐說法者不隨人之根性也，故又《法華經》戒云：「若但贊佛乘，眾生沒在罪苦，不能信是法，破法不信故。」如此，非獨慮說者不能救病，亦懼聞者不信，沒入罪苦也。則佛之付囑，豈不丁寧耶？何則？《法王經》云：「若定根基，為小乘人說小乘法，為大乘人說大乘法，為闡提人說闡提法，是斷佛性，是滅佛身。是說法人當歷百千萬劫，墮諸地獄，縱佛出世，猶未得出。若生人中缺唇無舌，獲如是報。何以故？眾生之性，即是法性，從本以來，無有增減。云何於中，分別病藥？」又云：「於諸法中，若說高下，即名邪說，其口當破，其舌當裂。何以故？一切眾生，心垢同一垢，心凈同一凈，眾生若病，應同一病，眾生須藥，應同一藥，若說多法，即名顛倒。何以故？為妄分別，析善惡法，破一切法故，隨機說法，斷佛道故。」此又了然不壞之義也。又《金剛經》云：「是法平等，無有高下，是名阿耨多羅三藐三菩提。」又《金剛三昧經》云：「皆以一味道終，不以小乘，無有諸雜味，猶如一雨潤。」據此，後三經則與前三經義甚相戾也，其故何哉？若云依維摩詰謂富樓那云：「先當入定，觀此人心，然後說法。」又云：「不觀人根，不應說法。」夫以富樓那之通慧，又親奉如來為大弟子，尚未能觀知人心，況後五百歲末法中弟子，豈能盡觀知人心而後說法乎？設使觀知人心，若彼發小乘心，而為說大乘法，可乎？若未能觀彼心，而率已意說，又可乎？既未能觀，與默然不說，又可乎？若云「依義不依語」，則上六經之義，互相違反，其將孰依乎？若云「依了義經」，則三世諸佛，一切善法，皆從此六經出，孰名為不了義經乎？況諸經中與《維摩》《法華》《首楞嚴》之說同者，非一也，與《法王》《金剛》《三昧》之說同者，亦非一也，不可遍舉，故於二義中，各舉三經。此六經皆上人常所講讀者，今故引以為問，必有甚深之旨焉。今且有人，忽問法於上人，上人或能觀知其心，或未能觀知其心，將應病與藥而為說耶，將同一病一藥而為說耶？若應病與藥，是有高下，是有雜味，即反《法王》等三經之義。豈徒反其義，又獲如上所說之罪報矣。若同一病一藥為說，必當說大乘，大乘即佛乘也，若贊佛乘，且不隨應，且不救病，即反《維摩》等三經之義。豈徒反其義，又使眾生沒在罪苦矣。六者皆如來說，如來是真語、實語、不誑語、不異語者，今隨此則反彼，順彼則逆此，設有問者，上人其將何法以對焉？此其未諭者一也。
+
+又五蘊者，色、受、想、行、識是也。十二因緣者，無明緣行、行緣識、識緣名、名緣色、色緣六入、六入緣觸、觸緣受、受緣愛、愛緣取、取緣有、有緣生、生緣老死病苦憂悲苦惱是也。夫五蘊、十二因緣，蓋一法也，蓋一義也，略言之則為五，詳言之則為十二，雖名數多少或殊，其於倫次轉遷，合同條貫。今五蘊中則色、受、想、行、識相次，而十二緣中則行、識、色、入、觸、受相緣，一則色在行前，一則色次行後，正序之既不類，逆倫之又不同。若謂佛次第而言，則不應有此雜亂，若謂佛偶然而說，則不當名為因緣。前後不倫，其義安在？此其未諭者二也。
+
+上人耆年大德，後學宗師，就出家中，又以說法而作佛事，必能研精二義，合而通之。仍望指陳，著於翰墨。蓋欲藏於篋笥，永永不忘也。其餘疑義，亦續咨問。居易稽首。
+
+　　　　◇　[[游大林寺序]]
+
+　　-{余}-與<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">河南</span><span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">元集虛</span>、<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">范陽</span><span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">張允中</span>、<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">南陽</span><span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">張深之</span>、<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">廣平</span><span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">宋-{郁}-</span>、<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">安定</span><span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">梁必復</span>、<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">范陽</span><span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">張時</span>、<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">東林寺</span>沙門<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">法演</span>、<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">智滿</span>、<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">士堅</span>、<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">利辯</span>、<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">道深</span>、<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">道建</span>、<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">神照</span>、<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">-{雲}-臯</span>、<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">恩慈</span>、<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">寂然</span>凡十七人，自遺愛草堂歴東西二林，抵化城，憩峰頂，登<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">香爐峰</span>，宿<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">大林寺</span>。<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">大林</span>窮逺，人跡罕到。環寺多清流蒼石，短-{松}-瘦竹，寺中唯板屋木器，其僧皆<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">海東</span>人。山髙地深，時節絶晩，於時孟夏，如正二月，天山桃始華，澗草猶短，人物風候，與平地聚落不同。初到恍然，若別造一世界者。因口號絶句-{云}-：「人間四月芳菲盡，山寺桃花始盛開。長恨春歸無覓處，不知轉入此中來。」既而周覽屋壁，見<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">蕭</span>郎中<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">存</span>、<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">魏</span>郎中<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">宏簡</span>、<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">李</span>補闕<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">渤</span>三人姓名詩句，因與<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">集虛</span>輩嘆且曰：「此地實<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">匡廬</span>間第一境，由驛路至山門，曾無半日程，自<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">蕭</span>、<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">魏</span>、<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">李</span>-{遊}-，迨今垂二十年，寂寥無繼來者。嗟乎！名利之誘人也如此。」
+<br><div style="float: right; ">時<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">元和</span>十二年四月九日，<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">太原</span><span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">白樂天</span>序</div><br>
+ 
+　　　　◇　[[荔枝圖序]]
+
+荔枝生巴峽間，樹形團團如帷蓋，葉如桂，冬青，華如橘，春榮，實如丹，夏熟，朵如蒲萄，核如枇杷，愨如紅繒，膜如紫綃，瓤肉瑩白如冰雪，漿液甘酸如醴酪。大略如彼，其實過之。若離本枝，一日而色變，二日而香變，三日而味變，四五日外，色香味盡去矣。
+
+[[:Category:820年 (提及)|<span title="820年">元和十五年</span>]][[Category:820年 (提及)]]夏，南賓守[[作者:白居易|樂天]]命工吏圖而書之，蓋為不識者與識而不及一二三日者-{云}-。
+
+
+　　　　◇　三游洞序
+
+　　平淮西之明年冬，予自江州司馬授忠州刺史，微之自通州司馬授虢州長史。瑩銦年春，各祗命之郡，與知退偕行。三月十日，參會於夷陵。翌日，微之反棹送予至下牢戍。又翌日，將別未忍，引舟上下者久之。酒酣，聞石間泉聲，因舍棹進策，步入缺岸。初見石如疊如削，其怪者如引臂如垂幢，次見泉如瀉如灑，其奇者如懸練如不絕線。遂相與維舟巖下，率仆夫芟蕪刈翳，梯危縋滑，休而復上者凡四五焉。仰睇俯察，絕無人跡，但水石相薄，磷磷鑿鑿，跳珠濺玉，驚動耳目。自未訖戌，愛不能去。俄而峽山昏黑，云破月出，光氣含吐，互相明滅，晶熒玲瓏，象生其中，雖有敏口，不能名狀。既而通夕不寐，迨旦將去，憐奇惜別，且嘆且言。知退曰：「斯境勝絕，天地間其有幾乎？如之何俯通津，綿歲代，寂寥委寘，罕有到者乎？」予曰：「借此喻彼，可為長太息者，豈獨是哉！豈獨是哉！」微之曰：「誠哉是言！矧吾人難相逢，斯境不易得，今兩偶於是，得無述乎？請各賦古調詩二十韻，書於石壁。」仍命予序而紀之。又以吾三人始游，故以為「三游洞」。洞在峽州上二十里北峰下兩岸相<dfn class="unicode-pua" style="border: 1px solid orange; background: yellow; font-style: normal; cursor: help;" title="此处原字符使用了Unicode私有区编码而无法识别，请协助查实修正。原字符为：，请注意在不同系统中的显示可能完全不同。"></dfn>[[Category:包含Unicode私有区字符的条目]]間。欲將來好事者知，故備書其事。
+
+　　　　◇　故京兆元少尹文集序
+
+　　天地間有粹靈氣焉，萬類皆得之，而人居多。就人中，文人得之又居多。蓋是氣凝為性，發為志，散為文。粹勝靈者，其文沖以恬；靈勝粹者，其文宣以秀；粹靈均者，其文蔚溫雅淵，疏朗麗則，檢不扼，達不放，古淡而不鄙，新奇而不怪。吾友居敬之文，其殆庶幾乎？居敬姓元名宗簡，河南人，自舉進士，歷御史府、尚書郎，訖京兆亞尹，二十年著格詩一百八十五、律詩五百九、賦述銘記書碣贊序七十五，總七百六十九章，合三十卷。長慶三年冬，遘疾彌留，將啟手足，無他語，語其子途云：「吾平生酷嗜詩，白樂天知我者，我歿，其遺文得樂天為之序，無恨矣。」既而途奉理命，號而告予。無幾何，會予自中書舍人出牧杭州，歲餘改右庶子，移疾東洛，明年復刺蘇州，四年間三換官，往復奔命，不啻萬里，席不遑暖，矧筆硯乎？故所托文，久未果就。及刺蘇州，又劇郡，治數月，政方暇，因發篋閱睹居敬所著文集，其間與予唱和者數十首，燭下諷讀，よ惻久之，恍然疑居敬在傍，不知其一生一死也。遂援筆草序，序成復視，涕與翰俱，悲且吟曰：「黃壤詎知我，白頭徒念君。唯將老年淚，一灑故人文。」重曰：「遺文三十軸，軸軸金玉聲。龍門原上土，埋骨不埋名。」嗚呼居敬！若職業之恭慎，居處之莊潔，操行之貞端，襟靈之曠淡，骨月之敦愛，邱園之安樂，山水風月之趣，琴酒嘯詠之態，與人久要，遇物多情，皆在章句中，開卷而盡可知也，故不序。時寶歷元年冬十二月乙酉夕，在吳郡西園北齋東牖下作序。
+
+　　　　◇　送侯權秀才序
+
+　　貞元十五年秋，予始舉進士，與侯生俱為宣城守所貢。明年春，予中春官第。既入仕，凡歷四朝，才朽命剝，蹇躓不暇。去年冬，蒙不次恩，遷尚書郎，掌誥西掖，然青衫未解，白髮已多矣。時子尚為京師旅人，見除書，走來賀。予因從容問其宦名，則曰無得矣；問其生業，則曰無加矣；問其仆乘囊資，則曰日消月<dfn class="unicode-pua" style="border: 1px solid orange; background: yellow; font-style: normal; cursor: help;" title="此处原字符使用了Unicode私有区编码而无法识别，请协助查实修正。原字符为：，请注意在不同系统中的显示可能完全不同。"></dfn>[[Category:包含Unicode私有区字符的条目]]矣；問別來幾何時，則曰二十有三年矣。嗟乎侯生１宣城別時，才文志氣，我爾不相下，今予猶忻遇，子卒無成，由子而言，予不為不遇矣。嗟乎侯生！命實為之，謂之何哉？言未竟，又有行色，且曰：「欲謁東諸侯，恐不知我者多，請一言以寵別。」予方直閣，慨然竊書，命筆以序之爾。
+
+　　　　◇　白氏長慶集後序
+
+　　白氏前著《長慶集》五十卷，元微之為序，《後集》二十卷，自為序。今又《續後集》五卷，自為記。前後七十五卷，詩筆大小凡三千八百四十首。集有五本，一本在廬山東林寺經藏院，一本在蘇州南禪寺經藏內，一本在東都勝善寺缽塔院律庫樓，一本付侄龜郎，一本付外孫談閣童，各藏於家，傳於後。其日本新羅諸國及兩京人家傳寫者，不在此記。又有《元白唱和》《因繼集》共十七卷，《劉白唱和集》五卷，《洛下游賞宴集》十卷，其文盡在大集內錄出，別行於時。若集內無而假名流傳者，皆謬為耳。會昌五年夏五月一日，樂天重記。
+
+　　　　◇　序洛詩序
+
+　　序洛詩，樂天自序在洛之詩也。予歷覽古今歌詩，自風騷之後，蘇李以還，次及鮑謝徒，迄於李杜輩，其間詞人聞知者累百，詩章流傳者鉅萬，觀其所自，多因讒冤譴逐，征戍行旅，凍餒病老，存歿別離，情發於中，文形於外，故憤憂怨傷之作，通計今古，什八九焉。世所謂文士多數奇，詩人尤命薄，於斯見矣。又有以知理安之世少，離亂之時多，亦明矣。予不佞，喜文嗜詩，自幼及老，著詩數千首。以其多也，故章句在人口，姓字落詩流，雖才不逮古人，然所作不啻數千首，以其多矣，作一數奇命薄之士，亦有餘矣。今壽過耳順，幸無病苦，官至三品，免罹饑寒，此一樂也。太和二年詔授刑部侍郎，明年病免歸洛，旋授太子賓客分司東都，居二年就領河南尹事，又三年病免歸，履道里第，再授賓客分司。自三年春至八年夏，在洛凡五周歲，作詩四百三十二首，除喪朋、哭子十數篇外，其他皆寄懷於酒，或取意於琴，閑適有餘，酣樂不暇，苦詞無一字，憂嘆無一聲，豈牽強所能致耶，蓋亦發中而形外耳。斯樂也，實本之於省分知足，濟之以家給身閑，文之以觴詠弦歌，飾之以山水風月。此而不適，何往而適哉？茲又以重吾樂也。予嘗云：「理世之音安以樂，閑居之詩泰以適。」茍非理世，安得閑居？故集洛詩，別為序引。不獨記東都履道里有閑居泰適之叟，亦欲知皇唐太和歲有理世安樂之音，集而序之，以俟夫采詩者。甲寅歲七月十日云爾。
+
+　　　　◇　因繼集重序
+
+　　去年微之取予《長慶集》中詩未對答者五十七首追和之，合一百一十四首寄來，題為《因繼集》卷之一。今年，予復以近詩五十首寄去，微之不逾月依韻盡和，一百首又寄來，題為《因繼集》卷之二，卷末批云：「更揀好者寄來。」蓋示餘勇，磨礪以須我耳。予不敢退舍，即日又收拾新作格律共五十首寄去，雖不得好，且以供命。夫文猶戰也，一鼓作氣，再而衰，三而竭。微之轉戰，迨茲三矣，即不知百勝之術，多多益辦耶？抑又不知鼓衰氣竭，自此為遷延之役耶？進退唯命。微之微之，走與足下和答之多，從古未有。足下雖少我六七年，然俱已白頭矣，竟不能舍章句，拋筆硯，何癖習如此之甚歟？而又未忘少年時心，每因唱酬，或相侮謔，忽忽自哂，況他人乎？《因繼集》卷且止於三可也。忽恐足下懶發，不能成就至三，前言戲之者，殆為巾幗之挑耳。然此一戰後，師亦老矣，宜橐弓匣刃，彼此與心休息乎？《和晨興》一章，錄在別紙。語盡於此，亦不修書。二年十月十五日，樂天重序。
+
+　　　　◇　香山居士寫真詩序
+
+　　元和五年，予為左拾遺翰林學士，奉詔寫真於集賢殿御書院，時年三十七。會昌二年，罷太子少傅，為白衣居士，又寫真於香山寺經藏（一作藏經）堂，時年七十一。前後相望，殆將三紀，觀今照昔，慨然自嘆者久之。形容非一，世事幾變，自（一作因）題六字，以寫其（一作所）懷。
+
+　　　　◇　長慶集後序
+
+　　前三年，元微之為予編次文集而敘之，凡五帙，每帙十卷，訖長慶二年冬，號《白氏長慶集》。邇來復有格詩、律詩、碑、志、序、記、表、贊，以類相附，合為卷軸，又從五十一以降，卷而第之。是時太和二年秋，予春秋五十有七，目昏頭白，衰也久矣，拙音狂句，亦已多矣。由茲而後，宜其絕筆，若餘習未盡，時時一詠，亦不自知也。因附前集報微之，故復序於卷首云爾。
+{| class="ws-noexport noprint ws-footer" width="100%" cellpadding="0" cellspacing="0" style="border:1px solid var(--border-color-content-added,#a3d3ff); background-color: var(--background-color-progressive-subtle,#eaf3ff); width:100%; margin-bottom:0px; text-align:center;"
+| width="20%" align="left" |　[[../卷0674|卷六百七十四]]
+| <span style="color:#999"> ◄ </span>
+| width="50%" align="center" |[[#top|↑返回頂部]]
+| <span style="color:#999"> ► </span>
+| width="20%" align="right" |[[../卷0676|卷六百七十六]]
+|}
+<templatestyles src="Template:License/styles.css" /><div class="licenseContainer licenseBanner dynlayout-exempt " >
+<div><div><div><div>
+<span class="imageLeft">[[File:PD-icon.svg|x48px|alt=|link=]]</span>
+</div><div>
+<div>
+此唐朝作品在全世界都属于'''[[w:公有领域|公有领域]]'''，因为作者逝世已经超过100年，且作品于1931年1月1日之前出版。
+</div>
+</div><div>
+<span class="noimageRight></span>
+</div></div></div></div>
+<div class="licensetpl">
+<span class="licensetpl_short">Public domain</span><span class="licensetpl_long">Public domain</span><span class="licensetpl_link_req">false</span><span class="licensetpl_attr_req">false</span>
+</div>
+</div>[[分類:唐朝]]
