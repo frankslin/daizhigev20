@@ -1,0 +1,9 @@
+{{Collection header|type=|title=全唐文|section=|author=|previous=[[../卷0211|卷二百十一]]|next=[[../卷0213|卷二百十三]]|notes=}}__NOEDITSECTION__{{robot made}}
+==[[答制問事（八條）]]==
+{{:答制問事（八條）}}
+==[[諫雅州討生羌書]]==
+{{:諫雅州討生羌書}}{{footer
+|previous=[[../卷0211|卷二百十一]]
+|next=[[../卷0213|卷二百十三]]
+}}
+{{唐朝作品}}

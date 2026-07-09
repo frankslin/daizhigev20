@@ -1,0 +1,93 @@
+
+{|style="width:100%; margin-bottom:0px; border:1px solid #AADDAA; background-color: #E4F2E4; text-align:center;" class="ws-header"
+|-
+| class="noprint" style="width:25%; text-align:left; font-size:small;" |←[[../卷0707|卷七百〇七]]
+|style="width:50%;" |'''全唐文'''
+| class="noprint" style="width:25%; text-align:right; font-size:small;" |[[../卷0709|卷七百〇九]]→
+|}
+{|style="width:100%; background:#F2F9F2; font-size:small; border-bottom:1px solid #D5ECD5" class="ws-header"
+|- 
+|<div style="color:#464646"><ul id="plainSister" style="display:inline-block; font-size:93%; line-height:normal; list-style-type:none; list-style-image:none; list-style-position:outside; border:1px solid var(--border-color-base,#AAA); float:right; clear:right; margin:0.5ex 0.5ex 0.5ex 0.5ex; padding:0.0ex 0.0ex 0.0ex 0.0ex; background-color:var(--background-color-base,#FFFFFF);color: inherit;"><li class="noprint sisitem"><span class="sisicon" style="padding-right:1ex;">[[Image:Wikimedia-logo.svg|frameless|18px|link=Special:sitematrix|alt=姊妹计划]]</span>[[Special:sitematrix|姊妹计划]]: [[d:Q85531586|数据项]]</li></ul> </div>
+|}__NOEDITSECTION__[[category:Robot made]]
+{|style="width:100%; margin-bottom:1px; border:1px solid #D6C5C5; background:#FAF8F8;text-align:center" 
+|-
+| 这是一个自动生成的页面，需要人工复查。复查后，请移除此模板。
+|}
+=李德裕（十三）=
+==[[掌書記廳壁記]]==
+《續漢書·百官志》稱三公及大將軍皆有記室，主上表章報書記。雖列於上宰之庭，然本為從軍之職，故楊雄稱軍旅之際，飛書馳檄用枚皋。非夫天機殊捷，學源浚發，含思而九流委輸，揮毫而萬象駿奔，如庖丁提刃，為之滿志，師文鼓瑟，效不可窮，則不能稱是職也。昔安豐侯竇融徵還京師，光武問曰：「所上表章，誰與參之？」融曰：「皆從事班彪所為。」及竇憲貴寵，班固、傅毅之徒，皆置文戎幕，以典文章，憲邸文章之盛，冠於當代。魏氏以陳琳、阮瑀管記室。自東漢以後，文才高名之士，未有不由於是選，其簡才之用，亦金馬、石渠之亞。況河東精甲十萬，提封千里，半雜胡騂，遙制邊朔，惟師旅之威容，為列藩之儀表，典茲羽檄，代有英髦。間者吳少微、富嘉謨、王翰、孫逖，咸有製作存於是邦，其所不知，蓋闕如也。暨太尉臨淮王總節制之師，德裕叔父嘗與斯職，尋以才識英妙，肅宗召拜監察御史。厥後僕射高貞公、今河陽節度令狐公以人文掌宸翰，國子司業鄭公、給事河南尹杜公以才華登貴仕，繼斯躅者，不亦盛歟。丙申歲，丞相高平公始自樞衡以膺謀帥，以右拾遺杜君為主記。明主惜其忠規，復拜舊職，尋參內庭視草之列。次用殿中侍御史崔君。德裕獲接崔君之後，文學空虛，才術莫逮，繼清塵於吾祖，挹芬烈於前賢。先是廡廊之下有豐碑，紀其名氏而不書職業，今再刊斯記於本署西垣，以高平公統戎為始。元和十四年四月十一日記。
+==[[丞相鄒平公新置資福院記]]==
+夫威鳳之炳然，非海晏則不至；卿雲之藹然，非氣和則不出。故君子藏器抱璞，含忠毓德，不遭遇其時，則光名不曄。是以幹木之退也，高於千乘君，曼容之仕也，止於六百石。先仆射佩虎符而知足，視蟬冕而蔑如，由斯誌矣。先仆射苞文武之道，有清直之德，良玉美潤，徒蓄寶於荊岑，喬木幽深，不呈材於廊廟，知者所以歎息也。丞相鄒平公鍾是餘慶，為唐寶臣。公天挺奇表，角犀特秀，居五嶽也，稟太華削成之狀，方四時也，得清秋爽朗之氣，森予戟以耀穎，粲珪璋而洞照，蓋人之桀歟。憲宗皇帝以神武之姿，墾除菑害，睿慮澹以泉默，英威赫而電斷，奇權秘計，皆中詔決之，參宸算者，惟公與二三髦士，揣摩潤色，繄公稱首。既平淮夷，蕩齊寇，四罪鹹服，八表晏然，雖則武力之拘原，亦由謀臣之決策。洎今上之宅憂也，袞龍未襲，向明未位，召公於東宮含春殿，歔欷前席，付以大柄。公乃請偃武論道，與天下休息。上若涉水而得舟楫，馭馬而有銜轡，始拜言以命咎，即其時而相說。君臣之遇，古無儔也。公之為政，貞以制動，平以稱物，其誌在於識相體，宏簡易而已。嚐以為用京房之法，則煩碎而亂理，聽嗇夫之辨，則捷給而傷化，由是遵坦夷之路，窒邪枉之門，不勤人以務遠，恥竭澤以言利。矧夫洞虛明之境，應必以誠，端不言之蹊，孰不歸我，故奉聖者稱公為良相焉。公之趨丹，侍紫垣，名冠近臣，寵加贈典，先仆射自珥貂而升左揆，先夫人由趙郡而啟大國，金印石窌，當代榮之。
+
+建中初，先仆射以柱下史參梓潼軍計，典昌榮二部。益部之內，有林居一廛，庾氏誅茅，始傷於寄寓，仲長樹果，終見於繁蔚。公年才佩觿，誌拾青紫，方覃思於經籍，未馳騖於文章，遊焉息焉，必在於是。及鍾家難，乃入為官。暨韋太尉鎮是邦也，公釋從事，在賓幄之間。逮茲抗戎旌，佩相印，曾未一紀，繼為三公。下車逾月，訪於舊館，邵伯之樹未剪，武侯之廬猶在，於公邑裏，遂見高車，龍驤門閎，竟容長戟。公瞻構灑泣，循陔永思，以為征壞壁者，夫子之居尚毀，固朽宅者，如來之乘斯遠，孰若歸於淨土，環以香林，乃購之於官，以為精舍，又以桑門之上首者七人居之，所以證迷途而資夙植也。殿堂層立，軒房四柱，熔金作繪，仿佛諸天。況乎蜀山蔥蒨，下臨於雉堞，錦江明滅，近繚於郊，紅樹倚檻，青蕖傍砌，海雛乍來，靈草長秀。彼之聽和音者，不惟於寂慮，聞異香者，自入於禪薰。公之孝思，永代作則，豈止何充之宅，獨入檀那，將與文公之堂，俱為不朽。某藐焉孤生，流落於代，辱公感舊，遂不見遺，爰自內庭升台司，居視草之列，二三年間，位階先達，由是議人倫者歸公之盛德。不陪密坐，驟變寒暑，迂懸榻之念，忝授簡之思。且嚐典綸綍，獲備官寮，報德不讓，懼斯文之闕焉。長慶二年十月二十三日，朝議大夫禦史中丞上柱國讚皇縣開國男食邑三百戶賜紫金魚袋李德裕撰。
+==[[三聖記]]==
+有唐寶曆二年歲次丙午八月丙申朔十五日庚戌，玉清元都大洞三道弟子正議大夫使持節潤州諸軍事守潤州刺史兼御史大夫充浙西道都團練觀察處置等使上柱國讚皇縣開國男食邑三百戶賜紫金魚袋李德裕，上為九廟聖主，次為七代先靈，下為一切含識，於茅山崇元觀南，敬造老君殿院，及造老君、孔子、尹真人象三軀，皆按史籍遺文，庶垂不朽。謹記。
+==[[重寫前益州五長史真記]]==
+益州草堂寺（《成都記》云：「在府西七裏，去浣花亭三裏。」）列畫前長史一十四人（節度職不帶尹則帶長史，非今賓佐也），代稱絕筆。餘嚐於數公子孫之家，獲見圖狀，乃知草堂繢事，靡不造真者。昔岩野旁求，徒聞審像，嵇山高遯，惟止熔金，孰若記之丹青，妙盡神照。楚國祠廟，魯王宮室，洎此邦文翁舊館，皆圖曆代卿相，粲然可觀，雖有慕於前良，曾莫究於形似。豈與夫年代已遠，遺像猶存，入虛室而煙霞暫披，拂浮埃而瑤林斯覿。餘以精舍甚古，貌像將傾，乃選其功德尤盛者五人，模於郡之廳所。追維二漢台閣，皆有圖寫，黃霸、於定國之流，雖宰相名臣，不得在畫像之列，卓子康德行君子，而在功臣之右，今之所取，意在斯乎。（闕）既新，光靈可想，儼若對神。吾將與歸，因敘其事，詔諸來哲。太和四年閏十二月十八日，西川劍南節度副大使知節度事銀青光祿大夫檢校兵部尚書兼成都尹御史大夫讚皇縣開國伯李德裕記。
+==[[懷崧樓記]]==
+懷崧，思解組也。[[:Category:820年 (提及)|<span title="820年">元和庚子</span>]][[Category:820年 (提及)]]歲，予獲在內庭，同僚九人，丞弼者五。數十年間，零落將盡，今所存者，惟三川守李公而已（已歿者西川杜公、武昌元公、中書韋公、鎮海路公、吏部沈公、左丞庾公、舍人李公）。洎[[:Category:329年 (提及)|<span title="329年">太和己丑</span>]][[Category:329年 (提及)]]歲，復接舊老，同升台階，或才歎止輿，已協白雞之夢，或未聞稅駕，遽有黃犬之悲，向之榮華，可以淒愴。況余憂傷所侵，疲薾多病，常驚北叟之福，豈忘東山之歸。此地舊隱曲軒，傍施埤堄，竹樹陰合，簷檻晝昏，喧雀所依，涼飆罕至。余盡去危堞，敞為虛樓，剪榛木而始見前山，除密筿而近對嘉樹（廳事前有大辛夷樹，方為草木所蔽），延清輝於月觀，留愛景於寒榮。晨憩宵遊，皆有殊致，周視原野，永懷崧峰。肇此佳名，且符夙尚，盡庾公不淺之意，寫仲宣極望之心，貽於後賢，斯乃無愧。丙辰歲丙辰月，銀青光祿大夫守滁州刺史李德裕記。
+==[[元真子漁歌記]]==
+德裕頃在內庭，伏睹憲宗皇帝寫真求訪元真子《漁歌》，歎不能致。余世與元真子有舊，早聞其名，又感明主賞異愛才，見思如此，每夢想遺跡，今乃獲之，如遇良寶。於戲！漁父賢而名隱，鴟夷智而功高，未若元真隱而名彰，顯而無事，不窮不達，其嚴光之比歟？處二子之間，誠有裕矣。[[:Category:823年 (提及)|<span title="823年">長慶三年</span>]][[Category:823年 (提及)]]甲寅歲夏四月辛未日，潤州刺史兼御史大夫李德裕記。
+==[[平泉山居誡子孫記]]==
+
+經始平泉，追先志也。吾隨侍先太師忠懿公，在外十四年，上會稽，探禹穴，歷楚澤，登巫山，遊沅湘，望衡嶠。先公每維舟清眺，意有所感，必凄然遐想，屬目伊川。嘗賦詩曰：「龍門南岳盡伊原，草樹人烟目所存。正是北州梨棗熟，夢魂秋日到郊園。」吾心感是詩，有退居伊、洛之志。前守金陵，於龍門之西，得喬處士故居。天寶末避地遠遊，薉為荒榛。首陽微岑，尚有薇蕨；山陽舊徑，唯餘竹木。吾乃剪荊棘，驅狐狸，始立班生之宅，漸成應叟之地。又得江南珍木奇石，列於庭際。平生素懷，於此足矣。吾嘗以為出處者貴得其道，進退者貴不失時，古來賢達，多有遺恨。至於元祖潛身於柱史，柳惠養德於士師，漢代邴曼容官不過六百石，終無辱殆，邈難及矣。越蠡激文牛以肥遁，留侯託黃老以辭世。亦其次焉。范雎感蔡澤一言，超然高謝；鄧禹見功臣多敗，委遠名勢。又其次也。矧如吾者，於葵無衛足之智，處雁有不鳴之患。雖有泉石，杳無歸期，留此林居，貽厥後代。鬻吾平泉者，非吾子孫也。以平泉一樹一石與人者，非佳子弟也。吾百年後，為權勢所奪，則以先人所命，泣而告之。此吾志也。《詩》曰：「維桑與梓，必恭敬止。」言其父所植也。昔周人之思召伯，愛其所憩之樹。近代薛令君於禁省中見先君所據之石，必泫然流涕。汝曹可不慕之！唯岸為谷谷為陵，然後已焉可也。
+
+==[[平泉山居草木記]]==
+
+余嘗覽想石泉公家藏藏書目，有《園庭草木疏》，則知先哲所尚，必有意焉。-{余}-二十年間，三守吳門，一蒞淮服。嘉樹芳草，性之所耽，或致自同人，或得於樵客，始則盈尺，今已豐尋。因感學《詩》者多識草木之名，為《騷》者必盡蓀荃之美。乃記所出山澤，庶資博聞。木之奇者，有天台之金松、琪樹，稽山之海棠、榧、檜，剡溪之紅桂、厚朴，海嶠之香檉、木蘭，天目之青神、鳳集，鍾山之月桂、青颼、楊梅，曲房之山桂、溫樹，金陵之珠柏、欒荊、杜鵑，茆山之山桃、側柏、南燭，宜春之柳柏、紅豆、山櫻，藍田之栗梨、龍柏。其水物之美者，荷有蘋洲之重臺蓮，芙蓉湖之白蓮，茅山東溪之芳蓀。復有日觀、震澤、巫嶺、羅浮、桂水、嚴湍、廬阜、漏澤之石在焉。其伊、洛名園所有，今並不載。豈若潘賦《[[閑居賦|閒居]]》，稱郁棣之藻麗；陶歸衡宇，喜松菊之猶存。爰列嘉名，書之於石。己未歲，又得番禺之山茶，宛陵之紫丁香，會稽之百葉木芙蓉、百葉薔薇，永嘉之紫桂、蔟蝶，天台之海石楠，桂林之俱郍衛。台嶺、八公之怪石，巫山、嚴湍、琅邪臺之水石，布於清渠之側；仙人跡、鹿跡之石，列於佛榻之前。是歲又得鍾陵之同心木芙蓉，剡中之真紅桂，稽山之四時杜鵑、相思、紫苑、貞桐、山茗、重臺薔薇、黃槿，東陽之牡桂、紫石楠，九華山藥樹、天蓼、青櫪、黃心㭠子、朱杉、龍骨。□□庚申歲，復得宜春之筆樹、楠稚子、金荊、紅筆、密蒙、勾栗木。其草藥又得山薑、碧百合焉。
+
+==[[夷齊論]]==
+昔夷齊不食周粟，餓於首陽之下，仲尼稱其仁，孟軻美其德（孟子稱：「伯夷，聖人之清者。」），蓋以取其節而激貪也。所謂周粟者，周王所賦之祿是也，諫而不從，不食其祿可矣。至於聞淑媛之言，輟飧薇蕨，斯可謂不智矣。夫薇蕨者，元氣之所發生，四時之所順成，日月之所燭，風雨之所育，周焉得而有之哉？若以粟者周人之播殖，則夷齊得非周人乎？反覆其道，盡未當理。然夷齊之行，實誤後人。於陵仲子慕夷齊者也，乃至不義其兄之祿，潔則潔矣，仁豈然哉？厥後商洛四友，畏秦之酷，避秦之禍，豈止潔其身而已，然飧紫芝以為糧，飲清泉以為漿，終老南山，以養其壽，斯可謂仁智兼矣。
+==[[三良論]]==
+秦穆之殺三良，詩人刺之矣，《春秋》譏之矣，今不復議。惟三良許之以死，而前代無譏，何也？且臣道莫顯於咎繇，孝友莫盛於周公，咎繇尚不殉於舜、禹二後，周公尚不殉於文、武二王，三良詎可許之死乎？如三良者，所謂殉榮樂也，非所謂殉仁義也，可與梁邱據、安陵君同譏矣，焉得謂之百夫特哉！昔荀息許晉獻一言，繼之以死，君子猶歎斯言之玷，不可為也，豈得以生同榮樂，歿共埃塵，以為忠乎？晏平仲言君為社稷死則死之，斯言得之矣。自周漢迄於巨唐，殺身成仁，代有髦傑，莫不顯一身之義烈，未有繫一國之存亡。惟紀信乘黃屋以誑楚，赴丹焰而存漢，數千年間，一人而已，漢祚四百，繇此而興。余謂漢祖建封紀氏，宜在蕭、曹之上，報德未稱，良可悲也。
+==[[張辟疆論]]==
+楊子美辟疆之覺陳平，非也。若以童子膚敏，善揣呂氏之情，奇之可也；若以為反道合權，以安社稷，不其悖哉！授兵產、祿，幾危劉氏，皆因辟疆啟之，向使留侯尚存，必執戈逐之，將為戮矣。觀高祖遺言呂后，制其大事，可謂謀無遺策矣：以王陵有廷諍之節，置以為相；謂周勃堪寄託之任，令本兵柄；況外有齊、楚、淮南磐石之固，內有朱虛、東牟肺腑之親。是時產、祿，皆匹夫耳，呂后雖心不在哀，將相何至危懼？必當憂傷不食，自促其壽，豈能為將相之害哉！高祖曰： 「非劉氏而王者，天下共擊之。」此慮屬呂宗矣，何可背之？厥後稱制八年，產、祿之封殖固矣，若平、勃二人溘先朝露，則劉氏之業必歸呂宗。及呂后之沒，劫酈高以紿呂祿，計亦窘矣。周勃雖入北軍，尚不敢公言誅諸呂，豈不艱哉？賴產、祿皆徒隸之人，非英傑之士，倘才出於世，豈受其紿說哉？嗟乎！與其圖之於難，豈若制之於易。由是而言，平、勃用辟疆之計，斯為謬矣。留侯破產以報韓，結客以狙秦，招四皓以安太子，所謂必仗義居正，由此知不尚權譎明矣。
+==[[袁盎以周勃為功臣論]]==
+袁盎對文帝曰：「絳侯所謂功臣，非社稷臣。夫社稷臣者，主在與在，主亡與亡。」盎見勃自德其功，有以激之也，非至理篤論。以言足以惑文帝聰明，傷仁厚之政，俾其有薄宗臣之意，竟使周勃大功皆棄，非罪見疑，可為長歎息也。當呂后之世，惠帝已殂，少帝非劉氏，陳平用辟疆之計，權王產、祿，絳侯若不與之同心而制其兵柄，必由此而階亂矣，則劉氏安危，未可知也。（盎曰：「諸呂用事，擅相王，太尉本兵柄，弗能王也。」）然磨而不磷，涅而不緇，未嘗不心存社稷，志在劉氏，外雖順遜，內守忠貞，得不謂之社稷臣乎？其後絳侯繫請室，盎雖明其無罪，所謂陷之死地而後生之，徒有救焚之力，且非曲突之義。楊子稱盎不足而談有餘，斯言當矣。善哉賈生之說，喻堂陛之峻，高者難攀，卑者易淩，文帝感悟，養臣下有節，有以見賢人用心，致君精識。若袁公者，難與並為仁矣。盎惟有正慎夫人席，塞梁王求嗣，此二事守正不撓，忠於所奉。害錯之罪，虐貫於神明，安陵之禍，知天道不昧矣。
+==[[漢昭帝論]]==
+人君之德，莫大於至明，明以照奸，則百邪不能蔽矣，漢昭帝是也。年十四而知燕王書詐，後有譖霍光者，上輒怒曰：「敢有譖毀者坐之。」周成王有慚德矣，高祖、文、景，俱不知也。成王聞管、蔡流言，觀召公不悅，遂使周公狼跋而東，《鴟鴞》之詩作矣；漢高聞陳平去魏背楚，欲捨腹心臣；漢文感季布使酒難近，罷歸股肱郡，疑賈生擅權紛亂，欲疏賢士；景帝信讒誅晁錯，兵解遂戮三公，所謂執狐疑之心，來讒賊之口。使昭帝得伊呂之佐，則成康不足侔矣。惜哉霍光不學亡術，未稱其德。然輕徭薄賦，與人休息，匈奴和親，百姓充實，議鹽鐵而罷榷酤，亦任忠臣之效也。才弱冠而殂，功德未盡，良可痛矣。
+==[[漢元帝論]]==
+漢元帝習武帝遊宴後庭，又性好音樂，與宏恭、石顯圖議帷幄之中，進退天下之士。史臣贊曰：「優遊不斷，漢宣之業衰焉。」余以班固之言，未盡其癖（一作僻）。蓋懦而不才，權移所嬖，非不斷也。夫帝王者天也，天以剛健為氣，粹精為體。氣則而健，則三光不昏；體粹而精，則四氣不亂。剛也者，不息之謂也，故權衡獨運，四時不忒；粹也者，不雜之謂也，故乖氣消散，陰陽不謬。若運動不在於權軸（一作衡），熔鑄不由於大冶，蕩蕩上帝，復何為哉？《書》曰： 「天聰明自我民聰明。」又曰：「天視自我民視，天聽自我民聽。」豈堯舜之時，上下皆公，讒說不行，人與其聰明哉？豈幽厲之君，上下盡邪，讒言相蔽，人不與其聰明哉？元帝自稱淫亂之君，各賢其臣。令皆覺悟，天下安得危亡之君？元帝蓋自以恭、顯為賢，而任之不疑也。
+==[[荀悅論高祖武宣論]]==
+荀悅《論》略曰，高帝天下初定，庶事草創；文帝躬行元默，遂至昇平，而古典未備，制度多闕；武帝內修文學，外耀武威，而不盡其術，不克其終；宣帝任法審刑，綜核名實，而不用儒術，理化不成。歷數三代，以及元帝，曰「崇尚儒業，從諫如流」，引班固贊，「賓禮故老，優遊亮直」。又曰：「貢、薛、韋、匡，迭為宰相。」其旨以為專用儒術，莫盛於此。班固、荀悅，皆文雅之士，以元帝好儒，徵用儒生，故以茲為美，而深罪石顯，痛心泣血，稱詩人「投畀豺虎」，嫉之甚也。異乎余之所聞也。任恭、顯始於宣帝，當先帝之世，石顯豈能隳其大業哉，則知惡不在於顯矣。蕭望之、周堪皆廊廟之器，有師傅之恩，石顯所忌，廢而不用，朋寵上書，遂致於理，其後劉向廢錮，張猛自殺，豈得謂之優遊亮直乎？賈捐之、京房雖不終其身，亦皆英特雋才，道術奇士，於元帝可謂忠矣，亦因譖而死。惑於讒邪則不斷，疑於髦俊則用法，亦不得謂之優遊亮直矣。貢、薛雖能忠諫，諫止於諷諭恭儉，未嘗禦姦觸邪矣；韋、匡從容守位，未嘗犯顏干色矣，所以得乘時而進，久安其位。昔桀紂殺一龍逢比干，而天下之惡歸焉。桀紂以拒諫而殺，其悖已甚，元帝以信讒而殺，抑又甚焉！王業既衰，至成、哀淩替，才三世而王莽篡奪。宣帝稱「亂吾家者太子也」，知子莫若父，信哉是言！
+==[[荀悅哀王商論]]==
+荀悅《論》曰：「夫獨智不用於世，獨行不蓄於時，昔人所以自退，猶不得自免，是以離世深藏。」又曰：「以六合之大，一身之微，而匹夫無所容焉，豈不哀哉。」-{余}-三復斯論，潸然出涕。仲尼聖人也，猶美顏子之行藏與我同志，稱寧武愚不可及，歎蘧瑗卷而懷之，則聖人遵養時晦，可謂至矣。以仲尼之德，足以塞叔孫之毀；以仲尼之仁，足以免陳蔡之困；以仲尼之智，足以避匡人之辱；以仲尼之道，足以容魯哀之世；而逼迫多懼，殆於危亡。由是思之，無非命也，況王商者哉！世人皆以貌寢質薄為數奇，敦厚碩大為多福。樂昌威重真漢相，容貌懾單於，而遘湣於時，遇才而殞。豈命之否也，龍虎不能免於患，及命之泰也，蛭蟥皆得保其生。余又聞之，國之衰也，忠賢先去，故管仲知隰朋不久而齊國亂，范燮令祝宗祈死而晉主憂，伍胥戮而夫差亡，汲黯出而劉安悖。徒歎新者之奪，熟救樂昌禍？昔秦繆以三良為殉，君子曰：「秦繆之不為盟主也宜哉。」棄善人之謂也。
+==[[張禹論]]==
+夫社稷之計，安危之機，人君不能獨斷者，必資於所敬之臣。然臣有忠邪，時有險易，交有淺深，義有厚薄。范雎山東之匹夫也，入虎狼之秦，履不測之險，可謂交疏義薄矣，而能尊昭王，去穰侯，開秦霸業之基，以安固後嗣，可謂忠於昭王矣。夫能獨斷者英主也，古人言「謀之欲多而斷之在獨」，蓋為此矣。天有震雷之怒，龍有逆鱗之恨，所以人君在於能斷耳。然親戚之際，恩義之重，斷之於己不可也。張敞所謂「明詔以恩不聽，群臣以義固爭而後許」，而令明詔自親其文，非策之得也。漢文帝誅薄昭，斷明矣，於義則未安也。周宣餞申伯，有《孔碩》之詩，秦康送文公，興「如存」之感，況太后尚存，唯一弟薄昭，而斷之不疑，非所以慰母氏之心也。漢成帝車駕至張禹第，辟左右，親問禹以天變。禹以年老子弱，與曲陽有隙，乃言：「新學小生，亂道誤人，宜無信用。」帝雅信愛禹，由此不疑王氏。致漢室之亡，成王莽之篡，皆因禹而發，可謂漢之賊也，國之妖也。雖蛇鬥於鄭，鷁退於宋，妖不甚於禹矣。朱雲欲以上方斬馬劍斷佞臣頭，斯言當矣。後代有類於此者，其臣可以范雎為師表，張禹為鑒戒。
+==[[三國論 (李德裕)|三國論]]==
+[[w:曹魏|魏]]、[[w:蜀漢|蜀]]、[[w:孫吳|吳]]三分天下，而亡有先後，非形勢有輕重，積累有厚薄，察其政柄所歸，則亡之先後可知也。
+
+蜀政在於黃皓，皓隸人也，內不能修[[作者:諸葛亮|武侯]]之舊典，外不能制[[w:姜維|-{姜}-維]]之黷武，紀綱日壞，君子不服，所以先亡也。
+
+魏自[[作者:曹叡|明帝]]之後，政歸[[w:司馬懿|仲達]]，[[w:曹芳|齊王]]已降，惟守空宮，亡之淹速，係於[[w:司馬師|師]]、[[w:司馬昭|昭]]之誌。將移神器之重，須服天下之心。未立大功，亦不敢取，所以蜀滅而魏亡也。
+
+[[w:孫皓|孫皓]]雖驕奢極欲，殘虐用刑，而自專生殺之柄，不牽帷牆之制，運盡天亡，而後夷滅。
+
+由是而知人君不可一日失其柄也，如神龍之脫深泉，震雷之無煙氣，威靈既露，人得制之。[[w:蔣濟|蔣濟]]睹[[作者:曹丕|魏文帝]]與[[w:夏侯尚|夏侯尚]]詔曰：「作福作威，為亡國之言。」所謂柄者，威福是也，豈可假於臣下哉。後代睹三國之事，可不戒懼哉。
+==[[羊祜留賈充論]]==
+
+<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">任愷</span>、<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">庾</span>尹<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span><span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">庾</span>爲<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">河南</span>尹，名犯廟諱，字又非便，所以不書<span style="color:transparent;font-size:0px">〉</span></small>以<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">賈充</span>邪僻，欲其疏遠，勸<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">晉武</span>令西鎭<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">長安</span>，惟<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">羊祜</span>密-{表}-留之。<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">祜</span>豈悅<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">賈充</span>者哉？良以愛君體國，-{發}--{於}-至誠耳。<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">晉氏</span>傾奪<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">魏國</span>，初有天下，其將相大臣，非<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">魏</span>之舊臣，卽其子孫，所寄心腹，惟<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">賈充</span>而已。<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">充</span>亦非忠-{於}-君者，自以<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">成濟</span>之事，與<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">晉室</span>當同休戚，此<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">羊祜</span>所以-{願}-留也。昔<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">漢高</span>不去<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">呂-{后}-</span>，亦近-{於}-此。<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">漢高</span>嬖<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">戚姬</span>，愛<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">如意</span>，思其久安之計，至-{於}-悲歌不樂，豈不知除去<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">呂-{后}-</span>，必無-{後}-禍？況<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">呂-{后}-</span>年長有過，稀復進見，<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">漢高</span>棄之，如去塵垢。實以<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">惠帝</span>暗弱，必不能自攬權綱，其將相皆平生故人，俱起<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">-{豐}-</span><span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">沛</span>，非<span style="text-decoration: underline;-moz-text-decoration-style: solid;text-decoration-style: solid;text-underline-offset:0.25em;">呂-{后}-</span>剛強，不能臨-{制}-，所以存之，爲社稷也。-{後}-世翼戴其君者，得不念-{於}-此哉？
+
+==[[宋齊記]]==
+宋、齊以降，繼體承祧者，君德寢微，王道淩替，纘緒之初，如革大運，降宥解網，以悅眾心，仁義之風薄，骨肉之情廢，前史評之詳矣。然政未得中，改之可也，如弓之高下者抑舉，琴瑟之不調者更張，此亦天之道也，豈獨人事哉。惟用其罪人，不可甚矣。天下之惡一也，古人言：「一心可以事百君，百心不可以事一君。」豈有不忠於前朝，而能忠於後王者哉？毀泉臺，《春秋》之所譏，先儒之所惡，宋、齊之君，有一於此，必為美政。泉臺見妖，尚不可毀，況無妖者乎？燕人之思召伯，甘棠勿剪；楚人之懷叔子，望碑墮淚。彼人臣也，而見思若此。雖時移政改，莫非舊臣。昔伯益贊禹，稱大舜之德；曹參事惠帝，守蕭何之法；魏文帝初受漢禪，群臣皆讚魏德，唯衛臻獨稱漢美，文帝曰：「天下之珍，當與山陽共之。」為人臣者，罔念於此，可謂有百心矣。
+{| class="ws-noexport noprint ws-footer" width="100%" cellpadding="0" cellspacing="0" style="border:1px solid var(--border-color-content-added,#a3d3ff); background-color: var(--background-color-progressive-subtle,#eaf3ff); width:100%; margin-bottom:0px; text-align:center;"
+| width="20%" align="left" |　[[../卷0707|卷七百〇七]]
+| <span style="color:#999"> ◄ </span>
+| width="50%" align="center" |[[#top|↑返回頂部]]
+| <span style="color:#999"> ► </span>
+| width="20%" align="right" |[[../卷0709|卷七百〇九]]
+|}
+<templatestyles src="Template:License/styles.css" /><div class="licenseContainer licenseBanner dynlayout-exempt " >
+<div><div><div><div>
+<span class="imageLeft">[[File:PD-icon.svg|x48px|alt=|link=]]</span>
+</div><div>
+<div>
+此唐朝作品在全世界都属于'''[[w:公有领域|公有领域]]'''，因为作者逝世已经超过100年，且作品于1931年1月1日之前出版。
+</div>
+</div><div>
+<span class="noimageRight></span>
+</div></div></div></div>
+<div class="licensetpl">
+<span class="licensetpl_short">Public domain</span><span class="licensetpl_long">Public domain</span><span class="licensetpl_link_req">false</span><span class="licensetpl_attr_req">false</span>
+</div>
+</div>[[分類:唐朝]]

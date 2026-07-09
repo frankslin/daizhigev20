@@ -1,0 +1,7 @@
+{{Album header|type=|title=全唐文|section=|author=|previous=[[../卷0465|卷四百六十五]]|next=[[../卷0467|卷四百六十七]]|notes=}}__NOEDITSECTION__{{robot made}}
+==[[論裴延齡奸蠹書]]==
+{{:論裴延齡奸蠹書}}{{footer
+|previous=[[../卷0465|卷四百六十五]]
+|next=[[../卷0467|卷四百六十七]]
+}}
+{{唐朝作品}}

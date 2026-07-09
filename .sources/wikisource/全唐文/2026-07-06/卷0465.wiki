@@ -1,0 +1,7 @@
+{{Album header|type=|title=全唐文|section=|author=|previous=[[../卷0464|卷四百六十四]]|next=[[../卷0466|卷四百六十六]]|notes=}}__NOEDITSECTION__{{robot made}}
+==[[均節賦稅恤百姓六條]]==
+{{:均節賦稅恤百姓六條}}{{footer
+|previous=[[../卷0464|卷四百六十四]]
+|next=[[../卷0466|卷四百六十六]]
+}}
+{{唐朝作品}}

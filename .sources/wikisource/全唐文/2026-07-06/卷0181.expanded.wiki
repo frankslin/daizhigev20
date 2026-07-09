@@ -1,0 +1,194 @@
+
+{|style="width:100%; margin-bottom:0px; border:1px solid #AADDAA; background-color: #E4F2E4; text-align:center;" class="ws-header"
+|-
+| class="noprint" style="width:25%; text-align:left; font-size:small;" |←[[../卷0180|卷一百八十]]
+|style="width:50%;" |'''全唐文'''
+| class="noprint" style="width:25%; text-align:right; font-size:small;" |[[../卷0182|卷一百八十二]]→
+|}
+{|style="width:100%; background:#F2F9F2; font-size:small; border-bottom:1px solid #D5ECD5" class="ws-header"
+|- 
+|<div style="color:#464646"><ul id="plainSister" style="display:inline-block; font-size:93%; line-height:normal; list-style-type:none; list-style-image:none; list-style-position:outside; border:1px solid var(--border-color-base,#AAA); float:right; clear:right; margin:0.5ex 0.5ex 0.5ex 0.5ex; padding:0.0ex 0.0ex 0.0ex 0.0ex; background-color:var(--background-color-base,#FFFFFF);color: inherit;"><li class="noprint sisitem"><span class="sisicon" style="padding-right:1ex;">[[Image:Wikimedia-logo.svg|frameless|18px|link=Special:sitematrix|alt=姊妹计划]]</span>[[Special:sitematrix|姊妹计划]]: [[d:Q52145010|数据项]]</li></ul> 王勃</div>
+|}
+==[[別盧主簿序]]==
+林慮主簿，清靈士也。達於藝，明乎道，詮柱下之理，駁河上之義，撮其綱統，成其卷軸。吾儕服其精博，時議稱其典要，可謂賢人師古，老氏不死矣。夫靈芝既秀，蘭蕙同薰；仙鳳於飛，鵷鸞舞翼。何則？物類之相感也。況乎同得此義，目擊道存，此僕所以望風投款，披襟請益，展轉於寤寐，殷勤於左右。《詩》不云乎：「中心藏之，何日忘之？」然變動之不居，乃聚散之恒理。琴樽暫離，山川有別。惟高明之捧檄，屬吾人之解帶。王事靡鹽，良時易失。盍陳雅志，各敘幽懷，人賦一言，同疏四韻-{云}-爾。
+==[[送劼赴太學序]]==
+今之遊太學者多矣。鹹一切欲速，百端進取，故夫膚受末學者因利乘便，經明行修者華存實爽。至於振骨鯁之風標，服賢聖之言，懷遠大之舉，蓋有之矣，未之見也。可以深慕哉！
+
+且吾家以儒輔仁，述作存者八代矣，未有不久於其道而求苟出者也。故能立經陳訓，刪書定禮，揚魁梧之風，樹清白之業，使吾徒子孫有所取也。《大雅》不云：「無念爾祖。」《易》不云：「幹父之蠱。」《書》不云：「惟孝友於。」《詩》不云：「不如友生。」四者備矣。加之執德宏，信道篤，心則口誦，廢食忘寢，渙然有所成，望然有所伏，然後可以托教義，編人倫，彰風聲，議出處。若意不感慨，行不卓絕。輕進苟動，見利忘義，雖上一階履半級，何足恃哉？終見棄於高人，但自溺於下流矣。
+
+吾被服家業，霑濡庭訓，切磋琢磨，戰兢惕厲者，二十餘載矣。幸以薄伎，獲蠲戎役。嚐恥道未成而受祿，恨不得如古君子四十強而仕也。而房族多孤，飦粥不繼，逼父兄之命，睹饑寒之切，解巾捧檄，扶老攜幼，今既至於期矣。不蠶而衣，不耕而食，吾何德以當哉？至於竭小人之心，申猶子之道，飲食衣服，晨昏左右，庶幾乎令汝無反顧憂也。行矣自愛，遊必有方。離別咫尺，未足耿耿。嗟乎！不有居者，誰展色養之心？不有行者，孰就揚名之業？籩豆有踐，菽水盡心，盍各賦詩，敘離道意雲爾。
+==[[感興奉送王少府序]]==
+八十有遇，共太公晚宦未遲；七歲神童，與顏回早死何益？僕一代丈夫，四海男子，衫襟緩帶，擬貯鳴琴；衣袖闊裁，用安書卷。貧窮無有種，富貴不選人。高樹易來風，幽松難見日。羽翼未備，獨居草澤之間；翅翮若齊，即在雲霄之上。鳥眾多而無辨鳳，馬羣雜而不分龍。荊山看刖足之夫，湘水聞離騷之客。人貧材富，罔窺卿相之門；貌弱骨剛，豈入王侯之宅？王少府北辭伊闕，南登湎山，過我貧居，飲我清酒。一談經史，亞比孔先生；再讀詞章，何如曹子建？山<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="《王子安集》作岳。">嶽</span>藏其跡，川澤隱其形，一旦睹風雲，千年想光景。孔夫子何須頻刪其詩書，焉知來者不如今？鄭康成何須浪注其經史，豈覺今之不如古？王少府乃可畏後生，學問人也。各為四韻，共寫別懷。
+==[[越州永興李明府宅送蕭三還齊州序]]==
+嗟乎，不遊天下者，安知四海之交？不涉河梁者，豈識別離之恨？薜衣鬆杖，琴樽為得意之親；臨遠登高，煙霞是賞心之事。有梁孝王之下客，仆是河南；孟嘗君之上賓，子在北山之北。幸屬一人，作寰中之主；翛然四皓，為方外之臣。俱遊萬物之間，相遇三江之表。許元度之清風朗月，時慰相思；王逸少之修竹茂林，屢陪歡宴。加以惠而好我，攜手同行，或登吳會而聽越吟，或下宛委而觀禹穴。良談落落，金石絲竹之音輝；雅致飄飄，松柏風雲之氣狀。當此時也。嚐謂連璧無異鄉之別，斷金有好親之契。生平於張範之年，齊物於惠莊之歲。三光回薄，未殫投分之情；四序循環，詎盡忘言之道？
+
+豈期我留子往，樂去悲來，橫咽水而東西，緒愁雲於南北。況乎泣窮途於白首，白首非臨別之秋；嗟岐路於他鄉，他鄉豈送歸之地？蓐收戒序，少昊司辰。清風起而城闕寒，白露下而江山遠。徘徊去鶴，將別蓋而同飛；斷續來鴻，其離舟而俱泛。古人道別，動便經年；今我言離，會當何日？山巨源之風猷令望，善佐朝廷；嵇叔夜之潦倒粗疏，甘從草澤。行當山中攀桂，往往思仁；野外紉蘭，時時佩德。人非桃李，豈得無言？子是簫韶，當思振響。勉酌傷離之酒，具陳感別之詞，各賦一言，俱題六韻。
+==[[三月上已祓禊序]]==
+觀夫天下四方，以宇宙為城池；人生百年，用林泉為窟宅。雖朝野殊致，出處異途，莫不擁冠蓋於煙霞，披薜蘿於山水。況乎山陰舊地，王逸少之池亭；永興新交，許元度之風月？琴台寥落，猶停隱遯之賓；釀渚荒涼，尚有過逢之客。仙舟溶裔，若海上之槎來；羽蓋參差，似遼東之鶴舉。或昂昂騏驥，或泛泛飛鳧，俱安名利之場，各得逍遙之地。而上屬無為之道，下棲元邈之風。
+
+永淳二年，暮春三月，修祓禊於獻之山亭也。遲遲風景，出沒媚於郊原；片片仙雲，遠近生於林薄。雜花爭發，非止桃蹊；群鳥亂飛，有逾鸚穀。王孫春草，處處爭鮮；仲統芳園，家家並翠。於是攜旨酒，列芳筵，先祓禊於長洲，卻申交於促席。良談吐玉，長江與斜漢爭流；清歌繞梁，白雲將紅塵並落。他鄉易感，增淒愴於茲辰；羈客何情，更歡娛於此日。加以今之視昔，已非昔日之歡；後之視今，豈複今時之會？人之情也，能不悲乎？且題姓字，以表襟懷。使夫會稽竹箭，則推我於東南；昆阜琳琅，亦歸予於西北。
+==[[上已浮江宴序]]==
+吾之生也有極，時之過也多緒。若夫遭主後之聖明，屬天地之貞觀，得畝畝之相保，以農桑為業，而托表宇宙者幸矣。況乃偃泊山水，遨遊風月，樽酒於其外，文墨於其間？則造化之於我得矣，太平之縱我多矣。
+
+茲以上已芳節，雲開勝地，大江浩曠，群山紛糾。出重城而振策，下長浦而方舟。林壑清其顧盼，風雲蕩其懷抱。於時序躔清律，運啟朱明，輕荑秀而郊戍青，落花盡而亭皋晚。丹鸚紫蝶，候芳晷而騰姿；早燕歸鴻，俟迅風而弄影。岩暄蕙密，野淑蘭滋，弱荷抽紫，疏萍泛綠。於是儼鬆舲於石奧，停桂楫於璿潭，指林岸而長懷，出河州而極睇。妍妝袨服，香驚北渚之風；翠幕元帷，彩綴南津之霧。若乃尋曲渚，曆回溪，榜謳齊引，漁歌互起，飛沙濺石，湍流百勢，翠嶮丹崖，岡巒萬色。亦有銀鉤犯浪，掛赬翼於文竿；瓊舸乘波，耀錦鱗於畫網。鍾期在聽，元雲白雪之琴；阮籍同歸，紫桂蒼梧之醴。既而遊盤興遠，景促時淹，野日照晴，山煙送晚。方披襟朗詠，餞斜光於碧岫之前；散發高吟，對明月於青溪之下。
+
+客懷既暢，遊思遄征。視泉石而如歸，佇雲霞而有自。昔周川故事，初傳曲路之悲；江甸名流，始命山陰之筆。盍遵清轍？共抒幽襟，俾後之視今，亦猶今之視昔。一言均賦，六韻齊疏。誰知後來者難？輒以先成為次。
+==[[春日孫學士宅宴序]]==
+若夫懷放曠寥廓之心，非江山不能宣其氣；負鬱怏不平之思，非琴酒不能泄其情。則林泉為進退之場，樽罍是言談之地。白衣送酒，青陽在節。鳧雁亂而江湖春，梅柳開而庭院晚。楚屈平之瞻望，放於何之？王仲宣之登臨，魂兮往矣。俠客時有，且傾鸚鵡之杯；文人代興，聊舉麒麟之筆。人采一字，四韻成篇。
+==[[春日桑泉別王少府序]]==
+下官以窮途萬里，動脂轄以長驅；王公以傾餞百壺，別芳筵而促興。是以青陽半序，明月中宵。離亭擁花草之芳，別館積琴歌之思。去留歡盡，動息悲來。惜投分之幾何？恨知音之忽間。他鄉握手，自傷關塞之春；異縣分襟，意切淒惶之路。既而星河漸落，煙霧仍開，高林靜而霜鳥飛，長路曉而征驂動。含情不拜，空佇聽於南昌；揮涕無言，請投文於西候。因探一字，四韻成篇。
+==[[與員四等宴序]]==
+自嵇、阮寂寥、尹、班超忽，高筵不嗣，中宵誰賞？古今惜芳辰者停鶴軫於風衢，懷幽契者佇鸞觴於月徑。已矣哉！林壑遂喪，煙霞少對；良會不恒，神交複幾？請沃非常之思，但宣絕代之遊。托同誌於百齡，求知己於千載。道之存矣，無乃然乎？人賦一言，俱裁四韻。
+==[[送李十五序]]==
+夫人生百齡，促膝是忘言之契；丈夫四海，交頤非贈別之資。然乃想山川之遽遙，送歸將遠；惜歲年之不待，行樂無時。於是輟征驂以少留，敞幽亭之多暇。山芳襲吹，坐疑蘭室之中；水樹含香，宛似楓江之上。加以禦溝新溜，近入離弦。賓館餘花，遙催別酒。既而滎波東注，灞岸南登。浮蟻傾而高宴終，踆烏落而離言促。雖相思有贈，終結想於華滋；而素賞無暌，盍申情於麗藻。人為四韻，各賦一篇。
+==[[夏日宴宋五官宅觀畫障序]]==
+宋五官芝庭襲譽，盛文史於三冬；桂幄凝歡，照綺羅於九夏。樽浮綠蟻，每披仙霧之文；障列青牛，更寫行雲之態。爾其龍編繡質，貝錦分花。隱映樓台，比窗簾之在旦；參差花葉，若桃李之恒春。楚媛調弦，韓娥對酒。虹橋度幔，鵲鏡臨妝。佩引琅玕，詎動懷風之韻？鞍回玳瑁，唯奔逐日之姿。魚鳥冷而相親。泉石紛而在玩。宋家斯近，難別謝於登垣；秦氏未遙，自堪留於駐馬。驚鴻擅美，丹青貴近質之奇；吐鳳標華，宮徵得緣情之趣。遞揚筆妙，式暢辭端。
+==[[夏日登韓城門樓寓望序]]==
+下官狂走不調，東西南北之人也。流離歲月，羈旅山川，輟仙駕於殊鄉，遇良朋於異縣。麵勝地，陟危樓，放曠懷抱，驅馳耳目。韓原奧壤，昔時開戰鬥之場；秦塞雄都，今日列山河之郡。池台左右，覺風雲之助人；林麓周回，觀岩泉之入興。則有驚花亂下，戲鳥平飛，荷葉滋而曉霧繁，竹院靜而炎氛息。賞歡文酒，思挽雲霄。人賦一言，庶旌六韻雲爾。
+==[[夏日登龍門樓寓望序]]==
+夫益者三友，則道術可存；同心三人，則金蘭可裕。況乎詩書舊好，披樂廣之高天；鄉黨新知，掃顏回之陋巷？尋勝地，敘清蕪。脫野客之荷衣，入幽人之桂座。榴花浮酌，對文舉而無憂；葛蔓調弦，撫鍾期而有遇。既而南方夏晚，北牖晴開。中園之弱柳含煙，曠野之陰雲蔽日。低虹飲水，向溪穀而全斜；戲鳥淩空，狎林亭而半度。興酣情逸，共敦行役之期；搦管含毫，獨對當仁之序。
+==[[夏日宴張二林亭序]]==
+張二官松駕乘閑，桂筵追賞，引簪裾之勝侶，狎邱壑之神交。辯縱於解頤，道深於喻指。香杯濁醴，是河朔之平生；雄筆清詞，得高陽之意氣。林亭曠望，季倫調伎之園；泉石周遊，子晉登仙之浦。舟浮葉影，簟積花文。黃鵲度而飆驚，丹烏傾而日晚。出處之情一致，筌啼之義兩忘。沈轄留驤，眺乘羊於衛玉；揮毫可作，明擲地於孫金。共題橫吹之篇，用記茲辰之樂。人采一字，四韻成篇。
+==[[夏日諸公見尋訪詩序]]==
+天地不仁，造化無力，授僕以幽憂孤憤之性，稟僕以耿介不平之氣。頓忘山嶽，坎坷於唐堯之朝；傲想煙霞，憔顇於聖明之代。情可知矣。賴乎神交勝友。得山澤之虯龍；隱路幽居，降雲霄之鸞鳳；楊公沈公，行之者仁義禮智，用之也乾元亨利。元經苦而白鳳翔，素牒開而紫鱗降。金門待詔，謁天子於朝廷；石室尋真，訪下走於邱壑。幽人待士，非無北壁之書；隱士迎賓，自有西山之饌。席門蓬巷，佇高士之來遊；叢桂幽蘭，喜王孫之相對。山南花圃，澗北松林，黃雀至而清風生，白鶴飛而蒼雲起。停琴綠水，仲長統之歡娛；置酒青山，郭子期之賓客。人探一字，四韻成篇。
+==[[仲氏宅宴序]]==
+僕不幸，在流俗而嗜煙霞。恨林泉不比德，而嵇阮不同時，處良辰而鬱怏，仰高風而杼柚者多矣。豈夫司馬卿之車騎，上客盈門；仲長統之園林，羣英在席？坐臥南郭，蕭條東野，江波浩曠，晴山紛積。嘉鴛鸞之接翼，曜江漢之多才。顧斜景而危心，瞻火雲而變色。思傳勝餞，敢振文鋒。蓋同席者高人薛曜等耳，盍各賦詩，放懷敘志，俾山川獲申於知己，煙霞受制於吾徒也。
+==[[餞宇文明府序]]==
+昔者王烈登山，林泉動色；嵇康入座，左右生光。豈非仙表足以感神，真姿可以錯物？況我巨山之稟孤出，昇華之麗清峙。群公之好善，下官之惡俗。接霓裳於勝席，陪鶴轡於中軒。俱持拔塵之標，各仗專門之氣。煙霞用足，江海情多。言泉共秋水共流，詞峰與夏雲爭長。雖揚亭載酒，方趨好事之遊；而樂肆含毫，請命昇仟之筆。同抽藻思，共寫離懷。
+==[[越州秋日宴山亭序]]==
+昔王子敬琅琊之名士，常懷習氏之園，阮嗣宗陳留之俊人，直至山陽之坐。豈非琴樽遠契，必兆聯於佳辰；風月高情，每留連於勝地？是以東山可望，林泉生謝客之文；南國多才，江山助屈平之氣。況乎揚子雲之故地，岩壑依然；宓子賤之芳猷，弦歌在屬。紅蘭翠菊，俯映砂亭；黛柏蒼鬆，深環玉砌。參差夕樹，煙侵橘柚之園；的曆秋荷，月照芙蓉之水。既而星回漢轉，露下風高，銀燭摛華，瑤觴抒興。一時仙馭，方深擯俗之懷；五際飛文，時動緣情之作。人分一字，四韻成篇。
+==[[秋日宴季處士宅序]]==
+若夫爭名於朝廷者，則冠蓋相趨；遯跡於邱園者，則林泉見托。雖語默非一，物我不同，而逍遙皆得性之場，動息匪自然之地。故有季處士者，遠辭濠上，來遊境中，披白雲以開筵，俯青溪而命酌。昔時西北，則我地之琳琅；今日東南，乃他鄉之竹箭。又此夜乘槎之客，猶對仙家；坐菊之賓，尚臨清賞。既而依稀舊識，歡吳鄭之班荊；樂莫新交，申孔程之傾蓋；向時朱夏，俄涉素秋。金風生而景物清，白露下而光陰晚。庭前柳葉，才聽蟬鳴；野外蘆花，行看鷗上；數人之內，幾度琴樽？百年之中，少時風月。蘭亭有昔時之會，竹林無今日之歡。丈夫不縱誌於生平，何屈節於名利？人之情矣，豈曰不然？人賦一言，各申其誌，使夫千載之下，四海之中，後之視今，知我詠懷抱於茲日。
+==[[秋日遊蓮池序]]==
+人間齷齪，抱風雲者幾人？庶俗紛紜，得英奇者何有？煙霞召我，相望道術之門；文酒起予，放浪沈潛之地。少留逸客，塞雁飛鳴。北斗橫而天地秋，西金用而風露降。幽居少事，野性多閑，登石岸而鋪筵，坐沙場而列席。琳琅觸目，朗月清風之俊人；珠玉在傍，鸞鳳虯龍之君子。汀洲地遠，波濤濺日月之輝；人野路殊，原隰擁神仙之氣。平郊樹直，曲浦蓮肥；隱士泥清，仙人水綠。越林亭而極望，生死都捐；出宇宙以長懷，心靈若喪。悲夫！秋者愁也。酌濁酒以蕩幽襟，誌之所之；用清文而銷積恨，我之懷矣。能無情乎？
+==[[秋日宴洛陽序]]==
+夫以東京勝地，南呂高秋，三塗鎮而九派分，白露下而清風肅。或出或處，人多朝野之歡；以嬉以遊，時極登臨之所。征衣流寓，切下走之蓬襟；解榻邀期，屬上賓之桂席。於是齊道實，款琴樽，倜儻論心，留連促膝，但有潘楊之密戚，得無管鮑之深知？簪組盛而車馬喧，庭宇虛而管弦亮。近臨銅陌，斜控銀墟。菊照新花，泛輕香於遠次；荷凋晚葉，翻翠影於長波。聽矚方窮，獻酬逾洽。年忘小大，傲天地於平生；誌混榮枯，得林泉之意氣。願長繩以係日，幾近光陰；思短劄以淩雲，或陳歌詠。人采古韻，成者先呈。
+==[[綿州北亭群公宴序]]==
+下官人間獨傲，海內少徒，誌不屈於王侯，身不絕於塵俗。孤吟五嶽，長嘯三山。昔往東吳，已有梁鴻之誌；今來西蜀，非無張載之懷。況乎踐名場，攜勝友，風月無幾，琴酒俄乖。半麵十年，一別千里。何少府故人攀桂，撫金石而論心；韓法曹新識班荊，臨江湖而執手。離亭北望，煙霞生故國之悲；別館南開，風雨積他鄉之思。於時蒼雲寡色，白日無光。沙塵起而桂浦昏，鳧雁下而蘆洲晚。傍鄰蒼野，霜風橘柚之園；斜枕碧潭，夜月芙蓉之水。既而登臨惜別，驂駕少留。季劄何人？親逢贈縞；子荊不敏，思掛傾城。惆悵北梁，揖琴台而漸間；徘徊東道，思錦署以行遙。嗟乎！人事乖矣，江山遠矣。請命離前之筆，為題別後之資。五際飛文，想群公之不讓；一言有贈，知下筆之有神。
+==[[宇文德陽宅秋夜山亭宴序]]==
+若夫龍津宴喜，地切登仙；鳳閣元虛，門稱好事。亦有登山臨水，長想巨源；明月清風，每思元度。未有能星馳一介，留美跡於芳亭；雲委八行，抒勞思於彩筆；遂令啟瑤緘者，攀勝集而長懷；披瓊翰者，仰高筵而不暇。王子猷之獨興，不覺浮舟；嵇叔夜之相知，欣然命駕。琴樽佳賞，始詣臨邛；口腹良遊，未辭安邑。乃知兩鄉投分，林泉可攘袂而遊；千里同心，煙霞可傳檄而定。友人河南宇文嶠，清虛君子；中山郎餘令，風流名士。或三秋意契，辟林院而開襟；或一面新交，敘風雲而倒屣。彭澤陶潛之菊，影泛仙樽；河陽潘嶽之花，光懸妙理。財岩思壁，家藏虹岫之珍；淼淼言河，各探驪泉之寶。偶同金碧，暫照詞場；巴漢英靈，潛光翰院。亹焉，蕭蕭焉，信天下之奇托也。
+
+於時白藏開序，青女禦律。金風高而林野動，玉露下而江山清。琴亭酒榭，磊落乘煙；竹徑鬆扉，參差向月。魚鱗積磴，還昇蘭桂之峰；鴛翼分橋，即映芙容之水。亦有紅蘋綠荇，亙渚連翹；玉帶瑤華，分楹間植。池簾夕敞，香牽十步之風；岫幌宵褰，氣襲三危之露。縱衝衿於俗表，留逸契於人間。東山之賞在焉，南澗之情不遠。夫以中牟馴雉，猶嬰觸網之悲；單父歌魚，罕繼鳴琴之趣。俾夫一同詩酒，不撓於牽絲；千載岩溪，無慚於景燭雲爾。
+==[[晚秋遊武擔山寺序]]==
+若夫武邱仙鎮，吳王殉歿之墟；驪嶠崇基，秦帝升遐之宅。雖珠衣玉匣，下賁窮泉；而廣岫長林，終成勝境。亦有霍將軍之大隧，回寫祁連；樗裏子之孤墳，竟開長樂。豈如武擔靈嶽，開明故地？蜀夫人之葬跡，任文公之死所。岡巒隱隱，化為闍崛之峰；松柏蒼蒼，即入祇園之樹。引星垣於遝障，下布金沙；棲日觀於長崖，傍臨石鏡。瑤台玉甃，尚控霞宮；寶刹香壇，猶芬仙闕。雕櫳接映，台凝夢渚之雲；璧題相暉，殿寫長門之月。美人虹影，下綴虯幡；少女風吟，遙喧鳳鐸。群公以玉律豐暇，傃林壑而延情；錦署多閑，想岩泉而結興。於是披桂幌，曆鬆扉，梵筵霞屬，禪扃煙敞。雞林俊賞，蕭蕭鷲嶺之居；鹿苑仙談，亹龍宮之偈。於時金方啟序，玉律驚秋，朔風四面，寒雲千里。層軒回霧，齊萬物於三休；綺席乘雲，窮九垓於一息。碧雞靈宇，山川極望，石兕長江，汀洲在目。龍鑣翠轄，駢闐上路之遊；列榭崇，磊落名都之氣。渺渺焉，洋洋焉，信三蜀之奇觀也。昔者升高能賦，勝事仍存；登嶽長謠，清標未遠。敢攀盛烈，下揆幽襟。庶旌西土之遊，遠嗣東平之唱雲爾。
+==[[守歲序]]==
+歲月易盡，光陰難駐。春秋冬夏，錯四序之涼炎；甲乙丙丁，紀三朝之曆數。十二月之陰氣，玉律窮年；一萬歲之休禎，金觴獻壽。鼖鼓雷動，煙火星流。侲子黃童，統鉤陳而驅赤疫；諸王等集，陳玉帛而朝諸侯。京兆天中，竦樓台而徹漢；長安路上，亂車馬而飛塵。王丞相之登臨，行將在目；戴待中之重席，忽爾明朝。槐火滅而寒氣消，蘆灰用而春風起。魚鱗布葉，爛五色而翻光；鳳腦吐花，爍百枝而引照。悲夫！年華將晚，誌事寥落。公孫宏之甲第，天子未知；王仲宣之文章，公卿不識。對他鄉之風景，憶故裏之琴歌。柏葉為銘，未泛新年之酒；椒花入頌，先開獻歲之詞。作者七人，同為六韻。
+==[[遊山廟序]]==
+吾之有生，二十載矣。雅厭城闕，酷嗜江海，常學仙經，博涉道記。知軒冕可以理隔，鸞凰可以術待。而事親多衣食之虞，登朝有聲利之迫。清識滯於煩城，仙骨摧於俗境。嗚呼！阮籍意疏，稽康體放，有自來矣。常恐運促風火，身非金石；遂令林壑交喪，煙霞板蕩。此仆所以懷泉塗而惴恐，臨山河而歎息者也。
+
+粵以勝友良暇，相與遊於元武西山廟，蓋蜀郡三靈峰也。山東有道君廟，古者相傳以名焉爾。其丹壑叢倚，元崖糾合，俯臨萬仞，平視重元，乘杳冥之絕境，屬芬華之暮節。玉房跨霄而懸居，瓊台出雲而高峙。亦有野獸群狎，山鶯互囀。崇鬆埒巨柏爭陰，積瀨與幽湍合響。眇眇焉，逌逌焉。王孫何以不歸？羽人何以長往？其元都紫微之事耶！方斂手鍾鼎，息肩岩石，絕視聽於寰中，置形骸於度外，不其然乎？時預乎斯者，濟陰鹿宏允、安陽邵令遠耳。蓋詩以言誌，不以韻數裁焉。
+==[[秋日登洪府滕王閣餞別序]]==
+<indicator name="text-integrity"><span id="textquality" class="75%">[[File:75 percent.svg|14px|文章被一個用戶校對過，已經相当可靠。|link=Wikisource:正文品质]]</span></indicator>[[Category:75%]]
+<div id="headerContainer">
+{| style="width:100%; margin-top:0px;margin-bottom:3px;border:1px solid var(--border-color-content-added,#93A6C0); background-color: var(--background-color-neutral-subtle,#F9F9F9); color: inherit; text-align: center; text-wrap: balance;"
+|-
+| style="width:0; text-align:left; font-size:small;"|
+| style="width:25%; text-align:left; font-size:small;"|
+|style="width:50%;" |<b>秋日登洪府滕王閣餞別序<ref>《古今事文類聚》題作《秋日燕滕王閣詩序》</ref></b><br /><span style="color:var(--color-placeholder,#999999)">作者：</span>[[作者:王勃|王勃]]　<span style="color:var(--color-placeholder,#999999)">唐</span>
+| style="width:25%; text-align:right; font-size:small;"|
+| class="noprint" style="width:0; text-align:right; font-size:small;"|
+|}
+{| style="width:100%; background:var(--background-color-progressive-subtle,#F8FCFF); color: inherit;font-size:small; border-bottom:1px solid var(--border-color-content-added,#93A6C0)"
+|-
+|
+{| style="font-size:0.9em; text-align:left; background:var(--background-color-neutral-subtle,#F9F9F9); float:right;color: inherit;"
+| style="color: var(--color-placeholder,#999999);" |-{zh:本作品收錄於;zh-hant:本作品收錄於;zh-hans:本作品收录于}-《'''[[古今事文類聚 (四庫全書本)/續集卷07]]'''》和《'''[[文苑英華 (四庫全書本)/卷0718]]'''》
+|}
+[[w:王勃|王勃]]著《[[w:滕王阁序|滕王閣序]]》時年僅十四<ref>一說作於{{YL|上元二年|675年}}，則其時勃二十六歲。見元[[Author:辛文房|辛文房]]《[[唐才子傳]]》。</ref>。都督閻公不之信。勃雖在座，而閻公意屬子婿孟學士者為之，已宿構矣。及以紙筆巡讓賓客，勃不辭讓。公大怒，拂衣而起，專令人伺其下筆。第一報-{云}-「豫章故郡，洪都新府」，公曰：「是亦老生談。」又報-{云}-「星分翼軫，地接衡廬」，公聞之，沈吟不言。又-{云}-「落霞與孤鶩齊飛，秋水共長天一色」，公矍然而起，曰：「此真天才，當垂不朽矣！」遂亟請宴所，極歡而罷。 
+——《[[唐摭言]]》（卷五）<ul id="plainSister" style="display:inline-block; font-size:93%; line-height:normal; list-style-type:none; list-style-image:none; list-style-position:outside; border:1px solid var(--border-color-base,#AAA); float:right; clear:right; margin:0.5ex 0.5ex 0.5ex 0.5ex; padding:0.0ex 0.0ex 0.0ex 0.0ex; background-color:var(--background-color-base,#FFFFFF);color: inherit;"><li class="noprint sisitem"><span class="sisicon" style="padding-right:1ex;">[[Image:Wikimedia-logo.svg|frameless|18px|link=Special:sitematrix|alt=姊妹计划]]</span>[[Special:sitematrix|姊妹计划]]: [[d:Q52145010|数据项]]</li></ul>
+|}</div>[[Category:唐朝]][[Category:王勃]][[Category:序]]
+<section begin=p1 />
+<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">豫章<span class="variant-tooltip">一作「南昌」</span></span>故郡，洪都新府。星分[[w:翼宿|翼]][[w:軫宿|軫]]，<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">地<span class="variant-tooltip">一作「鎮」</span></span>接[[w:衡山|衡]][[w:庐山|廬]]。襟三江而帶五湖，控蠻荊而引甌越。物華天寶，[[w:龍泉劍|龍光]]射牛斗之墟；人傑地靈，[[w:徐稚|徐孺]]下[[w:陳蕃|陳蕃]]之榻。雄州霧列，俊<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">彩<span class="variant-tooltip">一作「寀」</span></span>星馳。臺隍枕夷夏之交，賓主盡東南之美。都督閻公之雅望，<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">棨<span class="variant-tooltip">一作「𭩶」</span></span>戟遙臨；宇文新州之懿範，襜帷暫駐。十旬休<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">假<span class="variant-tooltip">一作「沐」</span></span>，勝友如雲。千里逢迎，高朋滿<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">座<span class="variant-tooltip">一作「席」</span></span>。騰蛟起鳳，孟學士之詞<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">宗<span class="variant-tooltip">一作「府」</span></span>；紫電青霜，[[w:王僧辯|王將軍]]之武庫。家君作宰，路出名區。童子何知？躬逢勝<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">餞<span class="variant-tooltip">一作「踐」</span></span>。
+
+時<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">維<span class="variant-tooltip">一作「惟」</span></span>九月，序屬三秋。潦水盡而寒潭清，煙光凝而暮山紫。儼驂-{zh:騑;zh-hans:𬴂;zh-hant:騑;}-於上路，訪風景於崇阿。臨帝子之長洲，得<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">天<span class="variant-tooltip">一作「仙」</span></span>人之舊館。<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">層<span class="variant-tooltip">一作「曾」</span></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">臺<span class="variant-tooltip">一作「巒」</span></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">聳<span class="variant-tooltip">一作「矯」</span></span>翠，上出重霄；飛閣<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">流<span class="variant-tooltip">一作「翔」</span></span>丹，下臨無地。鶴汀鳧渚，窮島嶼之縈廻；桂殿蘭宮，<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">即<span class="variant-tooltip">一作「列」</span></span>崗巒之體勢。
+
+披繡闥，俯<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">琱<span class="variant-tooltip">一作「雕」</span></span>甍。山<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">原<span class="variant-tooltip">一作「源」</span></span>曠其盈視，川澤<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">紆<span class="variant-tooltip">一作「呼」</span></span>其駭矚。閭閻撲地，鐘鳴鼎食之家；舸艦<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">弥<span class="variant-tooltip">一作「迷」</span></span>津，青雀黃龍之<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">舳<span class="variant-tooltip">一作「軸」</span></span>。<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">雲<span class="variant-tooltip">一作「虹」</span></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">銷<span class="variant-tooltip">一作「消」</span></span>雨霽，彩徹<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">區明<span class="variant-tooltip">一作「雲衢」</span></span>。落霞與孤<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">鶩<span class="variant-tooltip">一作「霧」</span></span>齊飛，秋水共長天一色。漁舟<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">唱<span class="variant-tooltip">一作「喝」</span></span>晚，響窮彭蠡之濱；鴈陣驚寒，聲斷衡陽之浦。
+
+遙<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">襟<span class="variant-tooltip">一作「矝、吟」</span></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">甫<span class="variant-tooltip">一作「吟、俯」</span></span>暢，逸興遄飛。爽籟發而清風<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">生<span class="variant-tooltip">一作「起」</span></span>，纖歌凝而白雲遏。睢園綠竹，氣<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">凌<span class="variant-tooltip">一作「浮」</span></span>彭澤之<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">樽<span class="variant-tooltip">一作「罇」</span></span>；鄴水朱華，光照臨川之筆。四美具，二難并。窮睇眄於中天，極娛遊於暇日。天高地迥，覺宇宙之無窮；興盡悲來，識盈虛之有數。望長安於日下，<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">目<span class="variant-tooltip">一作「指」</span></span>吳會於雲間。地勢極而南溟深，天柱高而北辰遠。關山難越，誰<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">悲<span class="variant-tooltip">一作「非」</span></span>失路之人；<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">萍<span class="variant-tooltip">一作「溝」</span></span>水相逢，盡是他鄉之客。懷帝閽而不見，奉宣室<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">以<span class="variant-tooltip">一作「而」</span></span>何年？
+
+嗟乎！<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">時<span class="variant-tooltip">一作「大」</span></span>運不<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">齊<span class="variant-tooltip">一作「濟」</span></span>，命<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">塗<span class="variant-tooltip">一作「途」</span></span>多<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">舛<span class="variant-tooltip">一作「緒」</span></span>。[[w:冯唐 (汉朝)|馮唐]]易老，[[w:李廣|李廣]]難封。屈[[w:賈誼|賈誼]]於長沙，非無聖主；竄[[w:梁鴻|梁鴻]]於海曲，豈乏明時？所賴君子<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">安貧<span class="variant-tooltip">一作「見機、安排」</span></span>，達人知命。老當益壯，寧<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">移<span class="variant-tooltip">一作「知」</span></span>白首之心；窮<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">且<span class="variant-tooltip">一作「當」</span></span>益堅，不墜青雲之<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">志<span class="variant-tooltip">一作「望」</span></span>。酌貪泉而<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">覺<span class="variant-tooltip">一作「𥪰」</span></span>爽，處涸轍<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">以猶<span class="variant-tooltip">一作「而相」</span></span><templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">歡<span class="variant-tooltip">一作「驩」</span></span>。北海雖<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">賒<span class="variant-tooltip">一作「遙」</span></span>，扶搖可接；東隅已逝，桑榆非晚。[[w:孟嘗君|孟嘗]]高潔，空<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">餘<span class="variant-tooltip">一作「懷」</span></span>報國之<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">心<span class="variant-tooltip">一作「情」</span></span>；[[w:阮籍|阮籍]]猖狂，豈效窮<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">塗<span class="variant-tooltip">一作「途」</span></span>之哭？
+
+勃，<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">三<span class="variant-tooltip">一作「五」</span></span>尺微命，一介書生，無路請纓，等[[w:終軍|終軍]]之<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">弱冠<span class="variant-tooltip">一作「妙日」</span></span>；有懷投筆，慕[[w:宗慤|宗慤]]之長風。捨簪笏於百齡，奉晨昏於萬里。非[[w:陳郡謝氏|謝家]]之寶樹，接[[w:孟子|孟氏]]之芳鄰。他日趨庭，叨陪[[w:孔鯉|鯉]]對；今<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">茲<span class="variant-tooltip">一作「晨」</span></span>捧袂，喜<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">託<span class="variant-tooltip">一作「托」</span></span>龍門。[[w:楊得意|楊意]]不逢，撫<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">凌<span class="variant-tooltip">一作「陵」</span></span>雲而自惜；[[w:鍾子期|鍾期]]<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">既<span class="variant-tooltip">一作「相」</span></span>遇，奏流水以何<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">慙<span class="variant-tooltip">一作「慚」</span></span>？
+
+嗚呼！勝地不常，盛筵難再。蘭亭已矣，梓澤丘墟。臨<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">別<span class="variant-tooltip">一作「水」</span></span>贈言，幸承恩於偉餞；登高<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">作<span class="variant-tooltip">一作「能」</span></span>賦，是所望於群公。敢竭鄙<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">誠<span class="variant-tooltip">一作「懷」</span></span>，恭疏短引。一言均賦，<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0">四<span class="variant-tooltip">一作「八」</span></span>韻俱成。<templatestyles src="Template:另/styles.css" /><span class="variant-text" tabindex="0" title="一無此十字">請灑潘江，各傾陸海云爾。</span><section end=p1 />
+<templatestyles src="楷體/style.css" />
+<CENTER>
+<div class="Kaiti" style=" font-size:130%; ">
+<poem>
+滕王高閣臨江渚，佩玉鳴鸞罷歌舞。
+畫棟朝飛南浦雲，{{另|珠|朱}}簾暮捲西山雨。
+閒雲潭影日悠悠，物換星移{{另|幾度|度幾}}秋。
+閣中帝子今何在，檻外長江空自流。
+</center></poem>
+
+==日本正倉院七零七年抄本版==
+===秋日登洪府滕王閣餞別序===
+豫章故郡，洪都新府。〇<ref>同「星」。唐武则天所造字。</ref>分翼軫，鎮接衡廬。襟三江而帶五湖，控蠻荆而引甌越。物華𬻃<ref>同「天」。集韻‧先韻：「天，唐武后作𬻃。」</ref>寳，龍光射牛斗之墟；人傑埊<ref>同「地」。玉篇‧土部：「埊，古地字。」集韻‧至韻：「地，或作坔，唐武后作埊。」</ref>霊，俆孺下陳蕃之榻。雄州霧列，俊寀〇馳。臺隍枕夷夏之交，賓主盡東南之美。都督閻公之雅望，<span class="inline-unihan" style="border-block-end: 1px dotted; font-variant: normal;cursor: help; font-family: sans-serif, 'FZSongS-Extended', 'FZSongS-Extended(SIP)', 'WenQuanYi Zen Hei Mono', 'BabelStone Han', 'HanaMinB', 'FZSong-Extended', 'Arial Unicode MS', Code2002, DFSongStd, 'STHeiti SC', unifont, SimSun-ExtB, TH-Tshyn-P0, TH-Tshyn-P1, TH-Tshyn-P2, Jigmo3, Jigmo2, Jigmo, ZhongHuaSongPlane15, ZhongHuaSongPlane02, ZhongHuaSongPlane00, 'Plangothic P1', 'Plangothic P2';" title="字符描述：⿱列木 &#10;※如果您看到空白、方塊或問號，代表您的系統無法顯示此字元。">-{𭩶}-</span>戟遙臨；宇文新州之懿範，襜帷蹔駐。十甸休沐，勝友如雲；千里逢迎，高朋滿席。騰蛟起鳳，孟學士之詞府；紫電青霜，王将軍之武庫。家君作宰，路出名區；童子何知，躬逢勝踐。
+
+時惟九月，序属三秋。潦水盡而寒潭清，烟光凝而暮山紫。儼騑驂於上路，訪風㬌於崇阿。臨帝子之長洲，得𬻃人之舊館。曾臺矯翠，上出重霄；飛閣翔丹，下臨無埊。鸖汀鳬渚，窮嶋嶼之縈廻；桂殿蘭宫，即崗巒之體勢。
+
+披繡闥，俯琱甍。山原曠其盈視，川澤呼其駭瞩。閭閻擈埊，鍾鳴鼎食之家；舸艦弥津，青雀黄龍之舳。虹銷雨霽，彩澈區眀。落霞与孤霧齊飛，秋水共長𬻃一色。渔舟喝晚，響窮彭䗍之濱；鴈陣驚寒，聲斷衡陽之浦。
+遙矝甫暢，逸興遄飛。爽籟發而清風起，纖歌凝而白雲遏。睢園緑竹，氣浮彭澤之罇；鄴水朱華，光照臨川之筆。四美具，二難并。寫睇眄於中𬻃，極娱逰於睱日。空高埊㢠，覺宇宙之無窮；興盡悲来，識盈虛之有數。望長安於日下，指吴會於　<ref>據其它版本，此處漏「雲」字</ref>間。埊勢極而南溟深，𬻃柱高而北辰遠。關山難越，誰非失路之人？溝水相逢，盡是他鄉之客。懷帝閽而不見，奉宣室而何秊？
+
+嗟乎！大運不齊，命塗多緒。馮唐易老，李廣難封。屈賈誼於長沙，非無聖主；竄梁鴻於海曲，豈乏眀時？所頼君子安排，逹人知命。老當益壮，寧移白首之心；窮當益堅，不墜青雲之望。酌貪泉而競爽，處涸轍而相驩。北海雖遙，扶揺可接；東隅已逝，桑榆非晚。孟嘗高潔，空餘報國之情；阮藉猖狂，豈效窮之塗哭？
+
+勃，五尺微命，一介書生。無路請纓，䓁終軍之妙日；有懷投筆，愛宗嗀之長風。捨簮笏於百齡，奉晨昏於万里。非謝家之寳樹，接孟氏之芳隣。他日趨庭，叨陪鯉對；今兹捧袂，喜託龍門。楊意不逢，撫陵雲而自惜；鍾期既遇，奏流水而何慙？
+
+嗚呼！勝埊不常，盛筵難再。蘭亭已矣，梓澤丘墟。臨水贈言，幸承恩於偉餞；登高能賦，是所望於羣公。敢竭鄙懷，恭䟽短引；一言均賦，八韻俱成。云尔。
+
+
+<templatestyles src="Template:License/styles.css" /><div class="licenseContainer licenseBanner dynlayout-exempt " >
+<div><div><div><div>
+<span class="imageLeft">[[File:PD-icon.svg|x48px|alt=|link=]]</span>
+</div><div>
+<div>
+此唐朝作品在全世界都属于'''[[w:公有领域|公有领域]]'''，因为作者逝世已经超过100年，且作品于1931年1月1日之前出版。
+</div>
+</div><div>
+<span class="noimageRight></span>
+</div></div></div></div>
+<div class="licensetpl">
+<span class="licensetpl_short">Public domain</span><span class="licensetpl_long">Public domain</span><span class="licensetpl_link_req">false</span><span class="licensetpl_attr_req">false</span>
+</div>
+</div>[[分類:唐朝]]
+
+== 註釋 ==
+<div class="reflist " style=" list-style-type: decimal;">
+<references group=""></references></div>
+==[[秋日楚州郝司戶宅餞崔使君序]]==
+上元二載，高秋八月。人多汴北，地實淮南。海氣近而蒼山陰，天光秋而白雲晚。川途所亙，郢路極於崤潼；風壤所交，荊門洎於吳越。憑勝地，列雄州。城池當要害之衝，寮寀盡鵷鸞之選。昌亭旅食，悲下走之窮愁；山曲淹留，屬群公之宴喜。披鶴霧，陟龍門。故人握手，新知滿目。飲崔公之盛德，果遇攀輪；慕郝氏之高風，遝逢解榻。接衣簪於坐右，駐旌棨於城隅。臨風雲而解帶，盼江山以揮涕。岩楹左峙，俯映元潭；野徑斜開，傍連翠渚。青萍布葉，亂荷芰而動秋風；朱草垂榮，雜芝蘭而涵晚液。艤仙舟於石岸，薦綺席於沙場。賓友盛而芳樽滿，林塘清而上筵肅。琴歌送起，俎豆駢羅。煙霞充耳目之玩，魚鳥盡江湖之賞。情盤樂極，日暮途遙。思染翰以淩雲，願麾戈以留景。嗟乎！素交為重，覺老幼之同歸；朱紱儻來，豈榮枯之足道？且欣風物，共悅濠梁。齊天地於一指，混飛沈於一貫。
+
+嗟乎！此歡難再，殷勤北海之筵；相見何時，惆悵南溟之路。請揚文筆，共記良遊。人賦一言，俱成四韻雲爾。<div align="right" class="noprint">[[#top|<small>返回頁首</small>]] </div>
+{| style="width:100%; margin-bottom:2px; border-top:1px solid #D5ECD5; background:#F2F9F2;"
+|- 
+| 
+|}
+{| style="width:100%; margin-bottom:0px; border:1px solid #AADDAA; background-color: #E4F2E4; text-align:center;"
+|-
+| style="width:20%; text-align:left; font-size:small;" | [[Image:Arrow l.svg]][[../卷0180|上一卷]]
+| style="width:60%; text-align:center;" |
+| style="width:20%; text-align:right; font-size:small;"| [[../卷0182|下一卷]][[Image:Arrow r.svg]]
+|-
+| colspan=3; style="text-align:center;" | [[../]]
+|}
+{| class="ws-noexport noprint ws-footer" width="100%" cellpadding="0" cellspacing="0" style="border:1px solid var(--border-color-content-added,#a3d3ff); background-color: var(--background-color-progressive-subtle,#eaf3ff); width:100%; margin-bottom:0px; text-align:center;"
+| width="20%" align="left" |　[[../卷0180|卷一百八十]]
+| <span style="color:#999"> ◄ </span>
+| width="50%" align="center" |[[#top|↑返回頂部]]
+| <span style="color:#999"> ► </span>
+| width="20%" align="right" |[[../卷0182|卷一百八十二]]
+|}
+<templatestyles src="Template:License/styles.css" /><div class="licenseContainer licenseBanner dynlayout-exempt " >
+<div><div><div><div>
+<span class="imageLeft">[[File:PD-icon.svg|x48px|alt=|link=]]</span>
+</div><div>
+<div>
+此唐朝作品在全世界都属于'''[[w:公有领域|公有领域]]'''，因为作者逝世已经超过100年，且作品于1931年1月1日之前出版。
+</div>
+</div><div>
+<span class="noimageRight></span>
+</div></div></div></div>
+<div class="licensetpl">
+<span class="licensetpl_short">Public domain</span><span class="licensetpl_long">Public domain</span><span class="licensetpl_link_req">false</span><span class="licensetpl_attr_req">false</span>
+</div>
+</div>[[分類:唐朝]]

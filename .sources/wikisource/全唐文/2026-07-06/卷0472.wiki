@@ -1,0 +1,9 @@
+{{Album header|type=|title=全唐文|section=|author=|previous=[[../卷0471|卷四百七十一]]|next=[[../卷0473|卷四百七十三]]|notes=}}__NOEDITSECTION__{{robot made}}
+==[[收河中後請罷兵狀]]==
+{{:收河中後請罷兵狀}}
+==[[請許台省長官舉薦屬吏狀]]==
+{{:請許台省長官舉薦屬吏狀}}{{footer
+|previous=[[../卷0471|卷四百七十一]]
+|next=[[../卷0473|卷四百七十三]]
+}}
+{{唐朝作品}}

@@ -1,0 +1,96 @@
+
+{|style="width:100%; margin-bottom:0px; border:1px solid #AADDAA; background-color: #E4F2E4; text-align:center;" class="ws-header"
+|-
+| class="noprint" style="width:25%; text-align:left; font-size:small;" |←[[../卷0313|卷三百十三]]
+|style="width:50%;" |'''全唐文'''
+| class="noprint" style="width:25%; text-align:right; font-size:small;" |[[../卷0315|卷三百十五]]→
+|}
+{|style="width:100%; background:#F2F9F2; font-size:small; border-bottom:1px solid #D5ECD5" class="ws-header"
+|- 
+|<div style="color:#464646"><ul id="plainSister" style="display:inline-block; font-size:93%; line-height:normal; list-style-type:none; list-style-image:none; list-style-position:outside; border:1px solid var(--border-color-base,#AAA); float:right; clear:right; margin:0.5ex 0.5ex 0.5ex 0.5ex; padding:0.0ex 0.0ex 0.0ex 0.0ex; background-color:var(--background-color-base,#FFFFFF);color: inherit;"><li class="noprint sisitem"><span class="sisicon" style="padding-right:1ex;">[[Image:Wikimedia-logo.svg|frameless|18px|link=Special:sitematrix|alt=姊妹计划]]</span>[[Special:sitematrix|姊妹计划]]: [[d:Q85522947|数据项]]</li></ul> </div>
+|}__NOEDITSECTION__[[category:Robot made]]
+{|style="width:100%; margin-bottom:1px; border:1px solid #D6C5C5; background:#FAF8F8;text-align:center" 
+|-
+| 这是一个自动生成的页面，需要人工复查。复查后，请移除此模板。
+|}
+=李華（一）=
+華字遐叔，趙州讚皇人。開元二十三年進士。天寶中累轉侍御史、禮、吏二部員外郎。祿山陷京師，偽署為鳳閣舍人。賊平，貶杭州司戶參軍。上元中以左補闕、司封員外郎召，不拜。李峴領選江南，表置幕府，擢檢校吏部員外郎。大曆初卒。
+==[[含元殿賦（有序）]]==
+宮殿之賦，論者以《靈光》為宗，然諸侯之遺事，蓋務恢張飛動而已。自茲已降，代有詞傑，播於聲頌，而<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>一作「則」。<span style="color:transparent;font-size:0px">〉</span></small>無聞焉。夫先王建都營室，必相地形，詢卜筮，考以農隙，工以子來，虞人獻山林之榦，太史貞<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>一作「占」。<span style="color:transparent;font-size:0px">〉</span></small>日月之吉。雖班、張、左思，角立於<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>一作「前」。<span style="color:transparent;font-size:0px">〉</span></small>代，未能備也。而曩之文士賦《長笛》、《洞簫》懷握之細，則廣言山川之阻、采伐之勤，至於都邑宮室、宏模廓度，則略而不云，其體病矣。至若隂陽慘舒之變，宜於壯麗；棟宇繩墨之間，鄰於政教。豈前脩不逮，將俟聖德而啓？臣心輙極思慮，作《含元殿賦》，陋百王之制度，出群子之胷臆。非敢厚自夸耀，以希名譽，欲使後之觀者，知聖代有頌德之臣焉。其辭曰：
+
+維皇高祖，<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>一作「宗」。<span style="color:transparent;font-size:0px">〉</span></small>穆端命於<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>一作「于」。<span style="color:transparent;font-size:0px">〉</span></small>玄穹；萬有千載，<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>一作「嵗」。<span style="color:transparent;font-size:0px">〉</span></small>鍾景祚於鴻<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>一作「于洪」。<span style="color:transparent;font-size:0px">〉</span></small>裔。逮北宮之尊嚴，上取法於天帝；乃圖正殿之逌居，規崇山而定制。信神明幽賛，而人謀襲契，不然，何前王曠此之雄麗也？先是大司空帥其屬，執度而相之曰：「羙哉川原！<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>一作「后」。<span style="color:transparent;font-size:0px">〉</span></small>騖乎其大。垣坤靈兮配乹剛，坤順乹而為龍；舒廣衍兮走群山，紛𨚫面而朝宗。陵正陽之奕奕，鬱佳氣之葱葱。蓋昊天之作，而皇祗授元聖獲以造新宮也。」乃審於<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>一作「于」。<span style="color:transparent;font-size:0px">〉</span></small>龜筮，龜筮叶從；太卜以告，神人咸同。皇曰：「欽哉！是將宜於<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>一作「為」。<span style="color:transparent;font-size:0px">〉</span></small>朕躬。」<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>一作「宮」。<span style="color:transparent;font-size:0px">〉</span></small>日<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>一作「日」。<span style="color:transparent;font-size:0px">〉</span></small>以鴻稱， 「含元」建名。《易‧乹坤》之說曰「含弘光大」，又曰「元亨利貞」；括萬象以為尊，特巍巍乎上京。則命徵盤石<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>一作「碩」。<span style="color:transparent;font-size:0px">〉</span></small>之匠，下荊揚之材。操斧執斤者萬人，涉磧礫而登崔嵬；擇一榦於千木，規大壯於喬枚。聲坎坎於青雲，若神踣而顛摧；勢動連崖，拉風碎<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>一作「埣」。<span style="color:transparent;font-size:0px">〉</span></small>雷；倒勁梢於窮谷，斬巨柢於昭回。時也山祗効靈，波神作氣；為桴為栰，羽疊鱗萃；朝沉江漢，夕出河渭；雲奔山橫，并構<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>二字一作「交積」。<span style="color:transparent;font-size:0px">〉</span></small>於作宮之地。於是農事既收，靈臺勿亟，子來而就役者，周邦畿而薄四海，咸忘勞而獻力。乃張為廣度，考正極星；邦伯是經，國工研精。剗盤岡以為址，太階積而三重；因慱厚而順高明，築陵天之四墉。四墉既列，太階如截，下上相嶔，愕視沉沉。其始也，星鎚電交於萬堵，霜鋸氷解於千尋；擁材為山，攢杵如林。乃占日月之吉，以成帝室。雄<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>一作「虹」。<span style="color:transparent;font-size:0px">〉</span></small>梁勁於中楹，<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>一作「極」。<span style="color:transparent;font-size:0px">〉</span></small>榱桷𧥄以礱密；析<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>一作「折」。<span style="color:transparent;font-size:0px">〉</span></small>姑繇以為楹，隳喬山以為礩。飛重檐以切霞，烱素壁以留日；神標峻樀，<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>一作「[木商]」，非。<span style="color:transparent;font-size:0px">〉</span></small>鬼疊曾<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>一作「層」。<span style="color:transparent;font-size:0px">〉</span></small>楣。高卑迭作，尋尺相持；木從繩而後正，棟操宇而不危。階瑩冰級，瓦敷鱗差；蕩晶景而升降，歘睒皆以交輝。聳大廈之奇傑，勢將頓而復飛。爰詔有司，練日推時；徵考室於《周詩》，<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>一作「頌」。<span style="color:transparent;font-size:0px">〉</span></small>會公卿以落<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>一作「發」。<span style="color:transparent;font-size:0px">〉</span></small>之。
+
+丕赫哉！如俯如跂，若會<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>一作「合」。<span style="color:transparent;font-size:0px">〉</span></small>若離；瘁<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>踈錦反。<span style="color:transparent;font-size:0px">〉</span></small>脩邃以窅徼，怳嶪騀<small style="color:var(--color-destructive--visited,#996666)"><span style="color:transparent;font-size:0px">〈</span>二字一作「岌嶪」。<span style="color:transparent;font-size:0px">〉</span></small>而巖巍。謂衝颷激海兮，漩淪以無底；奔雷觸山兮，掉巘而傾τ。石鮫拖首於堂廡，狀出雲而撐鬐。崇高之制，靈邱上盤；鄰鬥極之光耀，邇天漢之波瀾。察鑿枘之吞吐，吸山叢而水攢；建升龍之大旆，邈不至於階端。崢嶸孱顏，下視南山；照燭無間，七耀迥環。咸<dfn class="unicode-pua" style="border: 1px solid orange; background: yellow; font-style: normal; cursor: help;" title="此处原字符使用了Unicode私有区编码而无法识别，请协助查实修正。原字符为：，请注意在不同系统中的显示可能完全不同。"></dfn>[[Category:包含Unicode私有区字符的条目]]欱以突兀，攇閌宏以蕭摋；捧帝座於三辰，銜天街之九達。進而仰之，騫龍首而張鳳翼；退而瞻之，岌樹顛而崒雲末。嶷兮峨峨，巨鼇戴仙山而出滄波；劃兮煌煌，燭龍折穹穴而臨北方。排層城而廓帝居，豁閶闔而麵蒼蒼。左翔鸞而右棲鳳，翹兩闕而為翼；環阿閣以周墀，象龍行之曲直。夾雙壺之鴻洞，啟重閨之呀；趨堂塗而未半，望宸居而累息。惟上聖之欽明，爰聽政而布德；去雕幾與金玉，絀漢京之文飾。熾丹雘於崚嶒，抗重霄而競色。若乃紫微晨曀，彤墀夜明；雲薄萬栱，風交四榮。冬止其陽，則釋裘而燠；夏休其陰，則捐絺以清。旂獵風而振響，葉墜露而成聲。懸櫨駢湊，竦柱奔列；復檻罾綴，高窗景爇。黭日翳而罘連，霍天開而中絕；形持神而欲離，足僂步而將跌。貯昭訓之崇崇，粦光範之揭揭。其南則丹鳳啟塗，遐矚荊吳；十扇開閉，陰陽睢盱。容鼎九扃，方駕五車，示王者之無外，不樹屏於清都。望仙辟於巽維，建福敞於坤隅；偃朱旗而櫜元甲，屯仡仡之驍夫。其後則深闈秘殿，曼宇疏楹；瑞木交陰，元墀砥平；鮮風曆廡，淩霰飄英；蔭藹武，增華穆清。玉燭內融，則嘉盛豐備；太陽臨照，而天下文明。古有六寢，禦茲一人；今也三朝，繇古是因。布大命於宣政，澹元心於紫宸。羲和弭節於通乾，望舒停景於觀象。密勿旒扆，臣人是仰；左黃閣而右紫微，命伊皋以為長。其下則鶡冠魚服，良家茂族，厲禁非宜，金吾領之。其前則置兩石以恤刑，張三侯以興武。告善之旌，登聞之鼓；節晷漏於鍾律，架危樓之筍虡；以辨內外之差，以正東西之序。天光流於紫庭，倒景入於朱戶。騰祥雲之鬱靄，映旭日之蔥蘢。清渠導於元氣，玉樹生於景風；夷坦數里，徘徊無窮。羅千乘與萬騎，曾不得半乎其中。厥初經營，天下既乂，文物未周，孤其壯麗。蓋重於施勞，非不懷也。乃眷睿孫，睿孫開元；萬物晏清而太和，掩書契之所論。既克廣於崇構，聲明備而益尊；蓋聖皇之孝也，揮綽變化兮動搖乾坤。其東於是宏文教而開館，對日華之清閾；蓋左學之遺制，協前王之講德。其西於是延載筆之良史，俯月華之峻扉；集賢人於別殿，朝命婦於中闈。王風闡而成化，陰教備而不虧。加以詠周詩而展親，睦魯衛而敦敘；因合族之來宴，置更衣之豐宇。至於殿內諸曹，則在右有局，通軒並廡；物有恒司，供無廢舉。又有銀璫、珥貂，寺人、巷伯；奉宣出納之令，更踐宮中之役。熊羆之旅，董以龍武。矛戟森森，材官羽林；聲破邱山，氣讋飛沈。爪抉千鈞，跟騰百尋；克壯皇威，協比其心。其外則校人掌馬，天駟在閑；以備順遊，放牧其間；望我鑾和，陟彼高山。猶慮憲章或遺，國容未備。乃立掌匭之司，館通事之吏；職在達下情於上天，儆王言於有位。堧通大極，隥指龍池，重門內注，復道潛移；幽峻肅以相屬，光彤融以嬉嬉。元象著明，帝座維三；皇居設位，俯察仰參。翼室正中，遊宮次南；北起含元，其容眈眈。總而言之，如山之壽，則曰蓬萊；如日之昇，則曰大明。自茲而北，燕遊所經，達於苑囿，不可殫名。周廬更嗬，匝以環衛；南端百仞，上極霄際。卻視<甚<dfn class="unicode-pua" style="border: 1px solid orange; background: yellow; font-style: normal; cursor: help;" title="此处原字符使用了Unicode私有区编码而无法识别，请协助查实修正。原字符为：，请注意在不同系统中的显示可能完全不同。"></dfn>[[Category:包含Unicode私有区字符的条目]]>崟，經塗廣深；繚以層城， 黕為重陰。至若時雨膏田，九農恞暢；雲歸山穴，儵以昭曠；白日麗於宮隅，混晶光而益壯。於是風師斂威，纖蓋不升；穎絕搖芒，葉無翻棱。自中徂外，鏡洗川澄；弦直閭閻，井畫溝塍。靡迤秦山，陂陀漢陵；知稼穡之艱難，見皇王之廢興。及乎元冥戒寒，海神飛雪；瑤城粉野，琪樹森列。玉宇璿階，雲門露闕；天華爽霽，朗日朝徹。赤旗隆庭，朱柱豔月；仰白帝而金精開，據河宮而銀燭發。其或蠻夷不至，帝用興戎；降元帥於天上，發神謀於禁中。皇靈震燿，殄厥渠凶；矯矯武臣，此焉獻功；操俘虜而陳器械，恢莫大之威容。爾乃時殷仲冬，日正南至；上公奉斝，群後在位。一人壽昌，萬國承賜；式燕以樂，欣欣且醉；乃撞宮懸，冰碣天地。及乎獻歲元辰，東風發春；懇法象魏，與人惟新；儼文物於王庭，兼九伐而宿陳。威儀之嚴，嶽嶽振振，若太一披絪縕而俯百神。既而咸造勿褻，會朝清明；璿柄指寅，寢闈發扃。皇帝御袞龍之法服，佩蒼璧之純精；執鎮圭，導朱紘；降輦登階，微聞玉聲。於是典禮之官，讚王就位，南面穆然。至若甸侯采衛，要荒閩貊；輸其方贐，罔不來格。統以千官，六卿二伯；司儀敘進，象胥重譯；肅肅委皮，乾乾奠璧。設以庭燎，天烘地赫；雷鼓殷殷，朱幹玉戚。神虡如生，熊羆咢敵；危昂歇向，爛歕射。金根玉輅，太常少伯；火列門旂，霜交陸戟。乃進元元以觀禮，從億兆之增增。金吾南首，麾之以肱；遞攀援而聳仰，齊屨企而冠騰。太史來告，卿雲勃興，灑豐澤於生人，答上元之休徵。申命司寇緩刑，塚卿降德；秩山川而問耆老，周雨露而均邦國。華戎竭歡，喜氣闐塞；揭金雞於太清，炫晨光於正色。慶忭之聲，不逾辰而雷四域。當斯時也，驅周驟漢，於廓煥爛。王臨於朝，天地貞觀；靈宮岩岩，上下交讚。蓋所以法乾道而遵帝度，豈惟安體而明威者哉？夫瑤台之美，不可以刑萬國；土階之陋，不可以儀天下。奢不遜而儉固，允執中於大位。《洪範》曰「皇建其有極」，富哉上聖之宏議也。《詩》歌楚室，《頌》美泮宮，諸侯之事也；雲夢《甘泉》，宴恢《景福》，僻王之志也。論諸侯，曷若戴天子？嘉僻王，曷若尊聖人？烈烈盛唐，祖武宗文；五帝赧德，六王慚勳。而政本乎慈，用過乎儉。夫蒼生所奉者惟君，所愛者惟親；寧有君親宅體於卑室，而臣子得安其身乎？故有熊明庭，帝姚總期，從人欲也；天垂定星，易有大壯，君人法焉。聖朝猶斥其華而憑其質，今是殿也者，惟鐵石丹素，無加飾焉。身居元眇，心與萬姓同畎畝之勞。以是臨眾，何眾不賓？以是享神，何神不若？其天德歟！雖欲宮昆侖而館不周，城八極而隍四海，猶未足儲鴻醇而俯丕耀，豈咸鎬一京之所在、崇四瀆之前式？敕懷鉛之小臣，俾讎書於禁中，正百代之遺文。由是循環天造，耳目日新。敢頌成功，告於神宗；無鬼斯幹之什，式昭聖德之容。頌曰：「帝作含元，含元言言；崒若日觀，呀為天門。太階三層，遠法昆侖；鎮茲秦野，揭以周原。烈文祖宗，永錫孝孫；孝孫有慶，於以施令。奄甸萬姓，受天休命。歌之頌之，管磬宜之；穆穆皇君，壽考無期。」既成斯文，客有勸之上者。對曰：「前王之尤祥絕瑞，乃聖朝之細事。今休徵已厭於聰明，頌聲亦飫於天意，私歌竊抃，乃臣子之常誌，又焉足以薦聞哉？」客曰：「不然。今至尊明發不寐，有懷先皇，周文之孝也；允恭克讓，光溢海外，堯帝之謙也。自即位已來，上下之休嘉，臣人之詠歌；歌於睿躬則固辭，頌於宗廟則無斁。今吾子之文明，昭乎累聖之耿光，美於大君之孝德。可進而退，宜言而默，使《雅》、《頌》之音，卷而不舒，猶坦蕩其胸臆，無乃過歟？為人之下者，有可達乎君親，雖濱於死，亦冒行之，況宗廟啟其心哉！」臣華嘗聞遷善之規，願附升歌之末。
+==[[哀節婦賦（有序）]]==
+武康尉薄自牧嘗謂余曰：僕有賢女，適江陰尉鄒待徵。徵亦良士，僕志之矣。鄒子孤立，時無古人，誰復知之？余常記其言。及江左之亂，待徵解印竄匿。其妻為盜所驅，將辱之。妻密以待徵官告託付村媼，尋待徵付焉，而后就死。嗚呼！自喪亂以來，士女以貞烈殆斃者眾，余不盡知之。若薄氏者，與其父遊，聞其聲義動於江南，又焉得不賦之？命曰《哀節婦賦》云爾。
+
+昔歲群盜並起，橫行海浙。江陰萬戶，化為凝血。無蘭不焚，無玉不折。峩峩薄媛，淵然明節。自牧之子，待徵之妻；玉德蘭姿，女之英兮。鄒也避禍，伏於榛莽；婉如之嬪，執為囚虜。匍匐泥沙，極望無覩；出授官之告，託垂白之姥。姥感夫人，爰達鄒君；兵解求屍，宛在江濆。哀風起為連波，病氣結為孤雲。鳧鴈為之哀鳴，日月為之蒙昏。端表移景而恒直，勁芳貫霜而獨存。知子莫若父，誠哉長者言。
+==[[望瀑泉賦]]==
+曙無雲兮川無波，泛余舟于空碧。彼廬山浮重湖之上兮，峩極天之峻壁。凝黛色之深明，噫林嶺之岑寂；何神造之杳冥，躍騰泉於山脊？孤流皎皎于蒼梁，翠淙千仞兮懸帛；玉繩縋於寥天，銀河垂於廣澤。春風雷兮𥱰霜雪，穿重雲而下射；白龍倒飲於平湖，若天地之初闢。委滔滔兮東迤，詎知夫維今之在昔？何倚高帆而一望，豁余心兮灑滌。近古有鴈門上德兮昭洗塵昏，柴桑開士兮捨印推尊。靈境殊象，詮微究原。人已古兮山在，泉無心兮道存；將默貫于精極，欲置之而不言。
+==[[木蘭賦 (李華)|木蘭賦]]==
+華容石門山有木蘭樹，鄉人不識，伐以為薪，餘一本，方操柯未下，縣令李韶行春見之，息馬其陰，喟然嘆曰，功列桐君之書，名載騷人之詞，生於遐深，委於薪燎，天地之產珍物，將焉用之，爰戒虞衡，禁其翦伐，按本草，木蘭似桂而香，去風熱，明耳目，在木部上篇，乃採斫而歸，理疾多驗，由是遠近從而採之，榦剖枝分，殆枯槁矣，士之生世，出處語默難乎哉，韶余從子也，嘗為余言，感而為賦-{云}-：
+ 
+沂長江以遐覽，愛楚山之寂寥，山有嘉樹兮名木蘭，鬰森森以苕苕，當聖政之文明，降元和於九霄，祛祲沴之為虐，貫冬夏而不凋，白波潤其根柢，玄雪暢其枝條，沐春雨之濯濯，鳴秋風以蕭蕭，素膚紫肌，綠葉緗蔕，疎密聳附，高卑陰蔽，華如霜雪，實若星麗，節勁松竹，香濃蘭桂，宜不植於人間，聊獨立於天際，徒翳薈兮為隣，挺堅芳兮此身，嘉名列於道書，墜露飲乎騷人，至若靈山霧歇，藹藹林樾，當楚澤之晨霞，耿洞庭之夜月，發清明於視聽，洗煩燭於心骨，韻眾壑之空峒，潛微雲之滅沒，露草白兮山淒淒，鶴既唳兮猿復啼，窅深林以㝠㝠，覆百仞之玄谿，彼逸人兮有所思，戀芳陰兮步遲遲，悵幽獨兮人莫知，懷馨香兮將為誰，惋樵夫之無惠，混眾木而皆盡，指畫類而揮斤，遇仁人之不忍，方甘心而勦絶，俄固抵於傾殞，憐春華而搴芳，顧落日而𢌞軫，達者有言，巧勞智憂，養命蠲疾，人胡不求，枝殘體剝，澤盡枯留，顦顇空山，離披素秋，鳥避弋而高翔，魚畏網而深游，不材則終其天年，能鳴則免於俎羞，奚此木之不終，獨隱見而離憂，自昔淪芳於朝市，墜實於林丘，徒鬰咽而無聲，可勝言而計籌者哉，吾聞曰，人助者信，神聽者直，則臧倉譛言，宣尼失職，出處語默，與時消息，則子雲投閣，方回受殛，故知天地無心，死生同域，紜紜品物，物有其極，至人者委性循於自然，不任夫智之與力也，雖賢愚各全其好，草木不夭其生植，已而已而，繄不可得。
+==[[無疆頌八首（並序）]]==
+臣華言：伏以漢明帝時，徼外蠻夷槃木、白狼，獻詩歌德，屬事史官。況臣自會祖至臣，備國家職員，臣又逮事元宗、肅宗，今以餘年，獲事陛下，官曆禦史、補闕、尚書郎。命薄多病，不獲奔赴闕庭，恐先朝露，同於泥塵，若無歌詩頌德，曾蠻夷不若也。敢述列聖為《無疆頌》，式昭皇家大慶無窮。謹昧死稽首以聞。
+
+△高祖元頌一
+
+昊昊旻天，監於下甸，興有德行。維隋之杪，時黷陰凝，陽潛未登，人思炤矣。雷行龍興，蕩濯霧慝，文明乎萬國，垂仁烝人。載親天監，保我子孫，巍巍皇皇，後之皇丕承之。
+
+△太宗烈頌二
+
+高祖受天命誕興，太宗承天之命。帝煬昏逾，黎人毒痛，甚爇於爐，甚溺於塗，以號以呼，呼天無辜。高祖謂太宗，爾必有天下，爾其訏謨，太宗稽首，恭受天命。臣請滌除，張我師撫征四國；翦群慝，鼓一方三方振驚。默炤其靈，隨顧而平。我負我乳，我安我成；以奉君父，以臨天下。任忠孝文武，建禮章樂舞。我雖明德，諫則納汝，時維帝降祐之。自古明後，莫如我德我勳，唐無疆天子之無疆，本太宗成命。
+
+△高宗康頌三
+
+肇為阯為堂，實勤實勩，付俾厥裔，丕承後帝。帝思不忘，神棐靜康，不曜而光，不求而昌。自中方外，達於夷羌，瞻我大邦，助祭於廟，執貢朝於王。油油時雲，雨厥百穀；漻漻景風，扇彼嘉穀。飴口飽腹，以厭以足，俾壽而福，都阜成天人。
+
+△中宗興頌四
+
+屏蠆之毒，釁而為蝮，謀虐天之族。天祐聖祚，八柱將覆，帝告五臣，保翼朕躬。赫赫彤彤，日昇雲中；五臣受命，鉞爾頑凶。故曰再造我天下，生人鼓舞，既成矣，又奉父母。
+
+△睿宗德頌五
+
+後戚之禍再興，有危競競。廟祧震怒，陰命聖子，翼登聖父。奮其神旅，宵仗金斧，金斧一斷，殄殲逆亂。大聖照臨，元元宅心，歸祚於有功有德，於戲盛德！
+
+△元宗文頌六
+
+丕鑠元宗之明，克孝克仁，允武允文，宣祖宗之光，垂於子孫。盛禮畢舉，大樂畢陳，百蠻來賓，元元阜殷。戎或不賓，遣師徂征，罔不頓顙，踣於雷霆。在漢方昌，用刑慘酷，中都係考，六萬餘人，使者按錄，誅千萬人，然後興王。光武赫赫，誅沛賓客，以千以百，孝明稱賢。楚獄連年，坐死逮捕，以萬以千，猶曰漢祚宜長。越我宗祖，不忍用刑。至於元宗，哀彼鈇锧，降為鞭抶。誕告郡國，大為屋室，醫彼百疾。追懷登遐，止害禽畜；旁為陂池，養鱗介族；既濡既渥，昆蟲草木。享國五十年，<dfn class="unicode-pua" style="border: 1px solid orange; background: yellow; font-style: normal; cursor: help;" title="此处原字符使用了Unicode私有区编码而无法识别，请协助查实修正。原字符为：，请注意在不同系统中的显示可能完全不同。"></dfn>[[Category:包含Unicode私有区字符的条目]]縣晏然。逆臣犯天，天念蒸人，若曰寧我負恥，不忍人戰死。乃告元子，理兵朔鄙，西幸蜀都，命元子受圖。天下既定，父堯子舜，歸於國都，無不忻愉，無不涕濡，傳聖自頤，升靈太微。嗚呼！上聖之道之純，不可度思。
+
+△肅宗孝頌七
+
+穆穆孝慈，有如肅宗之誠，達於神祗。爰訓六師，震發北陲，陵陵雷馳。西戎、南蠻，北狄、東夷，鹹舉其旂，佐皇之威。帝心天和，無筮無卜，疈然邱嶽，破裂冰穀，逆隸傾覆，朝社大複。屆於海之外服，以盥以濯，以舞以躍。帝在東宮，孝如文王，蒸蒸其心，天地知其孝。既收鎬洛，祀於陵廟，奉迎上聖，天日普照。有凶有孽，將噬將齧，我旂方設，則已顛蹶。如燂於雪，尊嚴而仁，仁覆而嚴。大臣小臣，莫不潔廉，躬勤百度，百度如其素。
+
+△今上昭頌八
+
+大邦之興，維天相之。曷興曷相？則有德繼王。昔殷王盤庚、武丁，紹登殷明。矧我帝唐，丕承天命，疊引其慶，生我皇聖。幼衝聖敬，實左右肅宗，開國禦戎，群帥稟教，舉則成功。自西自東，如霆如風，蕩滌頑凶，罔不率從。既登天位，於變時邕，人鹹曰上如太宗，處億兆斯年！延億兆斯年！天博地崇，罔不爾容。元宗元孫，象元宗列文；肅宗元子，承肅宗孝理。
+==[[平原公遺德頌（並序）]]==
+維上帝降靈為賢，弼我大邦。鈞明說望，協斯陳謨，仗鉞出師，丕赫厥勳。大君以距嶺緣湖八州之域，天下震擾，此邦全寧，內輔宗師，外飫軍旅，咽頤荊越，鍾以眷右，乃命平原賓護東宮而尊大之。師長邦憲，肅清華夷，朱旂暢轂，平原戾止。秋霜伊何？視我直方。春雨伊何？宏我愷悌。公張氏諱鎬，字從周，河內儒家。時賢薦讓，詔書徵起，三年之間，位登將相。吉甫、方叔，平原兼之。間歲臨海狂頑覆浙左，陷上饒，灊皖寇徒，殘害長吏，潛逼鍾陵、宜春，盜帥家兵遍山。吏不敢問，人愁苦之。公默麾偏師，勿駭吾人，無聲無色，群凶梟夷。下遂其順，上遂其仁，鹹曰不有平原，遑恤吾身。平原之政，以類而舉。是邦胡冤？公薨於鎮。八州文武，吏人老幼，途哭家祭，不能舉首。夫山傾川竭，未為成災，大臣盛德舍榮，即哀災之大者。刻頌之義，發乎心，播乎聲，施事為教，感哀為德。公故吏侍御史博陵崔賁文明、殿中侍御史昌黎韓洄幼深、監察御史趙郡李惟嶽謨道、大理寺丞王士華子秀、尚書刑部員外郎前袁州刺史張澹惟清、袁州別駕吳郡陸調牧臣，及耆壽袁維清、彭正運、施希廷、李開雲、百姓彭伋、潘玉等一十二人，谘餘為頌。撫石而泣，故其詞也哀：皇矣明王，求公於野。官在諫省，將鋤悖凶。謂公有勳庸，授公肅宗。納為輔翼，專征獯戎。或蹇或通，易簡昭融。帝命平原，八州隄封。深湖大江，宣布睿德。淳此下國，蕩除妖賊。安其父子，爰及家室。時萬時億，山川出雲。生此元臣，獻歲發春。三靈化醇，今則逝矣！南方愁辛，嗚呼平原！如其仁，如其仁！
+==[[潤州丹陽縣復練塘頌（並序）]]==
+大蠟之祭辭曰：「土反其宅，水歸其壑。」先王因流下而導之，故曰九川滌源；因迤彙而瀦之，故曰九澤既陂，以疏天地之氣，以利元元之用。崇伯汨五行而殛羽山，台駘障大澤而封汾川，《洪範》首之，《春秋》載之。地有廣狹，事無今古。大江具區惟潤州，其藪曰練湖。幅員四十裏，菰蒲菱芡之多，龜魚鱉蜃之生，厭飫江淮，膏潤數州。其傍大族強家，泄流為田，專利上腴，畝收倍鍾，富劇淫衍。自丹陽、延陵、金壇環地三百裏，數合五萬室，旱則懸耜，水則具舟，人罹其害九十餘祀，凡經上司紛紛與奪八十一斷。嗚呼！曲能掩直，強者以得之，老幼怨痛，沈聲無告。
+
+永泰元年，王師大翦西戎。西戎既駾矣，生人舒息，詔公卿選賢良，先除二千石，以江南經用所資，首任能者。是歲十一月二十三日，拜常州刺史京兆韋公損為潤州。聲如飆馳，先詔而至，吏人畏伏，男女相賀，即日上無貪刻，下無冤憤。公素知截湖開壤，災甚螟蝥，臨事風生，指斯以複。群謗雷動，山鎮恬然，中明獨裁，文之以禮。乃白本道觀察使兼禦史中丞韋公元甫，中丞撫手愜心，如公之謀，且曰：「興利除害，得其人而後行。非常之政，敢歸叔父。」公乃申戒縣吏卒徒辟之。人不俟召，呼抃從役，畚鍤蓋野，浚阜成溪。增理故塘，繚而合之，廣湖為八十裏，象月之規，儔金之固。水複其所，如鯨噀射，洶洶隱地，雷聞泉中。先程三日，若海之彌望，灝灝如吞吐日月，沈沈如韞蓄風雨。所潤者遠，原隰皆春，耕者飽，憂者泰，於是疏為鬥門。既殺其溢，又支其澤，沃塉均品，河渠通流。商悅奠價，人勇輸賦，遐邇受利，豈惟此州！每歲萌，陰乘陽，二氣相薄，大雨時行，群潦奔流，水得所入，盈而無傷，龍見方雩，稼蒙其渥。時前相國彭城公劉尚書晏統東方諸侯，平其貢稅，聞而悅之，白三事以聞，詔書裦異焉。彭城公宣命至江南，捧詔授公。公率元僚、掾吏、令丞以下，至於耆艾，西向拜手，忻戴皇明。人心上感，天降嘉澤，如有神祗，昭協厥誌。公正直而和，專靜而斷，嫉惡宥過，惠人察奸。純鈞精堅，百煉不耗，伐冰之貴，降從士禮。《詩》云：「靖恭爾位，好是正直。」宜其享多福也。吏人入賀，公拱而謝之曰：「尚書劉公、觀察韋公，奉行王澤也，鄙何力之有焉？」丹陽令杜孟寅秉公之清白，延陵令李令從如公之愛人，金壇令胡玘稟公之成規，及丹陽耆壽周孝瑰、百姓湯源等，拜手而請曰：「兌為澤，兌悅也。水歸於澤，而澤悅於人。百年侵塞，而公啟之。臣哉鄰哉！克諧帝休，永代是式，三縣無災。若不碣而刻之，則命不揚於厥後，後之人無以倚負也。」華嚐學古，見訪為頌。曰：
+
+望沄沄兮視冥冥，鳥閑魚樂葭生。膏腴利倍起訟爭，斯人怨抑痛無聲。韋公正直動神靈，百年淤演為漻清。饑者飫兮病者寧，詔書光寵恩濡榮。劃然毛瞢複皎明，追琢刻頌颺芳馨。
+{| class="ws-noexport noprint ws-footer" width="100%" cellpadding="0" cellspacing="0" style="border:1px solid var(--border-color-content-added,#a3d3ff); background-color: var(--background-color-progressive-subtle,#eaf3ff); width:100%; margin-bottom:0px; text-align:center;"
+| width="20%" align="left" |　[[../卷0313|卷三百十三]]
+| <span style="color:#999"> ◄ </span>
+| width="50%" align="center" |[[#top|↑返回頂部]]
+| <span style="color:#999"> ► </span>
+| width="20%" align="right" |[[../卷0315|卷三百十五]]
+|}
+<templatestyles src="Template:License/styles.css" /><div class="licenseContainer licenseBanner dynlayout-exempt " >
+<div><div><div><div>
+<span class="imageLeft">[[File:PD-icon.svg|x48px|alt=|link=]]</span>
+</div><div>
+<div>
+此唐朝作品在全世界都属于'''[[w:公有领域|公有领域]]'''，因为作者逝世已经超过100年，且作品于1931年1月1日之前出版。
+</div>
+</div><div>
+<span class="noimageRight></span>
+</div></div></div></div>
+<div class="licensetpl">
+<span class="licensetpl_short">Public domain</span><span class="licensetpl_long">Public domain</span><span class="licensetpl_link_req">false</span><span class="licensetpl_attr_req">false</span>
+</div>
+</div>[[分類:唐朝]]
