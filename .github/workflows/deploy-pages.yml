@@ -1,0 +1,70 @@
+# Custom GitHub Pages deployment, replacing the default
+# pages-build-deployment workflow.
+# To enable: repo Settings → Pages → Build and deployment → Source =
+# "GitHub Actions". The default workflow stops running once switched.
+#
+# Difference from the default flow: only content allowlisted in the
+# root-level .pages-manifest is published; everything else at the top
+# level (.sources etc.) is excluded from the site.
+
+name: Deploy GitHub Pages
+
+# Manual trigger only (Actions → Deploy GitHub Pages → Run workflow).
+# Pushes do not auto-deploy; run this workflow to update the site.
+# The branch selected in the "Run workflow" dropdown is what gets
+# deployed (normally data).
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one deployment at a time; newer runs cancel in-progress ones
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout the dispatched branch (shallow clone to save disk)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Trim content to the .pages-manifest allowlist
+        run: |
+          # Site content is ~4.9GB and runner disk is limited: delete
+          # non-allowlisted entries in place instead of copying to a
+          # staging directory. .git (~2GB even shallow) is not in the
+          # manifest and gets removed too, freeing disk for packaging.
+          manifest=.pages-manifest
+          [ -f "$manifest" ] || { echo "Missing $manifest"; exit 1; }
+          keep=$(mktemp)
+          sed 's/#.*//; s/^[[:space:]]*//; s/[[:space:]]*$//' "$manifest" | grep -v '^$' > "$keep"
+          while IFS= read -r entry; do
+            [ -e "$entry" ] || { echo "Manifest entry \"$entry\" does not exist in the repo"; exit 1; }
+          done < "$keep"
+          shopt -s dotglob
+          for entry in *; do
+            [ "$entry" = "$manifest" ] && continue
+            grep -qxF "$entry" "$keep" || rm -rf -- "$entry"
+          done
+          rm -f "$manifest"
+          find . -name '.DS_Store' -delete
+          echo "Publishing:"; ls -A
+
+      - name: Package site artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Deploy to Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
