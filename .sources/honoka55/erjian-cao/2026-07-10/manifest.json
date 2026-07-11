@@ -1,0 +1,24 @@
+{
+  "source": "焰华Honoka55 个人网站电子化版（Hugo 生成页面）",
+  "work": "第二次汉字简化方案（草案）",
+  "fetched_at": "2026-07-10T17:00:00-07:00",
+  "files": [
+    {
+      "file": "index.html",
+      "url": "https://honoka55.github.io/p/erjian-cao/",
+      "raw_url": "https://raw.githubusercontent.com/Honoka55/honoka55.github.io/master/p/erjian-cao/index.html",
+      "versioned_raw_url": "https://raw.githubusercontent.com/Honoka55/honoka55.github.io/3d46fb7587796b8f38e60213ea419a8a10ba63b3/p/erjian-cao/index.html",
+      "upstream_commit": "3d46fb7587796b8f38e60213ea419a8a10ba63b3",
+      "upstream_commit_date": "2026-01-30T16:44:56Z"
+    },
+    {
+      "file": "erjian.ttf",
+      "comment": "电子化版专用字体：将 Unicode 未收录的二简字形映射到其借用的标准码位（113 个 BMP 码位为变形字形，另含扩展区二简字标准字形）。生僻字图即由此字体渲染。",
+      "url": "https://cdn.jsdelivr.net/gh/Honoka55/honoka55.github.io/fonts/erjian.ttf",
+      "versioned_raw_url": "https://raw.githubusercontent.com/Honoka55/honoka55.github.io/978b61bf9ad1f0f63b1917107de2e2dbf048bd89/fonts/erjian.ttf",
+      "upstream_commit": "978b61bf9ad1f0f63b1917107de2e2dbf048bd89",
+      "upstream_commit_date": "2023-09-15T02:06:34Z"
+    }
+  ],
+  "notes": "原文件为 1977 年 5 月中国文字改革委员会《第二次汉字简化方案（草案）》。字形甄别：erjian.ttf cmap 中 118 个 BMP 码位里，一（U+4E00）、桜（U+685C）、浂（U+6D42）、肊（U+808A）、氽（U+6C3D）5 字与标准字形一致（对照 Jigmo 字形逐一目检），其余 113 字为二简变形字形，转换时以 rare-char 字形图呈现。"
+}
