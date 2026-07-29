@@ -1,0 +1,78 @@
+
+{| style="width:100%; margin-bottom:0px; border:1px solid var(--border-color-content-added,#a3d3ff); background-color: var(--background-color-progressive-subtle,#eaf3ff); color:inherit; text-align:center;" class="ws-header"
+|-
+| style="width:15%; text-align:left; font-size:small;" | [[../|目錄]]
+| style="width:70%; text-align:center"| '''姑妄言'''
+| style="width:15%; text-align:right; font-size:small;"| 
+|-
+| style="width:15%; text-align:left; font-size:small;" | 全書始
+| style="width:70%; text-align:center"| 卷首　秦淮舊跡瞽女遺踪
+| style="width:15%; text-align:right; font-size:small;"| [[../卷00|下一卷▶]]
+|}
+{| style="width:100%; border-bottom:1px solid var(--border-color-content-added,#a3d3ff); background-color: var(--background-color-neutral-subtle,#f8f9fa); font-size:small;" class="ws-header"
+|- 
+|  
+|}
+
+==自序==
+
+夫余之此書，不名曰「真」而名曰「妄」者，何哉？以余視之，今之衣冠中人妄，富貴中人妄，勢利中人妄，豪華中人妄，雖一舉一動之間而未嘗不妄，何也？以余之醒視彼之昏故耳。至於他人，聞余一言曰妄，見余一事曰妄；余飲酒而人曰妄，余讀書而人亦曰妄，何也？以彼之富視余之貧故耳。我既以人為妄，而人又以我為妄。蓋宇宙之內，彼此無不可以為妄。嗚呼！況余之是書，孰不以為妄耶？故不得不名之妄言也。然妄乎不妄乎，知心者鑒之耳。
+
+::時[[:Category:1730年 (提及)|<span title="1730年">雍正庚戌</span>]][[Category:1730年 (提及)]]中元之次日 三韓[[Author:曹去晶|曹去晶]] 編於獨醒園
+
+==自評==
+
+余著是書，豈敢有意罵人？無非一片菩提心，勸人向善耳。內中善惡貞淫，各有報應。句雖鄙俚，然隱微曲折，其細如髮，始終照應，絲毫不爽。明眼諸公見之，一目自能了然，不可負余一片苦心。其次者，但觀其皮毛，若曰不過是一篇大勸世文耳，此猶可言也。倘遇略識數字，以看鼓詞之才學眼力看之，但曰好村好村，此乃諸公為腹所負自村耳，非關余書之村也。求其不看為幸。何故？諸公自恐其汙目，余更恐其汙書。
+
+::書於獨醒園
+
+==林鈍翁總評==
+<span style="font-size: 95%;color:#A22F01">林鈍翁總評：</span>
+
+<span style="font-size: 95%;color:#A22F01">予與曹子去晶，雖曰異姓，實同一體。自繈褓至壯迄老，如影之隨形，無呼吸之間相離。生則同生，死則同死之友也。曹子偶以所著之《姑妄言》示予，予初閱之，見其中多雜以淫穢之事，不勝駭異。曰：曹子生平性與予同，愚而且鹵，直而且方，不合時宜之蠢物也。何得作此不經之語，深疑之必有所謂。復細閱之，乃悟其以淫為報應，具一片婆心，借種種諸事以說法耳。</span>
+
+<span style="font-size: 95%;color:#A22F01">何以見之？黃金色以蠢然之富翁，好色輕生，而再世得為才貌雙全之鍾情，復獲高第，而更得美麗之錢貴為妻者，何故？以其自供生平一惡並無，諸善皆積，而神判中亦云心實善良，以其一善能解百惡之所致耳。後又因其為多情種子，見色不迷，度量寬宏，謙謙自下。</span>
+
+<span style="font-size: 95%;color:#A22F01">神復庇其發甲為官，及其居官清正，為國愛民，歸時兩袖清風，而宦實以報德之故，酬以萬金之產。焉知非冥冥之中陰注陽受者乎？此豈非警人當富而好善之婆心耶？白氏以銀鐵擇婿，幾墮畜道。</span>
+
+<span style="font-size: 95%;color:#A22F01">因其有感情報德之微，初罰之為瞽為娼，後方得為良婦，其旨深矣。再世為瞽目之錢貴，一遇鍾情，即失貞不二嫁，後即置為小星，後得雙目重明，受封生子。此豈非警人擇婿不當以財，而持身無淫妒之婆心耶？</span>
+
+<span style="font-size: 95%;color:#A22F01">後三生者因系讀書之人，亦好色輕生，故罪黃金色一等，再生為宦賈童，愚醜癡頑以報之。念其苦學之勤，使皆生於豪富，神思厚矣。孰不知彼等無惡不作，侍富橫行，猶寬之，來罹惡報。但使之受其淫毒妻子之淩虐而已。</span>
+
+<span style="font-size: 95%;color:#A22F01">若以宦望之惡，賈文物之假，童自大之臭，尚不使其妻子淫于人者，因宦等賈童未曾淫人之妻女，故此妻不淫人。只不過癡頑凶暴，尚猶可恕，特存一點測隱之心，留一自新之路與彼等耳。後能幡然自改，皆力行善事。宦萼見色，能忍人所不能忍；賈童能輕財，舍人之所不能，更得神佑，不但保守家業善終，而且多福多壽多男子。</span>
+
+<span style="font-size: 95%;color:#A22F01">仍暗化厥妻凶淫妒悍之心，使得同偕到老，豈非警人改故遷善，得獲良報之婆心耶？宦實為朝廷大臣，而依附逆為之假子。賈明以清高之翰苑，而有萬餘之產，焉知非主考時私弊之得？童山能以刻薄而致富，宜乎生於若是，幾墜家聲。後幸得而守其家業者，雖三子能改過自新所致，或此三老又有隱微之善行，得挽回耳。此豈非警人貴者當盡忠于國，富者匆刻薄於人之婆心耶？</span>
+
+<span style="font-size: 95%;color:#A22F01">侯富鐵三氏，前生告為男子，因罪孽深重，致墮畜道，罪限受滿，始得為奇醜淫惡之婦人。此豈非警人勿造罪墮落之婆心耶？但此三氏之父，何不幸而生此三女，得無亦有失德耶？</span>
+
+<span style="font-size: 95%;color:#A22F01">然其女尚無淫人之醜行，只其形狀醜惡，生性淫爐，乃厥夭刑於之化所致，況後盡化為賢婦，不足為父母累也。贏陽以一梨園，仗妻子淫人而得千金之產，便妄自尊大，且誘人賭博內中，坑陷人家子弟不少。而使其愛女受報若此，此豈非警人忽恃財自妄，誘人局賭之婆心耶？了緣盜而獲命，幸矣。而又加之以淫毒，獄卒已屬凶徒，而又淫騙犯婦。龍楊建人之女，又負情以揚其醜聲，故皆不得其死。此豈非警人兇險好淫之婆心耶？鍾趨擁婦棄侄，嫌貧棄婿，自後家產即為不肖之子傾蕩。且隕命絕嗣。此豈非警人勿疏棄貧窮骨肉之婆心耶？</span>
+
+<span style="font-size: 95%;color:#A22F01">鍾悛志親棄弟，吞產離鄉，只落得骨殖棄于中流，妻嫁子奴，若非賢弟，幾斬其犯。此豈非警人勿薄棄手足之婆心耶？</span>
+
+<span style="font-size: 95%;color:#A22F01">戴遷以好賭之故，傾家蕩產，至棄女為人之婢。此豈非警人勿貪賭之婆心耶？鐵化好賭貪嫖，日夜飄蕩，致使妻子與狗為伍，而後有外遇，竟非人類。此豈非警人勿晝夜貪於嫖賭之婆心耶？</span>
+
+<span style="font-size: 95%;color:#A22F01">鄔合雖是陷協小人，而不助人為虐，後亦得重酬，使其贏氏有此一番淫行者，因其已是廢人而誤少年女子，隱寓老翁蓄少婦之輩，豈非警人當自量，不可誤少艾婦女之婆心耶？</span>
+
+<span style="font-size: 95%;color:#A22F01">莫氏覓媳而誤于媒，鄰舍娶妻而誤于媒，鐵氏賣婢幾坑於媒，此豈非警人勿為狡媒所誤之婆心鄧？梅生能親厚貧窮之友，初獲豔妻，後得千金之報。鮑信之只以本分和氣四字獲利，而後得功名。含香以多情之故，而得良善之夫。贏氏初雖淫蕩，而後能改過，覺得夫婦偕老而有子。豈非警人當做好人行好事之婆心耶？</span>
+
+<span style="font-size: 95%;color:#A22F01">竹思寬幼而不孝，己身已好賭，而反誘人以賭，既誘人以嫖，而又私人之妻，娶老鴇為之婦，買龍陽為之子，納妓婢為之媳，已純乎其龜矣。此等一分人家，尚可言哉！誠所謂之忘八，卑卑不足數者矣。此非警人當上進，忽蹈下流之婆心耶？</span>
+
+<span style="font-size: 95%;color:#A22F01">鍾悛因一文之故，破產而喪命，此豈非警人生意中勿見小苛刻之婆心耶？</span>
+
+<span style="font-size: 95%;color:#A22F01">以上諸人，是書中要緊節目，故為提出，如馬士英阮大鋮好貪誤國，牛質、易於仁好色貪淫，遊混、公卜、卜通誤人子弟，屠四、人屠戶局賭坑人，皆有惡報。其他種種，不可枚舉，明眼人一見而即知之，何必予之多瞬？倘有一竅不通，有眼如盲之幸見之，強做解事語口：此書一村淫之小說也，不但站汙此書，豈不負曹子此一片婆心耶。予故不憚煩瑣，表而出之。有見之者，須細。動思其報應處，學其改過處，勿但注目現其淫豔處也，故為之評。</span>
+
+::<span style="font-size: 95%;color:#A22F01">庚戌中元後一日 古營州 鈍翁 書</span>
+
+<div align="right" class="noprint">[[#top|<small>返回頁首</small>]] </div>
+{| style="width:100%; margin-bottom:2px; border-top:1px solid var(--border-color-content-added,#a3d3ff); background-color: var(--background-color-neutral-subtle,#f8f9fa);"
+|- 
+| 
+|}
+{| style="width:100%; margin-bottom:0px; border:1px solid var(--border-color-content-added,#a3d3ff); background-color: var(--background-color-progressive-subtle,#eaf3ff); text-align:center; font-size:small; color: inherit;"
+|-
+| style="width:20%; text-align:left;" | 全書始
+| style="width:60%;" |
+| style="width:20%; text-align:right;"| [[../卷00|下一卷▶]]
+|-
+| colspan=3; style="text-align:center;" | [[../]]
+|}
