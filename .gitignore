@@ -4,3 +4,8 @@ filelist.txt
 
 # Python cache
 scripts/__pycache__/
+# Local-only tooling and caches — never commit
+.wrangler/
+.sources/**/*.py
+.sources/**/*.mjs
+.sources/**/*.ttf
