@@ -9,11 +9,13 @@
 
 name: Deploy GitHub Pages
 
-# Manual trigger only (Actions → Deploy GitHub Pages → Run workflow).
-# Pushes do not auto-deploy; run this workflow to update the site.
-# The branch selected in the "Run workflow" dropdown is what gets
-# deployed (normally data).
+# Auto-deploys on every push to the default branch (data). Can also be
+# run manually (Actions → Deploy GitHub Pages → Run workflow), in which
+# case the branch selected in the dropdown is what gets deployed.
 on:
+  push:
+    branches:
+      - data
   workflow_dispatch:
 
 permissions:
