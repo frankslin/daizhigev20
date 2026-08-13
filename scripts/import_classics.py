@@ -376,6 +376,19 @@ def extract_text_metadata(content, filepath):
             'is_classical': False
         }
 
+def stringify_dicts_in_lists(value):
+    """将列表中的 dict 项（如 known_facsimile_editions 的 label/url 结构）转成字符串，
+    避免与 ES 中该字段已锁定的 text 类型（来自早期纯字符串写法）冲突导致索引失败。"""
+    if isinstance(value, list):
+        return [
+            ', '.join(f'{k}: {v}' for k, v in item.items()) if isinstance(item, dict)
+            else stringify_dicts_in_lists(item)
+            for item in value
+        ]
+    if isinstance(value, dict):
+        return {k: stringify_dicts_in_lists(v) for k, v in value.items()}
+    return value
+
 def process_markdown_file(filepath, base_dir):
     """处理单个Markdown文件 - 包含YAML元数据解析"""
     try:
@@ -406,7 +419,7 @@ def process_markdown_file(filepath, base_dir):
         # 解析Markdown和YAML
         parsed = parse_markdown_file(raw_content, filepath)
         content = parsed['content']
-        yaml_metadata = parsed['yaml_metadata']
+        yaml_metadata = stringify_dicts_in_lists(parsed['yaml_metadata'])
 
         # 清理和验证内容
         content = content.strip()
